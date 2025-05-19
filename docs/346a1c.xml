@@ -1,0 +1,178 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
+    <channel>
+        <title>PyTorch</title>
+        <link>https://pytorch.org</link>
+        
+        <item>
+            <id>https://pytorch.org/?p=4049</id>
+            <title>How OpenSynth Uses PyTorch to Accelerate Compute for Energy Modelling Applications</title>
+            <link>https://pytorch.org/blog/how-opensynth-uses-pytorch-to-accelerate-compute-for-energy-modelling-applications/</link>
+            <guid isPermaLink="false">https://pytorch.org/?p=4049</guid>
+            <pubDate></pubDate>
+            <updated>Wed, 14 May 2025 13:00:36 +0000</updated>
+                
+                
+            <content:encoded>
+                <![CDATA[
+                    
+                    OpenSynth has recently leveraged PyTorch to improve the experience of its users and community. OpenSynth is an open source community hosted by LF Energy that is democratising access to synthetic...
+                ]]>
+            </content:encoded>
+        </item>
+        
+        <item>
+            <id>https://pytorch.org/?p=4158</id>
+            <title>PyTorch/XLA 2.7 Release Usability, vLLM boosts, JAX bridge, GPU Build</title>
+            <link>https://pytorch.org/blog/pytorch-xla-2-7-release-usability-vllm-boosts-jax-bridge-gpu-build/</link>
+            <guid isPermaLink="false">https://pytorch.org/?p=4158</guid>
+            <pubDate></pubDate>
+            <updated>Wed, 14 May 2025 01:47:53 +0000</updated>
+                
+                
+            <content:encoded>
+                <![CDATA[
+                    
+                    PyTorch/XLA is a Python package that uses the XLA deep learning compiler to enable PyTorch deep learning workloads on various hardware backends, including Google Cloud TPUs, GPUs, and AWS Inferentia/Trainium....
+                ]]>
+            </content:encoded>
+        </item>
+        
+        <item>
+            <id>https://pytorch.org/?p=4004</id>
+            <title>MetaShuffling: Accelerating Llama 4 MoE Inference</title>
+            <link>https://pytorch.org/blog/metashuffling-accelerating-llama-4-moe-inference/</link>
+            <guid isPermaLink="false">https://pytorch.org/?p=4004</guid>
+            <pubDate></pubDate>
+            <updated>Mon, 12 May 2025 22:25:53 +0000</updated>
+                
+                
+            <content:encoded>
+                <![CDATA[
+                    
+                    Mixture-of-Experts (MoE) is a popular model architecture for large language models (LLMs). Although it reduces computation in training and inference by activating fewer parameters per token, it imposes additional challenges...
+                ]]>
+            </content:encoded>
+        </item>
+        
+        <item>
+            <id>https://pytorch.org/?p=4053</id>
+            <title>PyTorch Foundation at MLSys 2025</title>
+            <link>https://pytorch.org/blog/pytorch-foundation-at-mlsys-2025/</link>
+            <guid isPermaLink="false">https://pytorch.org/?p=4053</guid>
+            <pubDate></pubDate>
+            <updated>Mon, 12 May 2025 19:44:11 +0000</updated>
+                
+                
+            <content:encoded>
+                <![CDATA[
+                    
+                    PyTorch Foundation at MLSys 2025: Supporting the Future of Machine Learning Systems The PyTorch Foundation is proud to support MLSys 2025 as a Gold Sponsor. Held May 12–15 in Santa...
+                ]]>
+            </content:encoded>
+        </item>
+        
+        <item>
+            <id>https://pytorch.org/?p=3995</id>
+            <title>Introducing the PyTorch Ambassador Program: A Global Network of Community Leaders</title>
+            <link>https://pytorch.org/blog/introducing-the-pytorch-ambassador-program-a-global-network-of-community-leaders/</link>
+            <guid isPermaLink="false">https://pytorch.org/?p=3995</guid>
+            <pubDate></pubDate>
+            <updated>Fri, 09 May 2025 13:40:39 +0000</updated>
+                
+                
+            <content:encoded>
+                <![CDATA[
+                    
+                    The PyTorch Foundation is proud to launch the PyTorch Ambassador Program, an initiative that recognizes and supports individuals who are passionate about building, educating, and advocating for PyTorch in impactful...
+                ]]>
+            </content:encoded>
+        </item>
+        
+        <item>
+            <id>https://pytorch.org/?p=3647</id>
+            <title>PyTorch Foundation Expands to Umbrella Foundation and Welcomes vLLM and DeepSpeed Projects</title>
+            <link>https://pytorch.org/blog/press-release-pytorch-foundation-expands-welcomes-projects-vllm-deepspeed/</link>
+            <guid isPermaLink="false">https://pytorch.org/?p=3647</guid>
+            <pubDate></pubDate>
+            <updated>Wed, 07 May 2025 07:01:26 +0000</updated>
+                
+                
+            <content:encoded>
+                <![CDATA[
+                    
+                    Expanded Foundation will Provide a Trusted and Vendor-Neutral Home for High-Impact and Innovative Open Source AI Projects PyTorch Day France, Paris, France – May 7, 2025 – The PyTorch Foundation,...
+                ]]>
+            </content:encoded>
+        </item>
+        
+        <item>
+            <id>https://pytorch.org/?p=3622</id>
+            <title>PyTorch Foundation Welcomes DeepSpeed as a Hosted Project</title>
+            <link>https://pytorch.org/blog/pytorch-foundation-welcomes-deepspeed-as-a-hosted-project/</link>
+            <guid isPermaLink="false">https://pytorch.org/?p=3622</guid>
+            <pubDate></pubDate>
+            <updated>Wed, 07 May 2025 07:00:46 +0000</updated>
+                
+                
+            <content:encoded>
+                <![CDATA[
+                    
+                    The PyTorch Foundation is excited to welcome DeepSpeed, a deep learning optimization library, as a PyTorch Foundation-hosted project. Contributed by Microsoft, DeepSpeed empowers developers to streamline distributed training and inference,...
+                ]]>
+            </content:encoded>
+        </item>
+        
+        <item>
+            <id>https://pytorch.org/?p=3632</id>
+            <title>PyTorch Foundation Welcomes vLLM as a Hosted Project</title>
+            <link>https://pytorch.org/blog/pytorch-foundation-welcomes-vllm/</link>
+            <guid isPermaLink="false">https://pytorch.org/?p=3632</guid>
+            <pubDate></pubDate>
+            <updated>Wed, 07 May 2025 07:00:21 +0000</updated>
+                
+                
+            <content:encoded>
+                <![CDATA[
+                    
+                    The PyTorch Foundation is excited to welcome vLLM as a PyTorch Foundation-hosted project. Contributed by the University of California – Berkeley, vLLM is a high-throughput, memory-efficient inference and serving engine...
+                ]]>
+            </content:encoded>
+        </item>
+        
+        <item>
+            <id>https://pytorch.org/?p=3625</id>
+            <title>PyTorch: The Open Language of AI</title>
+            <link>https://pytorch.org/blog/pytorch-the-open-language-of-ai/</link>
+            <guid isPermaLink="false">https://pytorch.org/?p=3625</guid>
+            <pubDate></pubDate>
+            <updated>Wed, 07 May 2025 07:00:19 +0000</updated>
+                
+                
+            <content:encoded>
+                <![CDATA[
+                    
+                    Key takeaways: PyTorch today powers the generative AI world with major AI players like Meta, OpenAI, Microsoft, Amazon, Apple and many others building cutting edge AI systems. PyTorch has evolved...
+                ]]>
+            </content:encoded>
+        </item>
+        
+        <item>
+            <id>https://pytorch.org/?p=3875</id>
+            <title>Recap of the PyTorch Korea User Group Meetup: A Technical Conference with a PyTorch Core Maintainer</title>
+            <link>https://pytorch.org/blog/pt-korea-user-group-recap/</link>
+            <guid isPermaLink="false">https://pytorch.org/?p=3875</guid>
+            <pubDate></pubDate>
+            <updated>Mon, 05 May 2025 19:45:25 +0000</updated>
+                
+                
+            <content:encoded>
+                <![CDATA[
+                    
+                    At the end of March, the PyTorch Korea User Group hosted a special meetup that brought together prominent speakers for deep discussions on the PyTorch core and its broader ecosystem....
+                ]]>
+            </content:encoded>
+        </item>
+        
+    </channel>
+</rss>

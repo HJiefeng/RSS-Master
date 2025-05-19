@@ -1,0 +1,425 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
+    <channel>
+        <title>DZone Cloud Architecture Zone</title>
+        <link>https://dzone.com/cloud-architecture</link>
+        
+        <item>
+            <id>https://dzone.com/articles/3527660</id>
+            <title>Infrastructure as Code (IaC) Beyond the Basics</title>
+            <link>https://feeds.dzone.com/link/23561/17032466/infrastructure-as-code-iac-beyond-the-basics</link>
+            <guid isPermaLink="false">https://dzone.com/articles/3527660</guid>
+            <pubDate></pubDate>
+            <updated>Fri, 16 May 2025 21:00:00 GMT</updated>
+                
+            <media:thumbnail url="https://dz2cdn1.dzone.com/thumbnail?fid=18401549&amp;w=600"/>
+                
+                
+            <content:encoded>
+                <![CDATA[
+                    
+                    <p>Infrastructure as Code, or IaC, is now an inalienable part of the majority of modern cloud-native projects. Previously, generation of scripts for configuration and using your environments as a moving target has been tiresome. Then came advanced tooling with even stronger assurance for a standardized, stable, and scalable setup.&nbsp;</p>
+<p>Nevertheless, most teams are still at the ‘hello world’ stage of IaC, with little understanding of how to level up and manage, organize, and govern it as the work progresses. This article aims to discuss how to maximize the use of IaC — focusing on the organization of modules, versioning, and policy.</p><img height="1" src="https://feeds.dzone.com/link/23561/17032466.gif" width="1" />
+                ]]>
+            </content:encoded>
+        </item>
+        
+        <item>
+            <id>https://dzone.com/articles/3540603</id>
+            <title>AWS to Azure Migration: A Cloudy Journey of Challenges and Triumphs</title>
+            <link>https://feeds.dzone.com/link/23561/17031794/aws-to-azure-migration-challenges-and-success</link>
+            <guid isPermaLink="false">https://dzone.com/articles/3540603</guid>
+            <pubDate></pubDate>
+            <updated>Thu, 15 May 2025 22:00:00 GMT</updated>
+                
+            <media:thumbnail url="https://dz2cdn1.dzone.com/thumbnail?fid=18405178&amp;w=600"/>
+                
+                
+            <content:encoded>
+                <![CDATA[
+                    
+                    <p><span lang="EN-IN">So, you are considering migrating your infrastructure from AWS to Azure? Congratulations! You have officially joined the ranks of people who thought a simple cloud swap was a quick weekend project — and now you’re probably questioning your life choices. But don’t worry, it is not as crazy as it sounds. In fact, it can be a pretty smooth ride if you know what you’re getting into (or at least, if you have a strong coffee supply).</span><span>&nbsp;</span></p>
+<p><span lang="EN-IN">The cloud wars are heating up. AWS has been the big player for years, and Azure has been right there, lurking, always trying to steal the spotlight. But sometimes, you realize the place you have been renting is just not quite the right fit anymore. Maybe AWS is too complicated. Or maybe Azure just offers a few things that AWS cannot (no, really, it happens). Whatever the reason, migrating from&nbsp;</span><a href="https://dzone.com/articles/aws-vs-azure-which-is-better-for-cloud-computing"><span lang="EN-IN">AWS to Azure</span></a><span lang="EN-IN">&nbsp;is not something to shy away from — unless, of course, you have something else to do like binge-watch an entire season of your favorite show.&nbsp;</span></p><img height="1" src="https://feeds.dzone.com/link/23561/17031794.gif" width="1" />
+                ]]>
+            </content:encoded>
+        </item>
+        
+        <item>
+            <id>https://dzone.com/articles/3562310</id>
+            <title>Detection and Mitigation of Lateral Movement in Cloud Networks</title>
+            <link>https://feeds.dzone.com/link/23561/17031675/detection-mitigation-lateral-movement-cloud-networks</link>
+            <guid isPermaLink="false">https://dzone.com/articles/3562310</guid>
+            <pubDate></pubDate>
+            <updated>Thu, 15 May 2025 19:00:00 GMT</updated>
+                
+            <media:thumbnail url="https://dz2cdn1.dzone.com/thumbnail?fid=18402475&amp;w=600"/>
+                
+                
+            <content:encoded>
+                <![CDATA[
+                    
+                    <h2 style="text-align: left;">How Hackers Bypass Lateral Movement Detection (And How to Stop Them)</h2>
+<p>Detecting lateral movement has emerged as a crucial cybersecurity challenge today. Attackers who breach network perimeters follow a five-step process. They start with reconnaissance, move to their original compromise, spread laterally, establish persistence, and finally achieve their objectives. This systematic approach lets them quietly move through systems while they hunt for sensitive data and expand their control.</p>
+<p style="text-align: left;">Security teams must understand hackers' techniques to spot lateral movement quickly. Attackers commonly use pass-the-hash attacks, remote execution, privilege escalation, Kerberoasting, and targeted phishing campaigns. Traditional security measures struggle to stop these sophisticated lateral movement techniques. Most organizations only spot breaches after attackers have caused substantial damage.</p><img height="1" src="https://feeds.dzone.com/link/23561/17031675.gif" width="1" />
+                ]]>
+            </content:encoded>
+        </item>
+        
+        <item>
+            <id>https://dzone.com/articles/3556157</id>
+            <title>Optimizing Integration Workflows With Spark Structured Streaming and Cloud Services</title>
+            <link>https://feeds.dzone.com/link/23561/17031618/streaming-integration-workflows-spark-cloud</link>
+            <guid isPermaLink="false">https://dzone.com/articles/3556157</guid>
+            <pubDate></pubDate>
+            <updated>Thu, 15 May 2025 18:00:00 GMT</updated>
+                
+            <media:thumbnail url="https://dz2cdn1.dzone.com/thumbnail?fid=18402472&amp;w=600"/>
+                
+                
+            <content:encoded>
+                <![CDATA[
+                    
+                    <p dir="ltr">Data is everywhere and moving faster than ever before. If you are processing logs from millions of IoT devices, tracking customer behavior on an e-commerce site, or monitoring stock market changes in real time, your ability to integrate and process this data quickly and efficiently can mean the difference between your business succeeding or failing.</p>
+<p><a href="https://dzone.com/articles/spark-structured-streaming-using-java">Spark Structured Streaming</a> comes in handy here. The combination of scalability offered by cloud services and the ability to handle real-time data streams makes it a powerful tool for optimizing integration workflows. Let's see how these two technologies can be used to design robust, high-performing data pipelines and how to deal with the actual world scenario of dealing with continuous data.</p><img height="1" src="https://feeds.dzone.com/link/23561/17031618.gif" width="1" />
+                ]]>
+            </content:encoded>
+        </item>
+        
+        <item>
+            <id>https://dzone.com/articles/3557394</id>
+            <title>Cosmos DB Disaster Recovery: Multi-Region Write Pitfalls and How to Evade Them</title>
+            <link>https://feeds.dzone.com/link/23561/17031028/cosmos-db-disaster-recovery</link>
+            <guid isPermaLink="false">https://dzone.com/articles/3557394</guid>
+            <pubDate></pubDate>
+            <updated>Wed, 14 May 2025 22:00:00 GMT</updated>
+                
+            <media:thumbnail url="https://dz2cdn1.dzone.com/thumbnail?fid=18401586&amp;w=600"/>
+                
+                
+            <content:encoded>
+                <![CDATA[
+                    
+                    <h2>Introduction</h2>
+<p>Azure Cosmos DB is an excellent global distributed, multi-model database service for high availability, low-latency access, and straightforward scalability. One of its most prominent characteristics is multi-region writes, whereby your applications write to the nearest regional replica, which greatly boosts performance and resilience.</p>
+<p>But here's the catch: enabling multi-region writes also introduces new challenges, especially when you're architecting for disaster recovery (DR). Without careful planning, you can end up with data conflicts, unplanned downtime, or even data loss.</p><img height="1" src="https://feeds.dzone.com/link/23561/17031028.gif" width="1" />
+                ]]>
+            </content:encoded>
+        </item>
+        
+        <item>
+            <id>https://dzone.com/articles/3564931</id>
+            <title>A Simple, Convenience Package for the Azure Cosmos DB Go SDK</title>
+            <link>https://feeds.dzone.com/link/23561/17030749/azure-cosmos-db-go-sdk-helper</link>
+            <guid isPermaLink="false">https://dzone.com/articles/3564931</guid>
+            <pubDate></pubDate>
+            <updated>Wed, 14 May 2025 14:00:00 GMT</updated>
+                
+            <media:thumbnail url="https://dz2cdn1.dzone.com/thumbnail?fid=18399564&amp;w=600"/>
+                
+                
+            <content:encoded>
+                <![CDATA[
+                    
+                    <p>When using the Go SDK for the Azure Cosmos DB NoSQL API, I often find myself writing boilerplate code for various operations. This includes database/container operations, querying, and more. The cosmosdb-go-sdk-helper (I know, not a great name!) is a package with convenience functions for some of these tasks.</p>
+<p>In this blog post, I will go over the packages in the repository with examples on how (and when) you can use them. It's early days for this project, but I hope to keep adding to it gradually.</p><img height="1" src="https://feeds.dzone.com/link/23561/17030749.gif" width="1" />
+                ]]>
+            </content:encoded>
+        </item>
+        
+        <item>
+            <id>https://dzone.com/articles/3557169</id>
+            <title>AI-Based Threat Detection in Cloud Security</title>
+            <link>https://feeds.dzone.com/link/23561/17029129/ai-based-threat-detection-in-cloud-security</link>
+            <guid isPermaLink="false">https://dzone.com/articles/3557169</guid>
+            <pubDate></pubDate>
+            <updated>Mon, 12 May 2025 18:00:00 GMT</updated>
+                
+            <media:thumbnail url="https://dz2cdn1.dzone.com/thumbnail?fid=18393365&amp;w=600"/>
+                
+                
+            <content:encoded>
+                <![CDATA[
+                    
+                    <h2 style="text-align: left;">Abstract</h2>
+<p style="text-align: left;">This article explores how artificial intelligence (AI) is enhancing threat detection in cloud certificate environments. It explicates how dissimilar AI modeling, such as supervised, unsupervised, and reinforcement learning, is used to describe and respond to security measures and threats in cloud environments.&nbsp;</p>
+<p style="text-align: left;">The article also wraps up the architecture of AI-powered security systems, including data compendium, model training, and feedback loops. It highlights real-world use cases like insider threat spotting and explains how emerging technologies like large language models (LLMs) and self-healing systems determine the future of cloud security. Technical, simple, and concise, the article offers deep insight into the practical deployment and limitations of AI in real-time cloud defense systems.</p><img height="1" src="https://feeds.dzone.com/link/23561/17029129.gif" width="1" />
+                ]]>
+            </content:encoded>
+        </item>
+        
+        <item>
+            <id>https://dzone.com/articles/3545412</id>
+            <title>Immutable Secrets Management: A Zero-Trust Approach to Sensitive Data in Containers</title>
+            <link>https://feeds.dzone.com/link/23561/17026916/immutable-secrets-management-zero-trust-approach</link>
+            <guid isPermaLink="false">https://dzone.com/articles/3545412</guid>
+            <pubDate></pubDate>
+            <updated>Fri, 09 May 2025 15:00:00 GMT</updated>
+                
+            <media:thumbnail url="https://dz2cdn1.dzone.com/thumbnail?fid=18385792&amp;w=600"/>
+                
+                
+            <content:encoded>
+                <![CDATA[
+                    
+                    <h2><strong>Abstract</strong></h2>
+<p>This paper presents a comprehensive approach to securing sensitive data in containerized environments using the principle of immutable secrets management, grounded in a Zero-Trust security model. We detail the inherent risks of traditional secrets management, demonstrate how immutability and Zero-Trust principles mitigate these risks, and provide a practical, step-by-step guide to implementation. A real-world case study using AWS services and common DevOps tools illustrates the tangible benefits of this approach, aligning with the criteria for the Global Tech Awards in the DevOps Technology category. The focus is on achieving continuous delivery, security, and resilience through a novel concept we term "ChaosSecOps."</p>
+<h2><strong>Executive Summary</strong></h2>
+<p>This paper details a robust, innovative approach to securing sensitive data within containerized environments: Immutable Secrets Management with a Zero-Trust approach. We address the critical vulnerabilities inherent in traditional secrets management practices, which often rely on mutable secrets and implicit trust. Our solution, grounded in the principles of Zero-Trust security, immutability, and DevSecOps, ensures that secrets are inextricably linked to container images, minimizing the risk of exposure and unauthorized access.</p><img height="1" src="https://feeds.dzone.com/link/23561/17026916.gif" width="1" />
+                ]]>
+            </content:encoded>
+        </item>
+        
+        <item>
+            <id>https://dzone.com/articles/3541901</id>
+            <title>Mastering Advanced Traffic Management in Multi-Cloud Kubernetes: Scaling With Multiple Istio Ingress Gateways</title>
+            <link>https://feeds.dzone.com/link/23561/17026491/scaling-multiple-istio-ingress-gateways</link>
+            <guid isPermaLink="false">https://dzone.com/articles/3541901</guid>
+            <pubDate></pubDate>
+            <updated>Thu, 08 May 2025 21:00:00 GMT</updated>
+                
+            <media:thumbnail url="https://dz2cdn1.dzone.com/thumbnail?fid=18392758&amp;w=600"/>
+                
+                
+            <content:encoded>
+                <![CDATA[
+                    
+                    <p>In my experience managing large-scale Kubernetes deployments across multi-cloud platforms, traffic control often becomes a critical bottleneck, especially when dealing with mixed workloads like APIs, UIs, and transactional systems. While Istio’s default ingress gateway does a decent job, I found that relying on a single gateway can introduce scaling and isolation challenges.</p>
+<p>That’s where configuring multiple Istio Ingress Gateways can make a real difference. In this article, I’ll walk you through how I approached this setup, what benefits it unlocked for our team, and the hands-on steps we used, along with best practices and YAML configurations that you can adapt in your own clusters.</p><img height="1" src="https://feeds.dzone.com/link/23561/17026491.gif" width="1" />
+                ]]>
+            </content:encoded>
+        </item>
+        
+        <item>
+            <id>https://dzone.com/articles/3546218</id>
+            <title>Cloud Cost Optimization for ML Workloads With NVIDIA DCGM</title>
+            <link>https://feeds.dzone.com/link/23561/17026297/cloud-cost-optimization-for-ml-workloads</link>
+            <guid isPermaLink="false">https://dzone.com/articles/3546218</guid>
+            <pubDate></pubDate>
+            <updated>Thu, 08 May 2025 17:00:00 GMT</updated>
+                
+            <media:thumbnail url="https://dz2cdn1.dzone.com/thumbnail?fid=18385622&amp;w=600"/>
+                
+                
+            <content:encoded>
+                <![CDATA[
+                    
+                    <h2>Introduction</h2>
+<p>Running <a href="https://dzone.com/ai-ml">machine learning</a> (ML) workloads in the cloud can become prohibitively expensive when teams overlook resource orchestration. Large-scale data ingestion, GPU-based inference, and ephemeral tasks often rack up unexpected fees. This article offers a detailed look at advanced strategies for cost management, including:</p>
+<ul>
+ <li>Dynamic Extract, Transfer, Load (ETL) schedules using <strong>SQL triggers&nbsp;</strong>and partitioning</li>
+ <li>Time-series modeling—Seasonal Autoregressive Integrated Moving Average<em>&nbsp;(</em>SARIMA) and Prophet—with hyperparameter tuning</li>
+ <li>GPU provisioning with <strong>NVIDIA DCGM</strong> and multi-instance GPU configurations</li>
+ <li>In-depth autoscaling examples for AI services</li>
+</ul>
+<p>Our team reduced expenses by 48% while maintaining performance for large ML pipelines. This guide outlines our process in code.</p><img height="1" src="https://feeds.dzone.com/link/23561/17026297.gif" width="1" />
+                ]]>
+            </content:encoded>
+        </item>
+        
+        <item>
+            <id>https://dzone.com/articles/3563307</id>
+            <title>How to Configure and Customize the Go SDK for Azure Cosmos DB</title>
+            <link>https://feeds.dzone.com/link/23561/17026129/configure-customize-go-sdk-azure-cosmos-db</link>
+            <guid isPermaLink="false">https://dzone.com/articles/3563307</guid>
+            <pubDate></pubDate>
+            <updated>Thu, 08 May 2025 16:00:00 GMT</updated>
+                
+            <media:thumbnail url="https://dz2cdn1.dzone.com/thumbnail?fid=18386707&amp;w=600"/>
+                
+                
+            <content:encoded>
+                <![CDATA[
+                    
+                    <p>The Go SDK for Azure Cosmos DB is built on top of the core Azure Go SDK package, which implements several patterns that are applied throughout the SDK. The core SDK is designed to be quite customizable, and its configurations can be applied with the ClientOptions struct when creating a new Cosmos DB client object using NewClient (and other similar functions).</p>
+<p>If you peek inside the <a href="https://pkg.go.dev/github.com/Azure/azure-sdk-for-go/sdk/azcore/policy#ClientOptions" rel="noopener noreferrer" target="_blank">azcore.ClientOptions</a> struct, you will notice that it has many options for configuring the HTTP client, retry policies, timeouts, and other settings. In this blog, we will cover how to make use of (and extend) these common options when building applications with the Go SDK for Cosmos DB.</p><img height="1" src="https://feeds.dzone.com/link/23561/17026129.gif" width="1" />
+                ]]>
+            </content:encoded>
+        </item>
+        
+        <item>
+            <id>https://dzone.com/articles/3539908</id>
+            <title>Start Coding With Google Cloud Workstations</title>
+            <link>https://feeds.dzone.com/link/23561/17026034/google-cloud-workstations</link>
+            <guid isPermaLink="false">https://dzone.com/articles/3539908</guid>
+            <pubDate></pubDate>
+            <updated>Thu, 08 May 2025 13:00:00 GMT</updated>
+                
+            <media:thumbnail url="https://dz2cdn1.dzone.com/thumbnail?fid=18391385&amp;w=600"/>
+                
+                
+            <content:encoded>
+                <![CDATA[
+                    
+                    <p>Google Cloud Workstations provide powerful, managed solutions for modern software development. By offering secure, consistent, and accessible cloud-based development environments, they tackle common frustrations associated with local setups, like configuration drift, dependency issues, and security concerns. Utilizing containerization and Google Cloud's scalable infrastructure, Workstations empower developers to code from anywhere with their favorite IDEs, guaranteeing a standardized and secure workflow. This approach simplifies developer onboarding, boosts collaboration, and significantly increases productivity by shifting the focus from environment management to writing code.</p>
+<h2>Prerequisites</h2>
+<p>Enable the Cloud Workstations API: Before you begin, ensure the necessary API is active. Go to the Google Cloud Console's APIs &amp; Services section. Search for and enable the "Cloud Workstations API" if it is not currently enabled.</p><img height="1" src="https://feeds.dzone.com/link/23561/17026034.gif" width="1" />
+                ]]>
+            </content:encoded>
+        </item>
+        
+        <item>
+            <id>https://dzone.com/articles/3540790</id>
+            <title>Building Enterprise-Ready Landing Zones: Beyond the Initial Setup</title>
+            <link>https://feeds.dzone.com/link/23561/17025593/build-enterprise-ready-landing-zones</link>
+            <guid isPermaLink="false">https://dzone.com/articles/3540790</guid>
+            <pubDate></pubDate>
+            <updated>Wed, 07 May 2025 21:00:01 GMT</updated>
+                
+            <media:thumbnail url="https://dz2cdn1.dzone.com/thumbnail?fid=18384016&amp;w=600"/>
+                
+                
+            <content:encoded>
+                <![CDATA[
+                    
+                    <h2>Introduction</h2>
+<p>Cloud providers offer baseline landing zone frameworks, but successful implementation requires strategic customization tailored to an organization’s specific security, compliance, operations, and cost-management needs. Treating a <a href="https://dzone.com/articles/secure-landing-zones-guide">landing zone</a> as a turnkey solution can lead to security gaps and operational inefficiencies. Instead, enterprises should carefully design and continuously refine their landing zones to build a secure, scalable, and efficient foundation for cloud adoption.</p>
+<h2>Planning Factors for Enterprise Cloud Landing Zone</h2>
+<p>When designing a cloud landing zone, organizations must carefully evaluate the following key factors to establish a robust and efficient foundation before deploying business applications to the new cloud platform:</p><img height="1" src="https://feeds.dzone.com/link/23561/17025593.gif" width="1" />
+                ]]>
+            </content:encoded>
+        </item>
+        
+        <item>
+            <id>https://dzone.com/articles/3539626</id>
+            <title>Event-Driven Architectures: Designing Scalable and Resilient Cloud Solutions</title>
+            <link>https://feeds.dzone.com/link/23561/17025539/event-driven-architectures-cloud-solutions</link>
+            <guid isPermaLink="false">https://dzone.com/articles/3539626</guid>
+            <pubDate></pubDate>
+            <updated>Wed, 07 May 2025 20:00:00 GMT</updated>
+                
+            <media:thumbnail url="https://dz2cdn1.dzone.com/thumbnail?fid=18384007&amp;w=600"/>
+                
+                
+            <content:encoded>
+                <![CDATA[
+                    
+                    <p>Event-driven architectures (EDA) have been a cornerstone in designing cloud systems that are future-proofed, scalable, resilient, and sustainable in nature. EDA is interested in generation, capture, and response to events and nothing more, not even in traditional systems of request-response. The paradigm is most suitable to systems that require high decoupling, elasticity, and fault tolerance.&nbsp;</p>
+<p>In this article, I'll be discussing the technical details of event-driven architectures, along with snippets of code, patterns, and practical strategies of implementation. Let's get started!</p><img height="1" src="https://feeds.dzone.com/link/23561/17025539.gif" width="1" />
+                ]]>
+            </content:encoded>
+        </item>
+        
+        <item>
+            <id>https://dzone.com/articles/3534438</id>
+            <title>Kubeflow: Driving Scalable and Intelligent Machine Learning Systems</title>
+            <link>https://feeds.dzone.com/link/23561/17023757/kubeflow-driving-scalable-machine-learning-systems</link>
+            <guid isPermaLink="false">https://dzone.com/articles/3534438</guid>
+            <pubDate></pubDate>
+            <updated>Wed, 07 May 2025 12:00:00 GMT</updated>
+                
+            <media:thumbnail url="https://dz2cdn1.dzone.com/thumbnail?fid=18382269&amp;w=600"/>
+                
+                
+            <content:encoded>
+                <![CDATA[
+                    
+                    <p>Kubeflow is a powerful cloud-native platform designed to simplify every stage of the <a href="https://dzone.com/articles/steps-of-the-machine-learning-life-cycle">Machine Learning Development Lifecycle (MDLC)</a>. From data exploration and feature engineering to model training, tuning, serving, testing, and versioning, Kubeflow brings it all together in one seamless ecosystem. By integrating traditionally siloed tools, it ensures that your machine learning workflows run smoothly from start to finish.</p>
+<p>One of the standout features of Kubeflow is its pipeline system, which allows users to create end-to-end workflows that connect each stage of the MDLC. These pipelines make it easy to design, test, and deploy machine learning projects while maintaining efficiency and consistency.&nbsp;</p><img height="1" src="https://feeds.dzone.com/link/23561/17023757.gif" width="1" />
+                ]]>
+            </content:encoded>
+        </item>
+        
+        <item>
+            <id>https://dzone.com/articles/3545414</id>
+            <title>Unlocking the Potential of Apache Iceberg: A Comprehensive Analysis</title>
+            <link>https://feeds.dzone.com/link/23561/17023198/unlocking-the-potential-of-apache-iceberg</link>
+            <guid isPermaLink="false">https://dzone.com/articles/3545414</guid>
+            <pubDate></pubDate>
+            <updated>Tue, 06 May 2025 18:00:00 GMT</updated>
+                
+            <media:thumbnail url="https://dz2cdn1.dzone.com/thumbnail?fid=18381430&amp;w=600"/>
+                
+                
+            <content:encoded>
+                <![CDATA[
+                    
+                    <p dir="ltr">Apache Iceberg has emerged as a pioneering open table format, &nbsp;revolutionising data management by addressing big challenges. In this article, we'll delve into Iceberg's capabilities, discuss its limitations, and explore the implications for data architects.</p>
+<h2 dir="ltr">A Brief History Lesson: Hadoop's Legacy</h2>
+<p dir="ltr"><a href="https://dzone.com/articles/hadoop-ecosystem-hadoop-tools-for-crunching-big-da">Hadoop</a>, once hailed as a groundbreaking solution, ultimately failed to live up to its expectations due to its inherent complexity. Many organizations struggled to navigate distributed clusters, fine-tune configurations, and mitigate issues like data fragmentation. Iceberg aims to learn from Hadoop's mistakes and provide a more streamlined and efficient solution.</p><img height="1" src="https://feeds.dzone.com/link/23561/17023198.gif" width="1" />
+                ]]>
+            </content:encoded>
+        </item>
+        
+        <item>
+            <id>https://dzone.com/articles/3535339</id>
+            <title>Hybrid Cloud vs Multi-Cloud: Choosing the Right Strategy for AI Scalability and Security</title>
+            <link>https://feeds.dzone.com/link/23561/17023081/hybrid-cloud-vs-multi-cloud</link>
+            <guid isPermaLink="false">https://dzone.com/articles/3535339</guid>
+            <pubDate></pubDate>
+            <updated>Tue, 06 May 2025 15:00:05 GMT</updated>
+                
+            <media:thumbnail url="https://dz2cdn1.dzone.com/thumbnail?fid=18381411&amp;w=600"/>
+                
+                
+            <content:encoded>
+                <![CDATA[
+                    
+                    <p><span lang="EN-US">As enterprises accelerate AI adoption, their cloud strategy determines whether they can efficiently train models, scale workloads, and ensure compliance. Given the computational intensity and data sensitivity of AI, businesses must choose between hybrid cloud and multi-cloud architectures. While both hybrid cloud and multi-cloud approaches offer distinct advantages, understanding their nuances is crucial for organizations aiming to build robust AI infrastructure.&nbsp;</span></p>
+<p><span lang="EN-US">This article explores the key differences between these strategies and provides practical guidance for enterprises preparing for AI adoption.</span><span>&nbsp;</span></p><img height="1" src="https://feeds.dzone.com/link/23561/17023081.gif" width="1" />
+                ]]>
+            </content:encoded>
+        </item>
+        
+        <item>
+            <id>https://dzone.com/articles/3561327</id>
+            <title>Unlocking the Benefits of a Private API in AWS API Gateway</title>
+            <link>https://feeds.dzone.com/link/23561/17022389/private-api-aws-gateway</link>
+            <guid isPermaLink="false">https://dzone.com/articles/3561327</guid>
+            <pubDate></pubDate>
+            <updated>Mon, 05 May 2025 17:00:00 GMT</updated>
+                
+            <media:thumbnail url="https://dz2cdn1.dzone.com/thumbnail?fid=18378864&amp;w=600"/>
+                
+                
+            <content:encoded>
+                <![CDATA[
+                    
+                    <p>AWS API Gateway is a managed service to create, publish, and manage APIs. It serves as a bridge between your applications and backend services. When creating APIs for our backend services, we tend to open it up using public IPs. Yes, we do authenticate and authorize access. However, oftentimes it is seen that a particular API is meant for internal applications only. In such cases it would be great to declare these as private.</p>
+<p>Public APIs expose your services to a broader audience over the internet and thus come with risks related to data exposure and unauthorized access. On the other hand, private APIs are meant for internal consumption only. This provides an additional layer of security and eliminates the risk of potential data theft and unauthorized access.</p><img height="1" src="https://feeds.dzone.com/link/23561/17022389.gif" width="1" />
+                ]]>
+            </content:encoded>
+        </item>
+        
+        <item>
+            <id>https://dzone.com/articles/3562311</id>
+            <title>Mastering Fluent Bit: Installing and Configuring Fluent Bit on Kubernetes (Part 3)</title>
+            <link>https://feeds.dzone.com/link/23561/17022217/installing-configuring-fluent-bit-kubernetes</link>
+            <guid isPermaLink="false">https://dzone.com/articles/3562311</guid>
+            <pubDate></pubDate>
+            <updated>Mon, 05 May 2025 13:00:00 GMT</updated>
+                
+            <media:thumbnail url="https://dz2cdn1.dzone.com/thumbnail?fid=18377778&amp;w=600"/>
+                
+                
+            <content:encoded>
+                <![CDATA[
+                    
+                    <p>This series is a general-purpose getting-started guide for those of us who want to learn about the Cloud Native Computing Foundation (CNCF) project Fluent Bit.&nbsp;</p>
+<p>Each article in this series addresses a single topic by providing insights into <em>what</em> the topic is, <em>why</em> we are interested in exploring that topic, <em>where</em> to get started with the topic, and <em>how&nbsp;</em>to get hands-on with learning about the topic as it relates to the Fluent Bit project.</p><img height="1" src="https://feeds.dzone.com/link/23561/17022217.gif" width="1" />
+                ]]>
+            </content:encoded>
+        </item>
+        
+        <item>
+            <id>https://dzone.com/articles/3555618</id>
+            <title>Microsoft Azure Synapse Analytics: Scaling Hurdles and Limitations</title>
+            <link>https://feeds.dzone.com/link/23561/17020954/microsoft-azure-synapse-analytics-scaling-hurdles</link>
+            <guid isPermaLink="false">https://dzone.com/articles/3555618</guid>
+            <pubDate></pubDate>
+            <updated>Fri, 02 May 2025 20:00:00 GMT</updated>
+                
+            <media:thumbnail url="https://dz2cdn1.dzone.com/thumbnail?fid=18377728&amp;w=600"/>
+                
+                
+            <content:encoded>
+                <![CDATA[
+                    
+                    <p style="text-align: left;">Azure Synapse Analytics is a strong tool for processing large amounts of data. It does have some scaling challenges that can slow things down as your data grows. There are also a few built-in restrictions that could limit what you’re able to do and affect both performance and overall functionality. So, while Synapse is powerful, it’s important to be aware of these potential roadblocks as you plan your projects.</p>
+<h2 style="text-align: left;">Data Distribution and Skew</h2>
+<p style="text-align: left;">Data skew remains a significant performance bottleneck in <a href="https://dzone.com/articles/azure-synapse-analytics-new-insights-into-data-sec">Synapse Analytics</a>. Poor distribution key selection can lead to:</p><img height="1" src="https://feeds.dzone.com/link/23561/17020954.gif" width="1" />
+                ]]>
+            </content:encoded>
+        </item>
+        
+    </channel>
+</rss>

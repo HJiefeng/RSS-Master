@@ -1,0 +1,348 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
+    <channel>
+        <title>AWS News Blog</title>
+        <link>https://aws.amazon.com/blogs/aws/</link>
+        
+        <item>
+            <id>ad2dfa58a5153494d2e4e9ee5ed6161d514e2c6f</id>
+            <title>New Amazon EC2 P6-B200 instances powered by NVIDIA Blackwell GPUs to accelerate AI innovations</title>
+            <link>https://aws.amazon.com/blogs/aws/new-amazon-ec2-p6-b200-instances-powered-by-nvidia-blackwell-gpus-to-accelerate-ai-innovations/</link>
+            <guid isPermaLink="false">ad2dfa58a5153494d2e4e9ee5ed6161d514e2c6f</guid>
+            <pubDate></pubDate>
+            <updated>Thu, 15 May 2025 22:47:07 +0000</updated>
+                
+                
+            <content:encoded>
+                <![CDATA[
+                    
+                    The P6-B200 EC2 instances powered by NVIDIA Blackwell B200 GPUs offer up to twice the performance of previous P5en instances for machine learning and high-performance computing workloads.
+                ]]>
+            </content:encoded>
+        </item>
+        
+        <item>
+            <id>e878a8feff4bb2d94d2bd4ce85ee53f5af773124</id>
+            <title>Accelerate CI/CD pipelines with the new AWS CodeBuild Docker Server capability</title>
+            <link>https://aws.amazon.com/blogs/aws/accelerate-ci-cd-pipelines-with-the-new-aws-codebuild-docker-server-capability/</link>
+            <guid isPermaLink="false">e878a8feff4bb2d94d2bd4ce85ee53f5af773124</guid>
+            <pubDate></pubDate>
+            <updated>Thu, 15 May 2025 19:12:33 +0000</updated>
+                
+                
+            <content:encoded>
+                <![CDATA[
+                    
+                    AWS CodeBuild now offers Docker Server capability, enabling a dedicated and persistent Docker server within projects that dramatically reduces build times by maintaining a centralized cache, as demonstrated by a 98% reduction in build time from 24 minutes to just 16 seconds.
+                ]]>
+            </content:encoded>
+        </item>
+        
+        <item>
+            <id>9e82fde9f5d93ff204203609f075916b7e3ffb06</id>
+            <title>Accelerate the modernization of Mainframe and VMware workloads with AWS Transform</title>
+            <link>https://aws.amazon.com/blogs/aws/accelerate-the-modernization-of-mainframe-and-vmware-workloads-with-aws-transform/</link>
+            <guid isPermaLink="false">9e82fde9f5d93ff204203609f075916b7e3ffb06</guid>
+            <pubDate></pubDate>
+            <updated>Thu, 15 May 2025 16:42:04 +0000</updated>
+                
+                
+            <content:encoded>
+                <![CDATA[
+                    
+                    AWS Transform leverages the power agentic AI to accelerate modernization of legacy workloads. It deploys specialized AI agents to automate complex tasks like code analysis, refactoring, decomposition, dependency mapping, validation, and transformation planning, dramatically reducing project timelines and helping organization modernize with greater confidence.
+                ]]>
+            </content:encoded>
+        </item>
+        
+        <item>
+            <id>166ee151878c2053b48b005e9d128dabea0a67dd</id>
+            <title>AWS Transform for .NET, the first agentic AI service for modernizing .NET applications at scale</title>
+            <link>https://aws.amazon.com/blogs/aws/aws-transform-for-net-the-first-agentic-ai-service-for-modernizing-net-applications-at-scale/</link>
+            <guid isPermaLink="false">166ee151878c2053b48b005e9d128dabea0a67dd</guid>
+            <pubDate></pubDate>
+            <updated>Thu, 15 May 2025 16:41:13 +0000</updated>
+                
+                
+            <content:encoded>
+                <![CDATA[
+                    
+                    Accelerate .NET modernization with agentic AI. AWS Transform for .NET speeds up large-scale modernization from .NET Framework to cross-platform .NET by up to 4x. With the .NET modernization agent, modernization teams can collaboratively execute larger and more complex projects with consistency, remove Windows license dependencies to reduce operating costs by up to 40%, and enhance code quality, performance, and security.
+                ]]>
+            </content:encoded>
+        </item>
+        
+        <item>
+            <id>31b7368b2fa8e86563fb64470f0e54f705c9b0e0</id>
+            <title>AWS Weekly Roundup: South America expansion, Q Developer in OpenSearch, and more (May 12, 2025)</title>
+            <link>https://aws.amazon.com/blogs/aws/aws-weekly-roundup-south-america-expansion-q-developer-in-opensearch-and-more-may-12-2025/</link>
+            <guid isPermaLink="false">31b7368b2fa8e86563fb64470f0e54f705c9b0e0</guid>
+            <pubDate></pubDate>
+            <updated>Mon, 12 May 2025 18:51:43 +0000</updated>
+                
+                
+            <content:encoded>
+                <![CDATA[
+                    
+                    I’ve always been fascinated by how quickly we’re able to stand up new Regions and Availability Zones at AWS. Today there are 36 launched Regions and 114 launched Availability Zones. That’s amazing! This past week at AWS was marked by significant expansion to our global infrastructure. The announcement of a new Region in the works […]
+                ]]>
+            </content:encoded>
+        </item>
+        
+        <item>
+            <id>52f0c5633b2cff994cf1f4668ca8e3b9cadbdb92</id>
+            <title>In the works – AWS South America (Chile) Region</title>
+            <link>https://aws.amazon.com/blogs/aws/coming-soon-aws-south-america-chile-region/</link>
+            <guid isPermaLink="false">52f0c5633b2cff994cf1f4668ca8e3b9cadbdb92</guid>
+            <pubDate></pubDate>
+            <updated>Wed, 07 May 2025 13:34:48 +0000</updated>
+                
+                
+            <content:encoded>
+                <![CDATA[
+                    
+                    AWS announces plans to launch a new AWS Region in Chile by the end of 2026 with three Availability Zones, marking the third AWS Region in Latin American alongside existing Regions in São Paulo and Mexico, and bringing AWS infrastructure and services closer to Chile including AI capabilities while supporting data residency requirements.
+                ]]>
+            </content:encoded>
+        </item>
+        
+        <item>
+            <id>bf2c0a3e719471f66f1502ccbf014a8227689876</id>
+            <title>Accelerate the transfer of data from an Amazon EBS snapshot to a new EBS volume</title>
+            <link>https://aws.amazon.com/blogs/aws/accelerate-the-transfer-of-data-from-an-amazon-ebs-snapshot-to-a-new-ebs-volume/</link>
+            <guid isPermaLink="false">bf2c0a3e719471f66f1502ccbf014a8227689876</guid>
+            <pubDate></pubDate>
+            <updated>Tue, 06 May 2025 21:52:26 +0000</updated>
+                
+                
+            <content:encoded>
+                <![CDATA[
+                    
+                    Amazon EBS introduces a new Provisioned Rate for Volume Initialization to accelerate data transfer from EBS snapshots to new EBS volumes by specifying a consistent volume initialization rate, improving workflow efficiency and predictability.
+                ]]>
+            </content:encoded>
+        </item>
+        
+        <item>
+            <id>1d0450f31c741d4ae51fcdff9efb4bd6f73510d7</id>
+            <title>AWS Weekly Roundup: Amazon Nova Premier, Amazon Q Developer, Amazon Q CLI, Amazon CloudFront, AWS Outposts, and more (May 5, 2025)</title>
+            <link>https://aws.amazon.com/blogs/aws/aws-weekly-roundup-amazon-nova-premier-amazon-q-developer-amazon-q-cli-amazon-cloudfront-aws-outposts-and-more-may-5-2025/</link>
+            <guid isPermaLink="false">1d0450f31c741d4ae51fcdff9efb4bd6f73510d7</guid>
+            <pubDate></pubDate>
+            <updated>Mon, 05 May 2025 16:25:03 +0000</updated>
+                
+                
+            <content:encoded>
+                <![CDATA[
+                    
+                    Last week I went to Thailand to attend the AWS Summit Bangkok. It was an energizing and exciting event. We hosted the Developer Lounge, where developers can meet, discuss ideas, enjoy lightning talks, win SWAGs at AWS Builder ID Prize Wheel, take a challenge at Amazon Q Developer Coding Challenge, or learn Generative AI at […]
+                ]]>
+            </content:encoded>
+        </item>
+        
+        <item>
+            <id>6d10f8f6de34d288a4f77a7277284a37e58dce95</id>
+            <title>Amazon Q Developer in GitHub (in preview) accelerates code generation</title>
+            <link>https://aws.amazon.com/blogs/aws/amazon-q-developer-in-github-now-in-preview-with-code-generation-review-and-legacy-transformation-capabilities/</link>
+            <guid isPermaLink="false">6d10f8f6de34d288a4f77a7277284a37e58dce95</guid>
+            <pubDate></pubDate>
+            <updated>Mon, 05 May 2025 16:05:58 +0000</updated>
+                
+                
+            <content:encoded>
+                <![CDATA[
+                    
+                    Amazon Q Developer is now available in preview on GitHub, enabling developers to assign tasks to an AI agent that can develop features, conduct code reviews, enhance security, and migrate Java code, all directly within GitHub issues.
+                ]]>
+            </content:encoded>
+        </item>
+        
+        <item>
+            <id>f3ff1bed68c2118a8d7bd68d42a69c816654807f</id>
+            <title>Amazon Q Developer elevates the IDE experience with new agentic coding experience</title>
+            <link>https://aws.amazon.com/blogs/aws/amazon-q-developer-elevates-the-ide-experience-with-new-agentic-coding-experience/</link>
+            <guid isPermaLink="false">f3ff1bed68c2118a8d7bd68d42a69c816654807f</guid>
+            <pubDate></pubDate>
+            <updated>Fri, 02 May 2025 16:02:26 +0000</updated>
+                
+                
+            <content:encoded>
+                <![CDATA[
+                    
+                    This new interactive, agentic coding experience for Visual Studio Code allows Q Developer to intelligently take actions on behalf of the developer.
+                ]]>
+            </content:encoded>
+        </item>
+        
+        <item>
+            <id>496773c478c81014d943125964afe6878996616a</id>
+            <title>Amazon Nova Premier: Our most capable model for complex tasks and teacher for model distillation</title>
+            <link>https://aws.amazon.com/blogs/aws/amazon-nova-premier-our-most-capable-model-for-complex-tasks-and-teacher-for-model-distillation/</link>
+            <guid isPermaLink="false">496773c478c81014d943125964afe6878996616a</guid>
+            <pubDate></pubDate>
+            <updated>Wed, 30 Apr 2025 23:50:08 +0000</updated>
+                
+                
+            <content:encoded>
+                <![CDATA[
+                    
+                    Nova Premier is designed to excel at complex tasks requiring deep context understanding, multistep planning, and coordination across tools and data sources. It has capabilities for processing text, images, and videos while also serving as a teacher model for distilling smaller, more efficient models for production use.
+                ]]>
+            </content:encoded>
+        </item>
+        
+        <item>
+            <id>2d9cdd400b07f9a523543476d36d63f2c6d94397</id>
+            <title>Announcing second-generation AWS Outposts racks with breakthrough performance and scalability on-premises</title>
+            <link>https://aws.amazon.com/blogs/aws/announcing-second-generation-aws-outposts-racks-with-breakthrough-performance-and-scalability-on-premises/</link>
+            <guid isPermaLink="false">2d9cdd400b07f9a523543476d36d63f2c6d94397</guid>
+            <pubDate></pubDate>
+            <updated>Tue, 29 Apr 2025 19:58:35 +0000</updated>
+                
+                
+            <content:encoded>
+                <![CDATA[
+                    
+                    AWS announces significant upgrades to Outposts racks, featuring the latest x86-powered EC2 instances and new accelerated networking options designed for ultra-low latency and high-throughput on-premises workloads.
+                ]]>
+            </content:encoded>
+        </item>
+        
+        <item>
+            <id>47b83d899ce1dd91c26cfb708c4449e01286edb4</id>
+            <title>Llama 4 models from Meta now available in Amazon Bedrock serverless</title>
+            <link>https://aws.amazon.com/blogs/aws/llama-4-models-from-meta-now-available-in-amazon-bedrock-serverless/</link>
+            <guid isPermaLink="false">47b83d899ce1dd91c26cfb708c4449e01286edb4</guid>
+            <pubDate></pubDate>
+            <updated>Tue, 29 Apr 2025 01:09:24 +0000</updated>
+                
+                
+            <content:encoded>
+                <![CDATA[
+                    
+                    Meta's newest AI models, Llama 4 Scout 17B and Llama 4 Maverick 17B, are now available as fully managed, serverless models in Amazon Bedrock, offering natively multimodal capabilities with enhanced reasoning, image understanding, and extended context processing for enterprise applications across multiple industries.
+                ]]>
+            </content:encoded>
+        </item>
+        
+        <item>
+            <id>8eb0b81cca96fae3102046c13f8bfea202ff6f2f</id>
+            <title>Reduce your operational overhead today with Amazon CloudFront SaaS Manager</title>
+            <link>https://aws.amazon.com/blogs/aws/reduce-your-operational-overhead-today-with-amazon-cloudfront-saas-manager/</link>
+            <guid isPermaLink="false">8eb0b81cca96fae3102046c13f8bfea202ff6f2f</guid>
+            <pubDate></pubDate>
+            <updated>Mon, 28 Apr 2025 20:51:07 +0000</updated>
+                
+                
+            <content:encoded>
+                <![CDATA[
+                    
+                    Amazon CloudFront SaaS Manager helps software-as-a-service (SaaS) providers and web hosting platforms efficiently manage delivery across multiple domains. CloudFront SaaS Manager can dramatically reduce operational complexity while providing high-performance content delivery and enterprise-grade security for every customer domain.
+                ]]>
+            </content:encoded>
+        </item>
+        
+        <item>
+            <id>5b9104e8332f63740117d5a2d9e3ef4526c1b05c</id>
+            <title>Writer Palmyra X5 and X4 foundation models are now available in Amazon Bedrock</title>
+            <link>https://aws.amazon.com/blogs/aws/writer-palmyra-x5-and-x4-foundation-models-are-now-available-in-amazon-bedrock/</link>
+            <guid isPermaLink="false">5b9104e8332f63740117d5a2d9e3ef4526c1b05c</guid>
+            <pubDate></pubDate>
+            <updated>Mon, 28 Apr 2025 17:37:19 +0000</updated>
+                
+                
+            <content:encoded>
+                <![CDATA[
+                    
+                    Writer's Palmyra X5 and X4 models in Amazon Bedrock features extensive context windows and enterprise-grade security for building sophisticated AI applications across multiple industries.
+                ]]>
+            </content:encoded>
+        </item>
+        
+        <item>
+            <id>0fd4b96612e1a643c688c35af4c87decf9b7671a</id>
+            <title>AWS Weekly Roundup: Amazon Q Developer, AWS Account Management updates, and more (April 28, 2025)</title>
+            <link>https://aws.amazon.com/blogs/aws/aws-weekly-roundup-amazon-q-developer-aws-account-management-updates-and-more-april-28-2025/</link>
+            <guid isPermaLink="false">0fd4b96612e1a643c688c35af4c87decf9b7671a</guid>
+            <pubDate></pubDate>
+            <updated>Mon, 28 Apr 2025 16:00:25 +0000</updated>
+                
+                
+            <content:encoded>
+                <![CDATA[
+                    
+                    Summit season is in full throttle! If you haven’t been to an AWS Summit, I highly recommend you check one out that’s nearby. They are large-scale all-day events where you can attend talks, watch interesting demos and activities, connect with AWS and industry people, and more. Best of all, they are free—so all you need […]
+                ]]>
+            </content:encoded>
+        </item>
+        
+        <item>
+            <id>b494ef71364fb80d4f85358d0dfb66b00524708b</id>
+            <title>In the works – New Availability Zone in Maryland for US East (Northern Virginia) Region</title>
+            <link>https://aws.amazon.com/blogs/aws/in-the-works-new-availability-zone-in-maryland-for-us-east-n-virginia-region/</link>
+            <guid isPermaLink="false">b494ef71364fb80d4f85358d0dfb66b00524708b</guid>
+            <pubDate></pubDate>
+            <updated>Thu, 24 Apr 2025 21:40:21 +0000</updated>
+                
+                
+            <content:encoded>
+                <![CDATA[
+                    
+                    AWS is adding a new Availability Zone in Maryland to the US East (Northern Virginia) Region by 2026, enhancing redundancy and supporting growing AI workloads while maintaining high-bandwidth, low-latency network connections.
+                ]]>
+            </content:encoded>
+        </item>
+        
+        <item>
+            <id>0f4a946753110c779ff8cd55af43cfbea2659841</id>
+            <title>Enhance real-time applications with AWS AppSync Events data source integrations</title>
+            <link>https://aws.amazon.com/blogs/aws/enhance-real-time-applications-with-aws-appsync-events-data-source-integrations/</link>
+            <guid isPermaLink="false">0f4a946753110c779ff8cd55af43cfbea2659841</guid>
+            <pubDate></pubDate>
+            <updated>Thu, 24 Apr 2025 21:03:40 +0000</updated>
+                
+                
+            <content:encoded>
+                <![CDATA[
+                    
+                    Developers can connect Lambda functions, DynamoDB tables, and other resources to create sophisticated real-time applications with features like data transformation, persistent storage, and validation.
+                ]]>
+            </content:encoded>
+        </item>
+        
+        <item>
+            <id>9923dc90dfe6333dfda70223887016da1c27f547</id>
+            <title>New Amazon EC2 Graviton4-based instances with NVMe SSD storage</title>
+            <link>https://aws.amazon.com/blogs/aws/new-amazon-ec2-graviton4-based-instances-with-nvme-ssd-storage/</link>
+            <guid isPermaLink="false">9923dc90dfe6333dfda70223887016da1c27f547</guid>
+            <pubDate></pubDate>
+            <updated>Mon, 21 Apr 2025 21:49:24 +0000</updated>
+                
+                
+            <content:encoded>
+                <![CDATA[
+                    
+                    AWS introduces new EC2 instance families (C8gd, M8gd, R8gd) powered by Graviton4 processors with NVMe SSD storage, offering up to 30% better performance, 3x more vCPUs and memory, and up to 11.4TB local storage compared to Graviton3-based predecessors.
+                ]]>
+            </content:encoded>
+        </item>
+        
+        <item>
+            <id>0bd82d8e8ed960e604fb93aeebed49537fcda1b3</id>
+            <title>AWS Weekly Roundup: Upcoming AWS Summits, Amazon Q Developer, Amazon CloudFront updates, and more (April 21, 2025)</title>
+            <link>https://aws.amazon.com/blogs/aws/aws-weekly-roundup-upcoming-aws-summits-amazon-q-developer-amazon-cloudfront-updates-and-more-april-21-2025/</link>
+            <guid isPermaLink="false">0bd82d8e8ed960e604fb93aeebed49537fcda1b3</guid>
+            <pubDate></pubDate>
+            <updated>Mon, 21 Apr 2025 17:11:47 +0000</updated>
+                
+                
+            <content:encoded>
+                <![CDATA[
+                    
+                    Last week, we had the AWS Summit Amsterdam, one of the global Amazon Web Services (AWS) events that offers you the opportunity to learn from technical and industry leaders, and meet AWS experts and like-minded professionals. In particular, most AWS Summits have Developer and Community Lounges in their exhibition halls. A photo taken by Thembile […]
+                ]]>
+            </content:encoded>
+        </item>
+        
+    </channel>
+</rss>

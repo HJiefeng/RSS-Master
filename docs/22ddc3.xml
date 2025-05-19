@@ -1,0 +1,179 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
+    <channel>
+        <title>Engineering at Meta</title>
+        <link>https://engineering.fb.com/</link>
+        
+        <item>
+            <id>https://engineering.fb.com/?p=22509</id>
+            <title>Open-sourcing Pyrefly: A faster Python type checker written in Rust</title>
+            <link>https://engineering.fb.com/2025/05/15/developer-tools/open-sourcing-pyrefly-a-faster-python-type-checker-written-in-rust/</link>
+            <guid isPermaLink="false">https://engineering.fb.com/?p=22509</guid>
+            <pubDate></pubDate>
+            <updated>Thu, 15 May 2025 18:30:33 +0000</updated>
+                
+                
+            <content:encoded>
+                <![CDATA[
+                    
+                    <p>Back in 2017, engineers at Meta sought to create a type checker for Instagram&#8217;s typed Python codebase. Years later, as the type system continued to evolve, that type checker eventually became Pyrefly.  Pyrefly is a new type checker and IDE experience for Python, written with Rust, and now available for the entire Python community to [...]</p>
+<p><a class="btn btn-secondary understrap-read-more-link" href="https://engineering.fb.com/2025/05/15/developer-tools/open-sourcing-pyrefly-a-faster-python-type-checker-written-in-rust/">Read More...</a></p>
+<p>The post <a href="https://engineering.fb.com/2025/05/15/developer-tools/open-sourcing-pyrefly-a-faster-python-type-checker-written-in-rust/" rel="nofollow">Open-sourcing Pyrefly: A faster Python type checker written in Rust</a> appeared first on <a href="https://engineering.fb.com" rel="nofollow">Engineering at Meta</a>.</p>
+                ]]>
+            </content:encoded>
+        </item>
+        
+        <item>
+            <id>https://engineering.fb.com/?p=22495</id>
+            <title>Introducing Pyrefly: A new type checker and IDE experience for Python</title>
+            <link>https://engineering.fb.com/2025/05/15/developer-tools/introducing-pyrefly-a-new-type-checker-and-ide-experience-for-python/</link>
+            <guid isPermaLink="false">https://engineering.fb.com/?p=22495</guid>
+            <pubDate></pubDate>
+            <updated>Thu, 15 May 2025 18:30:08 +0000</updated>
+                
+                
+            <content:encoded>
+                <![CDATA[
+                    
+                    <p>Today we are announcing an alpha version of Pyrefly, an open source Python type checker and IDE extension crafted in Rust. Pyrefly is a static type checker that analyzes Python code to ensure type consistency and help you catch errors throughout your codebase before your code runs. It also supports IDE integration and CLI usage [...]</p>
+<p><a class="btn btn-secondary understrap-read-more-link" href="https://engineering.fb.com/2025/05/15/developer-tools/introducing-pyrefly-a-new-type-checker-and-ide-experience-for-python/">Read More...</a></p>
+<p>The post <a href="https://engineering.fb.com/2025/05/15/developer-tools/introducing-pyrefly-a-new-type-checker-and-ide-experience-for-python/" rel="nofollow">Introducing Pyrefly: A new type checker and IDE experience for Python</a> appeared first on <a href="https://engineering.fb.com" rel="nofollow">Engineering at Meta</a>.</p>
+                ]]>
+            </content:encoded>
+        </item>
+        
+        <item>
+            <id>https://engineering.fb.com/?p=22423</id>
+            <title>Accelerating GPU indexes in Faiss with NVIDIA cuVS</title>
+            <link>https://engineering.fb.com/2025/05/08/data-infrastructure/accelerating-gpu-indexes-in-faiss-with-nvidia-cuvs/</link>
+            <guid isPermaLink="false">https://engineering.fb.com/?p=22423</guid>
+            <pubDate></pubDate>
+            <updated>Thu, 08 May 2025 17:00:22 +0000</updated>
+                
+                
+            <content:encoded>
+                <![CDATA[
+                    
+                    <p>Meta and NVIDIA collaborated to accelerate vector search on GPUs by integrating NVIDIA cuVS into Faiss v1.10, Meta’s open source library for similarity search. This new implementation of cuVS will be more performant than classic GPU-accelerated search in some areas. For inverted file (IVF) indexing, NVIDIA cuVS outperforms classical GPU-accelerated IVF build times by up [...]</p>
+<p><a class="btn btn-secondary understrap-read-more-link" href="https://engineering.fb.com/2025/05/08/data-infrastructure/accelerating-gpu-indexes-in-faiss-with-nvidia-cuvs/">Read More...</a></p>
+<p>The post <a href="https://engineering.fb.com/2025/05/08/data-infrastructure/accelerating-gpu-indexes-in-faiss-with-nvidia-cuvs/" rel="nofollow">Accelerating GPU indexes in Faiss with NVIDIA cuVS</a> appeared first on <a href="https://engineering.fb.com" rel="nofollow">Engineering at Meta</a>.</p>
+                ]]>
+            </content:encoded>
+        </item>
+        
+        <item>
+            <id>https://engineering.fb.com/?p=22472</id>
+            <title>Enhancing the Python ecosystem with type checking and free threading</title>
+            <link>https://engineering.fb.com/2025/05/05/developer-tools/enhancing-the-python-ecosystem-with-type-checking-and-free-threading/</link>
+            <guid isPermaLink="false">https://engineering.fb.com/?p=22472</guid>
+            <pubDate></pubDate>
+            <updated>Mon, 05 May 2025 16:00:05 +0000</updated>
+                
+                
+            <content:encoded>
+                <![CDATA[
+                    
+                    <p>Meta and Quansight have improved key libraries in the Python Ecosystem. There is plenty more to do and we invite the community to help with our efforts.  We’ll look at two key efforts in Python’s packaging ecosystem to make packages faster and easier to use: 🚀 Unlock performance wins for developers through free-threaded Python – [...]</p>
+<p><a class="btn btn-secondary understrap-read-more-link" href="https://engineering.fb.com/2025/05/05/developer-tools/enhancing-the-python-ecosystem-with-type-checking-and-free-threading/">Read More...</a></p>
+<p>The post <a href="https://engineering.fb.com/2025/05/05/developer-tools/enhancing-the-python-ecosystem-with-type-checking-and-free-threading/" rel="nofollow">Enhancing the Python ecosystem with type checking and free threading</a> appeared first on <a href="https://engineering.fb.com" rel="nofollow">Engineering at Meta</a>.</p>
+                ]]>
+            </content:encoded>
+        </item>
+        
+        <item>
+            <id>https://engineering.fb.com/?p=22481</id>
+            <title>Taking the plunge: The engineering journey of building a subsea cable</title>
+            <link>https://engineering.fb.com/2025/05/01/connectivity/taking-the-plunge-the-engineering-journey-of-building-a-subsea-cable/</link>
+            <guid isPermaLink="false">https://engineering.fb.com/?p=22481</guid>
+            <pubDate></pubDate>
+            <updated>Thu, 01 May 2025 18:48:02 +0000</updated>
+                
+                
+            <content:encoded>
+                <![CDATA[
+                    
+                    <p>Meta develops infrastructure all across the globe to transport information and content for the billions of people using our services around the world. At the core of this infrastructure are aggregation points – like data centers – and the digital cables that connect them. Subsea cables – the unseen digital highways of the internet – [...]</p>
+<p><a class="btn btn-secondary understrap-read-more-link" href="https://engineering.fb.com/2025/05/01/connectivity/taking-the-plunge-the-engineering-journey-of-building-a-subsea-cable/">Read More...</a></p>
+<p>The post <a href="https://engineering.fb.com/2025/05/01/connectivity/taking-the-plunge-the-engineering-journey-of-building-a-subsea-cable/" rel="nofollow">Taking the plunge: The engineering journey of building a subsea cable</a> appeared first on <a href="https://engineering.fb.com" rel="nofollow">Engineering at Meta</a>.</p>
+                ]]>
+            </content:encoded>
+        </item>
+        
+        <item>
+            <id>https://engineering.fb.com/?p=22391</id>
+            <title>Introducing AutoPatchBench: A Benchmark for AI-Powered Security Fixes</title>
+            <link>https://engineering.fb.com/2025/04/29/ai-research/autopatchbench-benchmark-ai-powered-security-fixes/</link>
+            <guid isPermaLink="false">https://engineering.fb.com/?p=22391</guid>
+            <pubDate></pubDate>
+            <updated>Tue, 29 Apr 2025 17:15:17 +0000</updated>
+                
+                
+            <content:encoded>
+                <![CDATA[
+                    
+                    <p>We are introducing AutoPatchBench, a benchmark for the automated repair of vulnerabilities identified through fuzzing. By providing a standardized benchmark, AutoPatchBench enables researchers and practitioners to objectively evaluate and compare the effectiveness of various AI program repair systems.  This initiative facilitates the development of more robust security solutions, and also encourages collaboration within the community [...]</p>
+<p><a class="btn btn-secondary understrap-read-more-link" href="https://engineering.fb.com/2025/04/29/ai-research/autopatchbench-benchmark-ai-powered-security-fixes/">Read More...</a></p>
+<p>The post <a href="https://engineering.fb.com/2025/04/29/ai-research/autopatchbench-benchmark-ai-powered-security-fixes/" rel="nofollow">Introducing AutoPatchBench: A Benchmark for AI-Powered Security Fixes</a> appeared first on <a href="https://engineering.fb.com" rel="nofollow">Engineering at Meta</a>.</p>
+                ]]>
+            </content:encoded>
+        </item>
+        
+        <item>
+            <id>https://engineering.fb.com/?p=22434</id>
+            <title>Building Private Processing for AI tools on WhatsApp</title>
+            <link>https://engineering.fb.com/2025/04/29/security/whatsapp-private-processing-ai-tools/</link>
+            <guid isPermaLink="false">https://engineering.fb.com/?p=22434</guid>
+            <pubDate></pubDate>
+            <updated>Tue, 29 Apr 2025 17:15:00 +0000</updated>
+                
+                
+            <content:encoded>
+                <![CDATA[
+                    
+                    <p>We are inspired by the possibilities of AI to help people be more creative, productive, and stay closely connected on WhatsApp, so we set out to build a new technology that allows our users around the world to use AI in a privacy-preserving way. We’re sharing an early look into Private Processing, an optional capability [...]</p>
+<p><a class="btn btn-secondary understrap-read-more-link" href="https://engineering.fb.com/2025/04/29/security/whatsapp-private-processing-ai-tools/">Read More...</a></p>
+<p>The post <a href="https://engineering.fb.com/2025/04/29/security/whatsapp-private-processing-ai-tools/" rel="nofollow">Building Private Processing for AI tools on WhatsApp</a> appeared first on <a href="https://engineering.fb.com" rel="nofollow">Engineering at Meta</a>.</p>
+                ]]>
+            </content:encoded>
+        </item>
+        
+        <item>
+            <id>https://engineering.fb.com/?p=22393</id>
+            <title>How Meta understands data at scale</title>
+            <link>https://engineering.fb.com/2025/04/28/security/how-meta-understands-data-at-scale/</link>
+            <guid isPermaLink="false">https://engineering.fb.com/?p=22393</guid>
+            <pubDate></pubDate>
+            <updated>Mon, 28 Apr 2025 16:30:19 +0000</updated>
+                
+                
+            <content:encoded>
+                <![CDATA[
+                    
+                    <p>Managing and understanding large-scale data ecosystems is a significant challenge for many organizations, requiring innovative solutions to efficiently safeguard user data. Meta&#8217;s vast and diverse systems make it particularly challenging to comprehend its structure, meaning, and context at scale. To address these challenges, we made substantial investments in advanced data understanding technologies, as part of [...]</p>
+<p><a class="btn btn-secondary understrap-read-more-link" href="https://engineering.fb.com/2025/04/28/security/how-meta-understands-data-at-scale/">Read More...</a></p>
+<p>The post <a href="https://engineering.fb.com/2025/04/28/security/how-meta-understands-data-at-scale/" rel="nofollow">How Meta understands data at scale</a> appeared first on <a href="https://engineering.fb.com" rel="nofollow">Engineering at Meta</a>.</p>
+                ]]>
+            </content:encoded>
+        </item>
+        
+        <item>
+            <id>https://engineering.fb.com/?p=22365</id>
+            <title>Meta Open Source: 2024 by the numbers</title>
+            <link>https://engineering.fb.com/2025/04/02/open-source/meta-open-source-by-the-numbers/</link>
+            <guid isPermaLink="false">https://engineering.fb.com/?p=22365</guid>
+            <pubDate></pubDate>
+            <updated>Wed, 02 Apr 2025 16:00:28 +0000</updated>
+                
+                
+            <content:encoded>
+                <![CDATA[
+                    
+                    <p>Open source has played an essential role in the tech industry and beyond. Whether in the AI/ML, web, or mobile space, our open source community grew and evolved while connecting people worldwide.  At Meta Open Source, 2024 was a year of growth and transformation. Our open source initiatives addressed the evolving needs and challenges of [...]</p>
+<p><a class="btn btn-secondary understrap-read-more-link" href="https://engineering.fb.com/2025/04/02/open-source/meta-open-source-by-the-numbers/">Read More...</a></p>
+<p>The post <a href="https://engineering.fb.com/2025/04/02/open-source/meta-open-source-by-the-numbers/" rel="nofollow">Meta Open Source: 2024 by the numbers</a> appeared first on <a href="https://engineering.fb.com" rel="nofollow">Engineering at Meta</a>.</p>
+                ]]>
+            </content:encoded>
+        </item>
+        
+    </channel>
+</rss>

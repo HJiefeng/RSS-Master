@@ -1,0 +1,672 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
+    <channel>
+        <title>DZone.com Feed</title>
+        <link>https://dzone.com</link>
+        
+        <item>
+            <id>https://dzone.com/articles/3537682</id>
+            <title>Using Python Libraries in Java</title>
+            <link>https://dzone.com/articles/using-python-libraries-in-java</link>
+            <guid isPermaLink="false">https://dzone.com/articles/3537682</guid>
+            <pubDate></pubDate>
+            <updated>Fri, 16 May 2025 22:00:00 GMT</updated>
+                
+            <media:thumbnail url="https://dz2cdn1.dzone.com/thumbnail?fid=18404340&amp;w=600"/>
+                
+                
+            <content:encoded>
+                <![CDATA[
+                    
+                    <h2>Advantages and Disadvantages of Python and Java</h2>
+<p>Java and Python are among the most widely used languages in the world (see Figure 1 below).</p>
+<figcaption class="fr-inner" contenteditable="true">
+ <strong><strong><strong><strong>Figure 1: Overview of programming languages from statista.com</strong></strong></strong></strong>
+</figcaption>
+<figcaption class="fr-inner" contenteditable="true">
+ <br />
+</figcaption>
+<p>Both languages have their strengths and weaknesses and are popular in different fields. Unlike other articles, such as those from <a href="https://dzone.com/articles/python-vs-java-duck-typing-parsing-on-whitespace-a" rel="noopener noreferrer" target="_blank">&nbsp;Tom Radcliffe&nbsp;</a>which analyzes which language is technically better implemented, this article focuses on presenting practical use cases with explicit examples. Let us check the following table that provides a brief overview, of which language is best suited for which field (✅ = advantage, and ❌ = disadvantage).&nbsp;</p>
+                ]]>
+            </content:encoded>
+        </item>
+        
+        <item>
+            <id>https://dzone.com/articles/3527660</id>
+            <title>Infrastructure as Code (IaC) Beyond the Basics</title>
+            <link>https://dzone.com/articles/infrastructure-as-code-iac-beyond-the-basics</link>
+            <guid isPermaLink="false">https://dzone.com/articles/3527660</guid>
+            <pubDate></pubDate>
+            <updated>Fri, 16 May 2025 21:00:00 GMT</updated>
+                
+            <media:thumbnail url="https://dz2cdn1.dzone.com/thumbnail?fid=18401549&amp;w=600"/>
+                
+                
+            <content:encoded>
+                <![CDATA[
+                    
+                    <p>Infrastructure as Code, or IaC, is now an inalienable part of the majority of modern cloud-native projects. Previously, generation of scripts for configuration and using your environments as a moving target has been tiresome. Then came advanced tooling with even stronger assurance for a standardized, stable, and scalable setup.&nbsp;</p>
+<p>Nevertheless, most teams are still at the ‘hello world’ stage of IaC, with little understanding of how to level up and manage, organize, and govern it as the work progresses. This article aims to discuss how to maximize the use of IaC — focusing on the organization of modules, versioning, and policy.</p>
+                ]]>
+            </content:encoded>
+        </item>
+        
+        <item>
+            <id>https://dzone.com/articles/3565943</id>
+            <title>Endpoint Security Controls: Designing a Secure Endpoint Architecture, Part 2</title>
+            <link>https://dzone.com/articles/endpoint-security-controls-part-two</link>
+            <guid isPermaLink="false">https://dzone.com/articles/3565943</guid>
+            <pubDate></pubDate>
+            <updated>Fri, 16 May 2025 20:00:00 GMT</updated>
+                
+            <media:thumbnail url="https://dz2cdn1.dzone.com/thumbnail?fid=18402550&amp;w=600"/>
+                
+                
+            <content:encoded>
+                <![CDATA[
+                    
+                    <p>As we understood the foundational principles for designing and reviewing endpoint security controls in <a href="https://dzone.com/articles/endpoint-security-controls">Part 1</a>, we also covered key topics such as standardizing and enrolling approved devices and operating systems, enforcing strong authentication and centralized identity management, and validating trusted network access.&nbsp;</p>
+<p>We explored endpoint configuration hardening — including secure boot, BIOS/UEFI settings, app whitelisting, and drift monitoring — as well as privilege management <a href="https://dzone.com/articles/what-is-roles-based-access-control-rbac">using RBAC</a> and <a href="https://dzone.com/articles/just-in-time-jit-compilation-advantages-disadvanta">Just-in-Time</a> access. Additionally, we discussed patch and vulnerability management, malware protection through EDR, software installation controls, restrictions on removable media, secure local data storage practices, and enforcing encryption across devices and media — all supported by strong auditing, compliance, and user awareness measures.</p>
+                ]]>
+            </content:encoded>
+        </item>
+        
+        <item>
+            <id>https://dzone.com/articles/3553934</id>
+            <title>Unit Testing Large Codebases: Principles, Practices, and C++ Examples</title>
+            <link>https://dzone.com/articles/unit-testing-codebases-principles-practices</link>
+            <guid isPermaLink="false">https://dzone.com/articles/3553934</guid>
+            <pubDate></pubDate>
+            <updated>Fri, 16 May 2025 19:00:00 GMT</updated>
+                
+            <media:thumbnail url="https://dz2cdn1.dzone.com/thumbnail?fid=18402507&amp;w=600"/>
+                
+                
+            <content:encoded>
+                <![CDATA[
+                    
+                    <p dir="ltr">Unit tests are often overlooked in the software development process but there are a lot of nice side effects of writing unit tests. After writing production software code for more than a decade, which has served billions of users for planet scale applications, I can confidently say that unit tests hold a critical place in software development lifecycle.</p>
+<p dir="ltr">Despite the importance of unit tests, many engineers often overlook them due to timeline constraints or their over reliance on manual testing. There is also a misconception that unit tests slow down software development which is not necessarily true. As a matter of fact, <a href="https://link.springer.com/chapter/10.1007/978-3-540-75381-0_18#citeas">study</a> reveals that test driven development (TDD) may have a positive impact on software development productivity. In the long run, unit tests make iterating on code easier and faster.</p>
+                ]]>
+            </content:encoded>
+        </item>
+        
+        <item>
+            <id>https://dzone.com/articles/3553920</id>
+            <title>Secure by Design: Modernizing Authentication With Centralized Access and Adaptive Signals</title>
+            <link>https://dzone.com/articles/centralized-authentication-access</link>
+            <guid isPermaLink="false">https://dzone.com/articles/3553920</guid>
+            <pubDate></pubDate>
+            <updated>Fri, 16 May 2025 18:00:00 GMT</updated>
+                
+            <media:thumbnail url="https://dz2cdn1.dzone.com/thumbnail?fid=18402496&amp;w=600"/>
+                
+                
+            <content:encoded>
+                <![CDATA[
+                    
+                    <h2>Introduction</h2>
+<p>Managing identity and access management (IAM) for large-scale enterprises is a complex challenge, particularly when dealing with legacy systems that cannot be transitioned from overnight to modern authentication. Traditional migration often spans years, leaving enterprises burdened with technical debts and inconsistent authentication systems. This study introduces a scalable architecture that accelerates the migration process, enabling thousands of legacy applications to transition to modern authentication.</p>
+<p>The challenge becomes even more intricate when organizations rely on a combination of internal and third-party platforms. The proposed solution simplifies and centralizes authentication processes, making it adaptable to any <a href="https://dzone.com/articles/authenticate-with-openid-connect-and-apache-apisix">OpenID Connect (OIDC)</a> provider while seamlessly integrating with internal engineering systems. By addressing these complexities, this architecture enhances the security, eliminates technical debts, and ensures operational scalability.</p>
+                ]]>
+            </content:encoded>
+        </item>
+        
+        <item>
+            <id>https://dzone.com/articles/3551898</id>
+            <title>The Full-Stack Developer's Blind Spot: Why Data Cleansing Shouldn't Be an Afterthought</title>
+            <link>https://dzone.com/articles/full-stack-developer-blind-spot-data-cleansing</link>
+            <guid isPermaLink="false">https://dzone.com/articles/3551898</guid>
+            <pubDate></pubDate>
+            <updated>Fri, 16 May 2025 17:00:00 GMT</updated>
+                
+            <media:thumbnail url="https://dz2cdn1.dzone.com/thumbnail?fid=18402449&amp;w=600"/>
+                
+                
+            <content:encoded>
+                <![CDATA[
+                    
+                    <p>My development team lead was three weeks into building a slick React dashboard for a client when everything fell apart. The app looked great in demos with test data. We were ready to connect it to our production database.&nbsp;</p>
+<p>Then all hell broke loose.&nbsp;</p>
+                ]]>
+            </content:encoded>
+        </item>
+        
+        <item>
+            <id>https://dzone.com/articles/3551805</id>
+            <title>Debugging With Confidence in the Age of Observability-First Systems</title>
+            <link>https://dzone.com/articles/debugging-observability-first-systems</link>
+            <guid isPermaLink="false">https://dzone.com/articles/3551805</guid>
+            <pubDate></pubDate>
+            <updated>Fri, 16 May 2025 16:00:00 GMT</updated>
+                
+            <media:thumbnail url="https://dz2cdn1.dzone.com/thumbnail?fid=18402440&amp;w=600"/>
+                
+                
+            <content:encoded>
+                <![CDATA[
+                    
+                    <p dir="ltr">Enterprises are embracing cloud-native architectures in today’s era. The boundaries between development, testing and production environments are dissolving at a rapid pace. Organizations strive to release software at an accelerated pace due to market demands. The conventional QA mindset of bug prevention before they go to production is evolving into a more proactive approach. This shift brings in the need for observability to converge and empower engineering teams to perform debugging in production confidently. Let’s look at how test automation strategies complement observability and how they can empower teams to debug smarter, efficiently and quicker with fewer sleepless nights.</p>
+<h3 dir="ltr">The Rise of Observability-First Engineering</h3>
+<p dir="ltr">Today’s engineering landscape is complex with the rise of distributed ecosystems and cloud native micro-service architectures. In such environments, conventional log validations and reactive monitoring approaches are no longer sufficient. Observability - measuring systems state based on the external performance has become critical.&nbsp;</p>
+                ]]>
+            </content:encoded>
+        </item>
+        
+        <item>
+            <id>https://dzone.com/articles/3553691</id>
+            <title>Accelerating Debugging in Integration Testing: An Efficient Search-Based Workflow for Impact Localization</title>
+            <link>https://dzone.com/articles/accelerating-debugging-integration-testing</link>
+            <guid isPermaLink="false">https://dzone.com/articles/3553691</guid>
+            <pubDate></pubDate>
+            <updated>Fri, 16 May 2025 15:00:00 GMT</updated>
+                
+            <media:thumbnail url="https://dz2cdn1.dzone.com/thumbnail?fid=18402415&amp;w=600"/>
+                
+                
+            <content:encoded>
+                <![CDATA[
+                    
+                    <h2 dir="ltr" style="text-align: left;"><strong>The Problem: Debugging at Scale</strong></h2>
+<p dir="ltr" style="text-align: left;">With frequent software releases, one of the challenges faced in software debugging is localizing potential impact-causing changes. However, testing every change one by one is impractical, especially when dealing with a large set of changes over time.&nbsp;</p>
+<p dir="ltr" style="text-align: left;">Here I refer to a <strong>group of commits or changes as a "build."</strong> Each build has a number associated with it</p>
+                ]]>
+            </content:encoded>
+        </item>
+        
+        <item>
+            <id>https://dzone.com/articles/3550849</id>
+            <title>Data Quality: A Novel Perspective for 2025</title>
+            <link>https://dzone.com/articles/data-quality-a-novel-perspective-for-2025</link>
+            <guid isPermaLink="false">https://dzone.com/articles/3550849</guid>
+            <pubDate></pubDate>
+            <updated>Fri, 16 May 2025 14:00:03 GMT</updated>
+                
+            <media:thumbnail url="https://dz2cdn1.dzone.com/thumbnail?fid=18402371&amp;w=600"/>
+                
+                
+            <content:encoded>
+                <![CDATA[
+                    
+                    <p dir="ltr">Data quality is no longer a back-office function; it has become a strategic imperative for organizations leveraging data to drive decision-making, analytics, and AI. As data volumes grow exponentially and applications become more sophisticated, ensuring high-quality data is critical for operational success. This article explores novel approaches to data quality in 2025, focusing on emerging trends, techniques, and tools that redefine the landscape.</p>
+<h2 dir="ltr">Data Quality as a Strategic Asset</h2>
+<p dir="ltr">Traditionally, data quality was seen as a compliance-driven task aimed at cleaning up datasets for reporting purposes. In 2025, this perspective has shifted dramatically. Organizations now treat data quality as a strategic asset that directly impacts business outcomes. High-quality data fuels reliable AI models, accelerates decision-making, and enhances customer experiences.</p>
+                ]]>
+            </content:encoded>
+        </item>
+        
+        <item>
+            <id>https://dzone.com/articles/3551780</id>
+            <title>Building Resilient Networks: Limiting the Risk and Scope of Cyber Attacks</title>
+            <link>https://dzone.com/articles/building-resilient-networks-limiting-the-risk-and</link>
+            <guid isPermaLink="false">https://dzone.com/articles/3551780</guid>
+            <pubDate></pubDate>
+            <updated>Fri, 16 May 2025 13:00:01 GMT</updated>
+                
+            <media:thumbnail url="https://dz2cdn1.dzone.com/thumbnail?fid=18402341&amp;w=600"/>
+                
+                
+            <content:encoded>
+                <![CDATA[
+                    
+                    <p>In the current era of nearly ubiquitous computing, security threats are growing, especially for large organizations that have to maintain complex networks and safeguard sensitive data. While this complexity has also led to the proliferation of a wide range of tools available to organizations to boost network security, a foundational strategy still remains one of the most effective ways to protect organizational networks: that of network segmentation. However, network segmentation as a tool has stayed far from stagnant, with recent developments and innovations turning it into a more complex and sometimes misunderstood topic. In this article, we will explore what network segmentation is, why it's important, and how it can be applied to optimize network performance and security.&nbsp;</p>
+<figcaption class="fr-inner" contenteditable="true">
+ <p style="text-align: center;"><em>Figure 1.&nbsp;</em><em>Network segmentation, a conceptual diagram</em></p>
+                ]]>
+            </content:encoded>
+        </item>
+        
+        <item>
+            <id>https://dzone.com/articles/3528785</id>
+            <title>How Can Developers Drive Innovation by Combining IoT and AI?</title>
+            <link>https://dzone.com/articles/developers-innovation-by-combining-IoT-and-AI</link>
+            <guid isPermaLink="false">https://dzone.com/articles/3528785</guid>
+            <pubDate></pubDate>
+            <updated>Fri, 16 May 2025 12:00:00 GMT</updated>
+                
+            <media:thumbnail url="https://dz2cdn1.dzone.com/thumbnail?fid=18401249&amp;w=600"/>
+                
+                
+            <content:encoded>
+                <![CDATA[
+                    
+                    <p><span lang="EN-US">In the contemporary era, the exponential growth of the </span><a href="https://dzone.com/articles/the-internet-of-things-development-and-examples"><span lang="EN-US">Internet of Things (IoT)</span></a><span lang="EN-US"> and artificial intelligence (AI) has shifted the digital terrain. As these two technologies improve further, their amalgamation offers remarkable opportunities for developers to create more innovative, efficient, and highly adaptive solutions across industries. However, the actual value is in working with IoT and AI purposefully — understanding their nuances, potential pitfalls, and best practices to benefit from their full potential.&nbsp;</span><span>&nbsp;</span></p>
+<p><span lang="EN-US">Let's dive into how the conscious combination of IoT and AI can be a game-changer for developers.</span><span>&nbsp;</span></p>
+                ]]>
+            </content:encoded>
+        </item>
+        
+        <item>
+            <id>https://dzone.com/articles/3550842</id>
+            <title>AI-Driven Root Cause Analysis in SRE: Enhancing Incident Resolution</title>
+            <link>https://dzone.com/articles/ai-driven-root-cause-analysis-in-sre</link>
+            <guid isPermaLink="false">https://dzone.com/articles/3550842</guid>
+            <pubDate></pubDate>
+            <updated>Fri, 16 May 2025 11:00:00 GMT</updated>
+                
+            <media:thumbnail url="https://dz2cdn1.dzone.com/thumbnail?fid=18400846&amp;w=600"/>
+                
+                
+            <content:encoded>
+                <![CDATA[
+                    
+                    <h2 dir="ltr" style="text-align: left;">Introduction</h2>
+<p dir="ltr" style="text-align: left;">Site Reliability Engineering (SRE) is one of the key pillars for organizations. SRE teams are responsible for maintaining the system's scalability and reliability. One of the key challenges SRE teams face is dealing with alert floods, parsing cryptic logs, and the pressure of SLA timers. These challenges make Root Cause Analysis (RCA) of an incident really tough. With the increasing complexity of distributed infrastructure, identifying RCA and resolving incidents become more difficult. Because conventional troubleshooting methods require manual log analysis and the review of multiple data sources, they are very time-consuming and demand a large employee workforce.</p>
+<p dir="ltr" style="text-align: left;">In this article, we will examine how Artificial Intelligence (AI) is benefiting <a href="https://dzone.com/articles/root-cause-analysis-in-software-development-teams">Root Cause Analysis</a> (RCA) in incident management by automating processes, reducing resolution time, and improving overall system reliability. This article delves into the techniques used and challenges faced.</p>
+                ]]>
+            </content:encoded>
+        </item>
+        
+        <item>
+            <id>https://dzone.com/articles/3540603</id>
+            <title>AWS to Azure Migration: A Cloudy Journey of Challenges and Triumphs</title>
+            <link>https://dzone.com/articles/aws-to-azure-migration-challenges-and-success</link>
+            <guid isPermaLink="false">https://dzone.com/articles/3540603</guid>
+            <pubDate></pubDate>
+            <updated>Thu, 15 May 2025 22:00:00 GMT</updated>
+                
+            <media:thumbnail url="https://dz2cdn1.dzone.com/thumbnail?fid=18405178&amp;w=600"/>
+                
+                
+            <content:encoded>
+                <![CDATA[
+                    
+                    <p><span lang="EN-IN">So, you are considering migrating your infrastructure from AWS to Azure? Congratulations! You have officially joined the ranks of people who thought a simple cloud swap was a quick weekend project — and now you’re probably questioning your life choices. But don’t worry, it is not as crazy as it sounds. In fact, it can be a pretty smooth ride if you know what you’re getting into (or at least, if you have a strong coffee supply).</span><span>&nbsp;</span></p>
+<p><span lang="EN-IN">The cloud wars are heating up. AWS has been the big player for years, and Azure has been right there, lurking, always trying to steal the spotlight. But sometimes, you realize the place you have been renting is just not quite the right fit anymore. Maybe AWS is too complicated. Or maybe Azure just offers a few things that AWS cannot (no, really, it happens). Whatever the reason, migrating from&nbsp;</span><a href="https://dzone.com/articles/aws-vs-azure-which-is-better-for-cloud-computing"><span lang="EN-IN">AWS to Azure</span></a><span lang="EN-IN">&nbsp;is not something to shy away from — unless, of course, you have something else to do like binge-watch an entire season of your favorite show.&nbsp;</span></p>
+                ]]>
+            </content:encoded>
+        </item>
+        
+        <item>
+            <id>https://dzone.com/articles/3544135</id>
+            <title>Integrating Google BigQuery With Amazon SageMaker</title>
+            <link>https://dzone.com/articles/integrating-bigquery-and-amazon-sagemaker</link>
+            <guid isPermaLink="false">https://dzone.com/articles/3544135</guid>
+            <pubDate></pubDate>
+            <updated>Thu, 15 May 2025 21:00:00 GMT</updated>
+                
+            <media:thumbnail url="https://dz2cdn1.dzone.com/thumbnail?fid=18402537&amp;w=600"/>
+                
+                
+            <content:encoded>
+                <![CDATA[
+                    
+                    <p>Today, organizations often need to leverage services across different cloud platforms to maximize their data science capabilities. One common scenario is analyzing data stored in Google BigQuery using Amazon SageMaker's advanced machine learning tools.</p>
+<p>This article presents a comprehensive guide to establishing a direct connection between Google BigQuery and Amazon SageMaker Studio through Data Wrangler, offering a cost-effective and secure solution that eliminates the need for data duplication and reduces data transfer overhead.</p>
+                ]]>
+            </content:encoded>
+        </item>
+        
+        <item>
+            <id>https://dzone.com/articles/3561329</id>
+            <title>Endpoint Security Controls: Designing a Secure Endpoint Architecture, Part 1</title>
+            <link>https://dzone.com/articles/endpoint-security-controls</link>
+            <guid isPermaLink="false">https://dzone.com/articles/3561329</guid>
+            <pubDate></pubDate>
+            <updated>Thu, 15 May 2025 20:00:00 GMT</updated>
+                
+            <media:thumbnail url="https://dz2cdn1.dzone.com/thumbnail?fid=18402501&amp;w=600"/>
+                
+                
+            <content:encoded>
+                <![CDATA[
+                    
+                    <p>As organizations embrace digital transformation and hybrid work, the endpoint becomes both a critical productivity enabler and a significant security liability. Laptops, desktops, smartphones, and even IoT devices form the frontline in the battle for data integrity and organizational resilience. To secure this diverse landscape, endpoint security must be viewed not as a single product, but as a multi-layered architectural discipline.</p>
+<p>This article is structured in two parts:</p>
+                ]]>
+            </content:encoded>
+        </item>
+        
+        <item>
+            <id>https://dzone.com/articles/3562310</id>
+            <title>Detection and Mitigation of Lateral Movement in Cloud Networks</title>
+            <link>https://dzone.com/articles/detection-mitigation-lateral-movement-cloud-networks</link>
+            <guid isPermaLink="false">https://dzone.com/articles/3562310</guid>
+            <pubDate></pubDate>
+            <updated>Thu, 15 May 2025 19:00:00 GMT</updated>
+                
+            <media:thumbnail url="https://dz2cdn1.dzone.com/thumbnail?fid=18402475&amp;w=600"/>
+                
+                
+            <content:encoded>
+                <![CDATA[
+                    
+                    <h2 style="text-align: left;">How Hackers Bypass Lateral Movement Detection (And How to Stop Them)</h2>
+<p>Detecting lateral movement has emerged as a crucial cybersecurity challenge today. Attackers who breach network perimeters follow a five-step process. They start with reconnaissance, move to their original compromise, spread laterally, establish persistence, and finally achieve their objectives. This systematic approach lets them quietly move through systems while they hunt for sensitive data and expand their control.</p>
+<p style="text-align: left;">Security teams must understand hackers' techniques to spot lateral movement quickly. Attackers commonly use pass-the-hash attacks, remote execution, privilege escalation, Kerberoasting, and targeted phishing campaigns. Traditional security measures struggle to stop these sophisticated lateral movement techniques. Most organizations only spot breaches after attackers have caused substantial damage.</p>
+                ]]>
+            </content:encoded>
+        </item>
+        
+        <item>
+            <id>https://dzone.com/articles/3556157</id>
+            <title>Optimizing Integration Workflows With Spark Structured Streaming and Cloud Services</title>
+            <link>https://dzone.com/articles/streaming-integration-workflows-spark-cloud</link>
+            <guid isPermaLink="false">https://dzone.com/articles/3556157</guid>
+            <pubDate></pubDate>
+            <updated>Thu, 15 May 2025 18:00:00 GMT</updated>
+                
+            <media:thumbnail url="https://dz2cdn1.dzone.com/thumbnail?fid=18402472&amp;w=600"/>
+                
+                
+            <content:encoded>
+                <![CDATA[
+                    
+                    <p dir="ltr">Data is everywhere and moving faster than ever before. If you are processing logs from millions of IoT devices, tracking customer behavior on an e-commerce site, or monitoring stock market changes in real time, your ability to integrate and process this data quickly and efficiently can mean the difference between your business succeeding or failing.</p>
+<p><a href="https://dzone.com/articles/spark-structured-streaming-using-java">Spark Structured Streaming</a> comes in handy here. The combination of scalability offered by cloud services and the ability to handle real-time data streams makes it a powerful tool for optimizing integration workflows. Let's see how these two technologies can be used to design robust, high-performing data pipelines and how to deal with the actual world scenario of dealing with continuous data.</p>
+                ]]>
+            </content:encoded>
+        </item>
+        
+        <item>
+            <id>https://dzone.com/articles/3544334</id>
+            <title>Designing a Java Connector for Software Integrations</title>
+            <link>https://dzone.com/articles/designing-java-connector-software-integrations</link>
+            <guid isPermaLink="false">https://dzone.com/articles/3544334</guid>
+            <pubDate></pubDate>
+            <updated>Thu, 15 May 2025 17:00:00 GMT</updated>
+                
+            <media:thumbnail url="https://dz2cdn1.dzone.com/thumbnail?fid=18402455&amp;w=600"/>
+                
+                
+            <content:encoded>
+                <![CDATA[
+                    
+                    <p>IT systems need integration to achieve seamless data flow alongside enhanced operational efficiency. The expansion of businesses creates independent operational systems that restrict performance through object isolation and restrict time-sensitive information acquisition. The system's functions become oriented for better workflow coordination, which minimizes both repetition and creates unified operations.</p>
+<p>The creation of such connections necessitates comprehensive knowledge about technical and business needs, which include format patterns along with protocol standards. Java provides robust libraries alongside <a href="https://dzone.com/articles/top-5-java-frameworks-for-web-application-developm">outstanding frameworks</a> that lead organizations to choose Java when building scalable, customized solutions. A strategically developed connector fulfills present requirements while enabling future technology adjustments, thus becoming a sustainable factor that supports successful IT system integration.</p>
+                ]]>
+            </content:encoded>
+        </item>
+        
+        <item>
+            <id>https://dzone.com/articles/3555576</id>
+            <title>Integration Isn’t a Task — It’s an Architectural Discipline</title>
+            <link>https://dzone.com/articles/integration-as-architectural-discipline</link>
+            <guid isPermaLink="false">https://dzone.com/articles/3555576</guid>
+            <pubDate></pubDate>
+            <updated>Thu, 15 May 2025 16:00:06 GMT</updated>
+                
+            <media:thumbnail url="https://dz2cdn1.dzone.com/thumbnail?fid=18402430&amp;w=600"/>
+                
+                
+            <content:encoded>
+                <![CDATA[
+                    
+                    <p dir="ltr">Let’s talk about integration. Not the glossy vendor slide-deck version, but the messy, deeply architectural reality of connecting systems in the enterprise.</p>
+<p dir="ltr">Despite all our advances in tooling and frameworks, the way many organizations approach integration still hasn’t changed. Too often, we default to short-term fixes — point-to-point links, overstuffed middleware, or bespoke connectors — because they’re “fast.” But that speed comes at a price: brittle systems, tight coupling, and long-term technical debt that can paralyze change.</p>
+                ]]>
+            </content:encoded>
+        </item>
+        
+        <item>
+            <id>https://dzone.com/articles/3557265</id>
+            <title>Vibe Coding With GitHub Copilot: Optimizing API Performance in Fintech Microservices</title>
+            <link>https://dzone.com/articles/vibe-coding-github-copilot-fintech-apis</link>
+            <guid isPermaLink="false">https://dzone.com/articles/3557265</guid>
+            <pubDate></pubDate>
+            <updated>Thu, 15 May 2025 15:00:00 GMT</updated>
+                
+            <media:thumbnail url="https://dz2cdn1.dzone.com/thumbnail?fid=18402427&amp;w=600"/>
+                
+                
+            <content:encoded>
+                <![CDATA[
+                    
+                    <p style="text-align: left;">In fintech, APIs power everything. Starting from payments to trading to real-time customer experiences, the API takes care of everything. Performance isn't optional, but it's critical for user trust and business success.&nbsp;</p>
+<p style="text-align: left;">As a fintech API and cloud optimization expert, I constantly face the challenge of balancing quick development with high performance. When Microsoft announced GitHub Copilot for free, I asked myself a real-world question:<em>&nbsp;Can GitHub Copilot go beyond writing boilerplate code and help optimize fintech Microservice APIs?</em></p>
+                ]]>
+            </content:encoded>
+        </item>
+        
+        <item>
+            <id>https://dzone.com/articles/3565966</id>
+            <title>Memory Leak Due to Time-Taking finalize() Method</title>
+            <link>https://dzone.com/articles/memory-leak-due-to-time-taking-finalize-method</link>
+            <guid isPermaLink="false">https://dzone.com/articles/3565966</guid>
+            <pubDate></pubDate>
+            <updated>Thu, 15 May 2025 14:00:00 GMT</updated>
+                
+            <media:thumbnail url="https://dz2cdn1.dzone.com/thumbnail?fid=18402368&amp;w=600"/>
+                
+                
+            <content:encoded>
+                <![CDATA[
+                    
+                    <p>All objects in Java implicitly inherit from <code>java.lang.Object</code>. This class contains multiple methods, which can be overridden in the child class.&nbsp;</p>
+<p>One such overridable method is <code>finalize()</code>. Before objects get garbage collected from memory, the JVM will execute the <code>finalize()</code>. So, if you need to close any resources that were opened in the class (like backend connections, Files…), it can be done in this method.&nbsp;</p>
+                ]]>
+            </content:encoded>
+        </item>
+        
+        <item>
+            <id>https://dzone.com/articles/3556506</id>
+            <title>Customer 360: Fraud Detection in Fintech With PySpark and ML</title>
+            <link>https://dzone.com/articles/fraud-detection-fintech-pyspark-ml</link>
+            <guid isPermaLink="false">https://dzone.com/articles/3556506</guid>
+            <pubDate></pubDate>
+            <updated>Thu, 15 May 2025 13:00:07 GMT</updated>
+                
+            <media:thumbnail url="https://dz2cdn1.dzone.com/thumbnail?fid=18409524&amp;w=600"/>
+                
+                
+            <content:encoded>
+                <![CDATA[
+                    
+                    <p>Every bank uses Customer 360 to maintain its customer records in a unified way, and it can also be used for fraud detection.</p>
+<h2 dir="auto">What Is Customer 360?</h2>
+<p dir="auto"><a href="https://dzone.com/articles/integrating-customer-360-systems-with-gpt-apis-a-t">Customer 360</a> is like creating a complete picture of a customer by pulling together all the data you have about them — think of it as a "comprehensive profile." Imagine a bank with data from accounts, transactions, and customer service calls. Instead of having &nbsp;different/diverse data of the same customer, Customer 360 links them to say, “ This data in various ways belongs to customer John Doe.” It helps businesses understand customers better, personalize services, and figure out customer data patterns.</p>
+                ]]>
+            </content:encoded>
+        </item>
+        
+        <item>
+            <id>https://dzone.com/articles/3553699</id>
+            <title>Mastering Advanced Aggregations in Spark SQL</title>
+            <link>https://dzone.com/articles/advanced-aggregations-in-apache-spark</link>
+            <guid isPermaLink="false">https://dzone.com/articles/3553699</guid>
+            <pubDate></pubDate>
+            <updated>Thu, 15 May 2025 11:00:00 GMT</updated>
+                
+            <media:thumbnail url="https://dz2cdn1.dzone.com/thumbnail?fid=18400770&amp;w=600"/>
+                
+                
+            <content:encoded>
+                <![CDATA[
+                    
+                    <p>In data analytics, efficiently aggregating large datasets is a basic need. For example, when working with retail inventory data, tracking products shipped to stores each month, the standard GROUP BY clause in SQL can handle basic aggregations.&nbsp;</p>
+<p>However, it falls short when you need multiple levels of aggregation in a single query. This is where <a href="https://dzone.com/articles/apache-spark-all-you-need-to-know">Spark SQL’s</a> advanced GROUP BY extensions, GROUPING SETS, ROLLUP, and CUBE, come into the picture to compute multiple groupings efficiently.</p>
+                ]]>
+            </content:encoded>
+        </item>
+        
+        <item>
+            <id>https://dzone.com/articles/3557394</id>
+            <title>Cosmos DB Disaster Recovery: Multi-Region Write Pitfalls and How to Evade Them</title>
+            <link>https://dzone.com/articles/cosmos-db-disaster-recovery</link>
+            <guid isPermaLink="false">https://dzone.com/articles/3557394</guid>
+            <pubDate></pubDate>
+            <updated>Wed, 14 May 2025 22:00:00 GMT</updated>
+                
+            <media:thumbnail url="https://dz2cdn1.dzone.com/thumbnail?fid=18401586&amp;w=600"/>
+                
+                
+            <content:encoded>
+                <![CDATA[
+                    
+                    <h2>Introduction</h2>
+<p>Azure Cosmos DB is an excellent global distributed, multi-model database service for high availability, low-latency access, and straightforward scalability. One of its most prominent characteristics is multi-region writes, whereby your applications write to the nearest regional replica, which greatly boosts performance and resilience.</p>
+<p>But here's the catch: enabling multi-region writes also introduces new challenges, especially when you're architecting for disaster recovery (DR). Without careful planning, you can end up with data conflicts, unplanned downtime, or even data loss.</p>
+                ]]>
+            </content:encoded>
+        </item>
+        
+        <item>
+            <id>https://dzone.com/articles/3564710</id>
+            <title>Developers Beware: Slopsquatting and Vibe Coding Can Increase Risk of AI-Powered Attacks</title>
+            <link>https://dzone.com/articles/slopsquatting-and-vibe-code-ai-risks</link>
+            <guid isPermaLink="false">https://dzone.com/articles/3564710</guid>
+            <pubDate></pubDate>
+            <updated>Wed, 14 May 2025 21:30:00 GMT</updated>
+                
+            <media:thumbnail url="https://dz2cdn1.dzone.com/thumbnail?fid=18402528&amp;w=600"/>
+                
+                
+            <content:encoded>
+                <![CDATA[
+                    
+                    <p>Security researchers and developers are raising alarms over “slopsquatting,” a new form of supply chain attack that leverages AI-generated misinformation commonly known as hallucinations. As developers increasingly rely on coding tools like GitHub Copilot, ChatGPT, and DeepSeek, attackers are exploiting AI’s tendency to invent software packages, tricking users into downloading malicious content.</p>
+<h2>What is Slopsquatting?</h2>
+<p>The term slopsquatting was originally coined by Seth Larson, a developer with the Python Software Foundation, and later popularized by tech security researcher Andrew Nesbitt. It refers to cases <a href="https://dzone.com/articles/how-artificial-intelligence-is-transforming-cybers">where attackers</a> register software packages that don’t actually exist, but are mistakenly suggested by AI tools; once live, these fake packages can contain harmful code.</p>
+                ]]>
+            </content:encoded>
+        </item>
+        
+        <item>
+            <id>https://dzone.com/articles/3540862</id>
+            <title>FIPS 140-3: The Security Standard That Protects Our Federal Data</title>
+            <link>https://dzone.com/articles/fips-security-standard-federal-data</link>
+            <guid isPermaLink="false">https://dzone.com/articles/3540862</guid>
+            <pubDate></pubDate>
+            <updated>Wed, 14 May 2025 21:00:00 GMT</updated>
+                
+            <media:thumbnail url="https://dz2cdn1.dzone.com/thumbnail?fid=18400872&amp;w=600"/>
+                
+                
+            <content:encoded>
+                <![CDATA[
+                    
+                    <p>FIPS (Federal Information Processing Standards) <a href="https://en.wikipedia.org/wiki/Federal_Information_Processing_Standards" rel="noopener noreferrer" target="_blank">[1]</a> defines a set of public security standards developed by NIST (National Institute of Standards and Technology) <a href="https://www.nist.gov" rel="noopener noreferrer" target="_blank">[2]</a> that govern the security requirements for cryptographic modules used in government systems. FIPS 140-3 is the latest federal security standard, which includes state-of-the-art protection for deployment environments, such as the cloud, where the system could potentially be physically accessed by untrusted parties.</p>
+<p>Why is this important (or even relevant) for common (non-federal) workloads? Different security frameworks cater to specific domains or regions, focusing on safeguarding sensitive individual data used in those domains (e.g., name, age, and medical history in the healthcare domain or name, credit, loan, and tax records in the financial domain).&nbsp;</p>
+                ]]>
+            </content:encoded>
+        </item>
+        
+        <item>
+            <id>https://dzone.com/articles/3541011</id>
+            <title>Why Database Migrations Take Months and How to Speed Them Up</title>
+            <link>https://dzone.com/articles/speed-up-data-migrations</link>
+            <guid isPermaLink="false">https://dzone.com/articles/3541011</guid>
+            <pubDate></pubDate>
+            <updated>Wed, 14 May 2025 20:00:00 GMT</updated>
+                
+            <media:thumbnail url="https://dz2cdn1.dzone.com/thumbnail?fid=18400851&amp;w=600"/>
+                
+                
+            <content:encoded>
+                <![CDATA[
+                    
+                    <p>Today, where information is unequivocally the cornerstone of everything and a core competitive advantage, our databases often hold our data hostage.&nbsp;</p>
+<p>It's 2025, yet it's not uncommon for a database migration project to span many months, even when the migration is considered like-for-like (e.g., between <a href="https://dzone.com/articles/mongodb-basics-in-5-minutes">MongoDB</a> and <a href="https://dzone.com/articles/optimizing-performance-in-azure-cosmos-db">Cosmos DB</a> with MongoDB API). These long projects take everyone's attention, create uncertainty, and slow down developer productivity.&nbsp;</p>
+                ]]>
+            </content:encoded>
+        </item>
+        
+        <item>
+            <id>https://dzone.com/articles/3551773</id>
+            <title>MySQL to PostgreSQL Database Migration: A Practical Case Study</title>
+            <link>https://dzone.com/articles/practical-case-study-of-mysql-to-postgresql-databa</link>
+            <guid isPermaLink="false">https://dzone.com/articles/3551773</guid>
+            <pubDate></pubDate>
+            <updated>Wed, 14 May 2025 19:00:00 GMT</updated>
+                
+            <media:thumbnail url="https://dz2cdn1.dzone.com/thumbnail?fid=18400762&amp;w=600"/>
+                
+                
+            <content:encoded>
+                <![CDATA[
+                    
+                    <p>Migrating a MySQL database to PostgreSQL is a complex process that involves schema conversion, data transfer, query optimization, and performance tuning. In this case study, we document a real-world migration of e-commerce platform's database from MySQL 8.0 to PostgreSQL 15. The study includes performance benchmarks before and after migration.</p>
+<h2>Project Overview</h2>
+<div class="table-responsive" style="border: none;">
+ <table style="width: auto; display: table;" width="auto">
+  <tbody>
+   <tr style="width: auto;" width="auto">
+    <td style="width: auto;" width="auto">Industry</td>
+    <td style="width: auto;" width="auto">E-commerce</td>
+   </tr>
+   <tr style="width: auto;" width="auto">
+    <td style="width: auto;" width="auto">Database Size</td>
+    <td style="width: auto;" width="auto">~120 GB</td>
+   </tr>
+   <tr style="width: auto;" width="auto">
+    <td style="width: auto;" width="auto">Number of Tables</td>
+    <td style="width: auto;" width="auto">200+</td>
+   </tr>
+   <tr style="width: auto;" width="auto">
+    <td style="width: auto;" width="auto">Queries per Second (QPS)</td>
+    <td style="width: auto;" width="auto">~350</td>
+   </tr>
+   <tr style="width: auto;" width="auto">
+    <td style="width: auto;" width="auto">Replication Setup</td>
+    <td style="width: auto;" width="auto">MySQL Master-Slave is switched to PostgreSQL Streaming Replication</td>
+   </tr>
+   <tr style="width: auto;" width="auto">
+    <td style="width: auto;" width="auto">Primary Use Case</td>
+    <td style="width: auto;" width="auto">OLTP (Online Transaction Processing)</td>
+   </tr>
+   <tr style="width: auto;" width="auto">
+    <td style="width: auto;" width="auto">Goal</td>
+    <td style="width: auto;" width="auto">Improve read-heavy performance, complex query execution and JSON processing</td>
+   </tr>
+  </tbody>
+ </table>
+</div>
+<h2>Pre-Migration Performance Benchmarks</h2>
+<p>Before migration, we collected key performance metrics on MySQL 8.0 using <code>sysbench</code> and <code>EXPLAIN ANALYZE</code>.</p>
+                ]]>
+            </content:encoded>
+        </item>
+        
+        <item>
+            <id>https://dzone.com/articles/3550639</id>
+            <title>Understanding IEEE 802.11(Wi-Fi) Encryption and Authentication: Write Your Own Custom Packet Sniffer</title>
+            <link>https://dzone.com/articles/ieee-80211-wi-fi-encryption-authentication-encryption</link>
+            <guid isPermaLink="false">https://dzone.com/articles/3550639</guid>
+            <pubDate></pubDate>
+            <updated>Wed, 14 May 2025 18:00:00 GMT</updated>
+                
+            <media:thumbnail url="https://dz2cdn1.dzone.com/thumbnail?fid=18400699&amp;w=600"/>
+                
+                
+            <content:encoded>
+                <![CDATA[
+                    
+                    <h2 dir="ltr">Introduction</h2>
+<p dir="ltr">As of 2023, it’s estimated that 42 billion cumulative Wi-Fi enabled devices have been shipped (<em>Wi-Fi® by the Numbers: Technology Momentum in 2023</em>, n.d.). Every new device adds to the increasing wireless attack surface, and it's important for anyone working in the security software industry to have a basic understanding of how wireless networks encrypt traffic and authenticate users. In this article, we’ll go through the 4 currently supported and ratified security standards for Wi-Fi networks. We’ll also look at the IEEE 802.11 packet and header structure. Then we will look at a C program to write your custom packet sniffer linking with libpcap. We will also look at a real-life packet capture using Wireshark GUI.</p>
+<h4 dir="ltr">Outline:</h4>
+<ol>
+ <li>Common encryption and auth supported by IEEE 802.11 standards &nbsp;&lt;- <strong>Theoretical Foundation</strong></li>
+ <li>IEEE 802.11 mac header, frame types, Information elements &lt;- <strong>Theoretical Foundation</strong></li>
+ <li>Custom C program linked with <code>libpcap</code> to sniff packets &lt;- <strong>Practical Application</strong></li>
+ <li>Wireshark based sniffing of nearby APs &lt;- <strong>Practical Application</strong></li>
+</ol>
+<h2 dir="ltr">Common Encryption and Authentication Methods Supported by the Standards</h2>
+<p>WEP (1997), WPA (2003), WPA2(2004), WPA3 (2018) are the 4 officially ratified IEEE 802.11 security standards by the <a href="https://www.wi-fi.org/" rel="noopener noreferrer" target="_blank">Wi-Fi Alliance</a>. WPA4 is expected to be rolled out with Wi-Fi 7 but no standard has been formally ratified.</p>
+                ]]>
+            </content:encoded>
+        </item>
+        
+        <item>
+            <id>https://dzone.com/articles/3564758</id>
+            <title>Unlocking AI Coding Assistants: Generate Unit Tests</title>
+            <link>https://dzone.com/articles/ai-coding-assistants-generate-unit-tests</link>
+            <guid isPermaLink="false">https://dzone.com/articles/3564758</guid>
+            <pubDate></pubDate>
+            <updated>Wed, 14 May 2025 17:00:00 GMT</updated>
+                
+            <media:thumbnail url="https://dz2cdn1.dzone.com/thumbnail?fid=18400696&amp;w=600"/>
+                
+                
+            <content:encoded>
+                <![CDATA[
+                    
+                    <div>
+ <p>In this part of this series, you will try to create unit tests for a Spring Boot application using an AI coding assistant. The goal is not merely to create working unit tests, but to create qualitative unit tests. Enjoy!</p>
+ <h2>Introduction</h2>
+ <p>You will try to generate unit tests for a basic Spring Boot application with the help of an AI coding assistant. The responses are evaluated, and different techniques are applied, which can be used to improve the responses when necessary. This blog is part of a series; the previous parts can be read here:</p>
+                ]]>
+            </content:encoded>
+        </item>
+        
+    </channel>
+</rss>

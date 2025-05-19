@@ -1,0 +1,420 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
+    <channel>
+        <title>DZone DevOps and CI/CD Zone</title>
+        <link>https://dzone.com/devops-and-cicd</link>
+        
+        <item>
+            <id>https://dzone.com/articles/3527660</id>
+            <title>Infrastructure as Code (IaC) Beyond the Basics</title>
+            <link>https://feeds.dzone.com/link/23568/17032453/infrastructure-as-code-iac-beyond-the-basics</link>
+            <guid isPermaLink="false">https://dzone.com/articles/3527660</guid>
+            <pubDate></pubDate>
+            <updated>Fri, 16 May 2025 21:00:00 GMT</updated>
+                
+            <media:thumbnail url="https://dz2cdn1.dzone.com/thumbnail?fid=18401549&amp;w=600"/>
+                
+                
+            <content:encoded>
+                <![CDATA[
+                    
+                    <p>Infrastructure as Code, or IaC, is now an inalienable part of the majority of modern cloud-native projects. Previously, generation of scripts for configuration and using your environments as a moving target has been tiresome. Then came advanced tooling with even stronger assurance for a standardized, stable, and scalable setup.&nbsp;</p>
+<p>Nevertheless, most teams are still at the ‘hello world’ stage of IaC, with little understanding of how to level up and manage, organize, and govern it as the work progresses. This article aims to discuss how to maximize the use of IaC — focusing on the organization of modules, versioning, and policy.</p><img height="1" src="https://feeds.dzone.com/link/23568/17032453.gif" width="1" />
+                ]]>
+            </content:encoded>
+        </item>
+        
+        <item>
+            <id>https://dzone.com/articles/3544135</id>
+            <title>Integrating Google BigQuery With Amazon SageMaker</title>
+            <link>https://feeds.dzone.com/link/23568/17031742/integrating-bigquery-and-amazon-sagemaker</link>
+            <guid isPermaLink="false">https://dzone.com/articles/3544135</guid>
+            <pubDate></pubDate>
+            <updated>Thu, 15 May 2025 21:00:00 GMT</updated>
+                
+            <media:thumbnail url="https://dz2cdn1.dzone.com/thumbnail?fid=18402537&amp;w=600"/>
+                
+                
+            <content:encoded>
+                <![CDATA[
+                    
+                    <p>Today, organizations often need to leverage services across different cloud platforms to maximize their data science capabilities. One common scenario is analyzing data stored in Google BigQuery using Amazon SageMaker's advanced machine learning tools.</p>
+<p>This article presents a comprehensive guide to establishing a direct connection between Google BigQuery and Amazon SageMaker Studio through Data Wrangler, offering a cost-effective and secure solution that eliminates the need for data duplication and reduces data transfer overhead.</p><img height="1" src="https://feeds.dzone.com/link/23568/17031742.gif" width="1" />
+                ]]>
+            </content:encoded>
+        </item>
+        
+        <item>
+            <id>https://dzone.com/articles/3556157</id>
+            <title>Optimizing Integration Workflows With Spark Structured Streaming and Cloud Services</title>
+            <link>https://feeds.dzone.com/link/23568/17031612/streaming-integration-workflows-spark-cloud</link>
+            <guid isPermaLink="false">https://dzone.com/articles/3556157</guid>
+            <pubDate></pubDate>
+            <updated>Thu, 15 May 2025 18:00:00 GMT</updated>
+                
+            <media:thumbnail url="https://dz2cdn1.dzone.com/thumbnail?fid=18402472&amp;w=600"/>
+                
+                
+            <content:encoded>
+                <![CDATA[
+                    
+                    <p dir="ltr">Data is everywhere and moving faster than ever before. If you are processing logs from millions of IoT devices, tracking customer behavior on an e-commerce site, or monitoring stock market changes in real time, your ability to integrate and process this data quickly and efficiently can mean the difference between your business succeeding or failing.</p>
+<p><a href="https://dzone.com/articles/spark-structured-streaming-using-java">Spark Structured Streaming</a> comes in handy here. The combination of scalability offered by cloud services and the ability to handle real-time data streams makes it a powerful tool for optimizing integration workflows. Let's see how these two technologies can be used to design robust, high-performing data pipelines and how to deal with the actual world scenario of dealing with continuous data.</p><img height="1" src="https://feeds.dzone.com/link/23568/17031612.gif" width="1" />
+                ]]>
+            </content:encoded>
+        </item>
+        
+        <item>
+            <id>https://dzone.com/articles/3555576</id>
+            <title>Integration Isn’t a Task — It’s an Architectural Discipline</title>
+            <link>https://feeds.dzone.com/link/23568/17031547/integration-as-architectural-discipline</link>
+            <guid isPermaLink="false">https://dzone.com/articles/3555576</guid>
+            <pubDate></pubDate>
+            <updated>Thu, 15 May 2025 16:00:06 GMT</updated>
+                
+            <media:thumbnail url="https://dz2cdn1.dzone.com/thumbnail?fid=18402430&amp;w=600"/>
+                
+                
+            <content:encoded>
+                <![CDATA[
+                    
+                    <p dir="ltr">Let’s talk about integration. Not the glossy vendor slide-deck version, but the messy, deeply architectural reality of connecting systems in the enterprise.</p>
+<p dir="ltr">Despite all our advances in tooling and frameworks, the way many organizations approach integration still hasn’t changed. Too often, we default to short-term fixes — point-to-point links, overstuffed middleware, or bespoke connectors — because they’re “fast.” But that speed comes at a price: brittle systems, tight coupling, and long-term technical debt that can paralyze change.</p><img height="1" src="https://feeds.dzone.com/link/23568/17031547.gif" width="1" />
+                ]]>
+            </content:encoded>
+        </item>
+        
+        <item>
+            <id>https://dzone.com/articles/3557265</id>
+            <title>Vibe Coding With GitHub Copilot: Optimizing API Performance in Fintech Microservices</title>
+            <link>https://feeds.dzone.com/link/23568/17031526/vibe-coding-github-copilot-fintech-apis</link>
+            <guid isPermaLink="false">https://dzone.com/articles/3557265</guid>
+            <pubDate></pubDate>
+            <updated>Thu, 15 May 2025 15:00:00 GMT</updated>
+                
+            <media:thumbnail url="https://dz2cdn1.dzone.com/thumbnail?fid=18402427&amp;w=600"/>
+                
+                
+            <content:encoded>
+                <![CDATA[
+                    
+                    <p style="text-align: left;">In fintech, APIs power everything. Starting from payments to trading to real-time customer experiences, the API takes care of everything. Performance isn't optional, but it's critical for user trust and business success.&nbsp;</p>
+<p style="text-align: left;">As a fintech API and cloud optimization expert, I constantly face the challenge of balancing quick development with high performance. When Microsoft announced GitHub Copilot for free, I asked myself a real-world question:<em>&nbsp;Can GitHub Copilot go beyond writing boilerplate code and help optimize fintech Microservice APIs?</em></p><img height="1" src="https://feeds.dzone.com/link/23568/17031526.gif" width="1" />
+                ]]>
+            </content:encoded>
+        </item>
+        
+        <item>
+            <id>https://dzone.com/articles/3554872</id>
+            <title>Scaling DevOps With NGINX Caching: Reducing Latency and Backend Load</title>
+            <link>https://feeds.dzone.com/link/23568/17030024/scaling-devops-principles-for-reducing-web-latency</link>
+            <guid isPermaLink="false">https://dzone.com/articles/3554872</guid>
+            <pubDate></pubDate>
+            <updated>Tue, 13 May 2025 15:00:03 GMT</updated>
+                
+            <media:thumbnail url="https://dz2cdn1.dzone.com/thumbnail?fid=18394428&amp;w=600"/>
+                
+                
+            <content:encoded>
+                <![CDATA[
+                    
+                    <p>In large-scale companies with huge DevOps environments, caching isn’t just an optimization — it’s a survival strategy. Applications teams working with artifact repositories, container registries, and CI/CD pipelines often encounter performance issues that aren’t rooted in code inefficiencies, but rather in the overwhelming volume of metadata requests hammering artifact services or in short binary storage systems, which are key to the functioning of any application or batch.</p>
+<blockquote>
+ <p>"A well-architected caching strategy can mitigate these challenges by reducing unnecessary backend load and improving request efficiency."</p><img height="1" src="https://feeds.dzone.com/link/23568/17030024.gif" width="1" />
+                ]]>
+            </content:encoded>
+        </item>
+        
+        <item>
+            <id>https://dzone.com/articles/3560002</id>
+            <title>Concourse CI/CD Pipeline: Webhook Triggers</title>
+            <link>https://feeds.dzone.com/link/23568/17029881/concourse-pipeline-webhook-triggers</link>
+            <guid isPermaLink="false">https://dzone.com/articles/3560002</guid>
+            <pubDate></pubDate>
+            <updated>Tue, 13 May 2025 11:00:00 GMT</updated>
+                
+            <media:thumbnail url="https://dz2cdn1.dzone.com/thumbnail?fid=18393425&amp;w=600"/>
+                
+                
+            <content:encoded>
+                <![CDATA[
+                    
+                    <p>Concourse is an open-source continuous integration and delivery (CI/CD) automation framework written in Go. It is built to scale to any automation pipeline, from minor to complex tasks, and offers flexibility, scalability, and a declarative approach to automation. It is suitable for automating testing pipelines and continuously delivering changes to modern application stacks in various environments.</p>
+<p>This article will discuss setting up a <a href="https://dzone.com/articles/deploying-concourse-ci-on-alicloud-kubernetes">Concourse pipeline</a> and triggering pipelines using webhook triggers.&nbsp;</p><img height="1" src="https://feeds.dzone.com/link/23568/17029881.gif" width="1" />
+                ]]>
+            </content:encoded>
+        </item>
+        
+        <item>
+            <id>https://dzone.com/articles/3556423</id>
+            <title>Automating Data Pipelines: Generating PySpark and SQL Jobs With LLMs in Cloudera</title>
+            <link>https://feeds.dzone.com/link/23568/17028859/generating-pyspark-sql-jobs-llms-cloudera</link>
+            <guid isPermaLink="false">https://dzone.com/articles/3556423</guid>
+            <pubDate></pubDate>
+            <updated>Mon, 12 May 2025 11:00:00 GMT</updated>
+                
+            <media:thumbnail url="https://dz2cdn1.dzone.com/thumbnail?fid=18391525&amp;w=600"/>
+                
+                
+            <content:encoded>
+                <![CDATA[
+                    
+                    <p>With the rise of generative AI and large language models (LLMs), data engineers and analysts can now translate natural language directly into working PySpark or SQL jobs.&nbsp;</p>
+<p>By integrating LLMs into Cloudera Machine Learning (CML) and executing workloads on Cloudera Data Engineering (CDE) with Iceberg table formats, enterprises can accelerate data pipeline development, improve collaboration, and simplify access to large-scale analytics.</p><img height="1" src="https://feeds.dzone.com/link/23568/17028859.gif" width="1" />
+                ]]>
+            </content:encoded>
+        </item>
+        
+        <item>
+            <id>https://dzone.com/articles/3545412</id>
+            <title>Immutable Secrets Management: A Zero-Trust Approach to Sensitive Data in Containers</title>
+            <link>https://feeds.dzone.com/link/23568/17026908/immutable-secrets-management-zero-trust-approach</link>
+            <guid isPermaLink="false">https://dzone.com/articles/3545412</guid>
+            <pubDate></pubDate>
+            <updated>Fri, 09 May 2025 15:00:00 GMT</updated>
+                
+            <media:thumbnail url="https://dz2cdn1.dzone.com/thumbnail?fid=18385792&amp;w=600"/>
+                
+                
+            <content:encoded>
+                <![CDATA[
+                    
+                    <h2><strong>Abstract</strong></h2>
+<p>This paper presents a comprehensive approach to securing sensitive data in containerized environments using the principle of immutable secrets management, grounded in a Zero-Trust security model. We detail the inherent risks of traditional secrets management, demonstrate how immutability and Zero-Trust principles mitigate these risks, and provide a practical, step-by-step guide to implementation. A real-world case study using AWS services and common DevOps tools illustrates the tangible benefits of this approach, aligning with the criteria for the Global Tech Awards in the DevOps Technology category. The focus is on achieving continuous delivery, security, and resilience through a novel concept we term "ChaosSecOps."</p>
+<h2><strong>Executive Summary</strong></h2>
+<p>This paper details a robust, innovative approach to securing sensitive data within containerized environments: Immutable Secrets Management with a Zero-Trust approach. We address the critical vulnerabilities inherent in traditional secrets management practices, which often rely on mutable secrets and implicit trust. Our solution, grounded in the principles of Zero-Trust security, immutability, and DevSecOps, ensures that secrets are inextricably linked to container images, minimizing the risk of exposure and unauthorized access.</p><img height="1" src="https://feeds.dzone.com/link/23568/17026908.gif" width="1" />
+                ]]>
+            </content:encoded>
+        </item>
+        
+        <item>
+            <id>https://dzone.com/articles/3541901</id>
+            <title>Mastering Advanced Traffic Management in Multi-Cloud Kubernetes: Scaling With Multiple Istio Ingress Gateways</title>
+            <link>https://feeds.dzone.com/link/23568/17026464/scaling-multiple-istio-ingress-gateways</link>
+            <guid isPermaLink="false">https://dzone.com/articles/3541901</guid>
+            <pubDate></pubDate>
+            <updated>Thu, 08 May 2025 21:00:00 GMT</updated>
+                
+            <media:thumbnail url="https://dz2cdn1.dzone.com/thumbnail?fid=18392758&amp;w=600"/>
+                
+                
+            <content:encoded>
+                <![CDATA[
+                    
+                    <p>In my experience managing large-scale Kubernetes deployments across multi-cloud platforms, traffic control often becomes a critical bottleneck, especially when dealing with mixed workloads like APIs, UIs, and transactional systems. While Istio’s default ingress gateway does a decent job, I found that relying on a single gateway can introduce scaling and isolation challenges.</p>
+<p>That’s where configuring multiple Istio Ingress Gateways can make a real difference. In this article, I’ll walk you through how I approached this setup, what benefits it unlocked for our team, and the hands-on steps we used, along with best practices and YAML configurations that you can adapt in your own clusters.</p><img height="1" src="https://feeds.dzone.com/link/23568/17026464.gif" width="1" />
+                ]]>
+            </content:encoded>
+        </item>
+        
+        <item>
+            <id>https://dzone.com/articles/3557478</id>
+            <title>Streamlining Event Data in Event-Driven Ansible</title>
+            <link>https://feeds.dzone.com/link/23568/17023051/streamlining-event-data-event-driven-ansible</link>
+            <guid isPermaLink="false">https://dzone.com/articles/3557478</guid>
+            <pubDate></pubDate>
+            <updated>Tue, 06 May 2025 14:00:03 GMT</updated>
+                
+            <media:thumbnail url="https://dz2cdn1.dzone.com/thumbnail?fid=18382201&amp;w=600"/>
+                
+                
+            <content:encoded>
+                <![CDATA[
+                    
+                    <p>In Event-Driven Ansible (EDA), event filters play a crucial role in preparing incoming data for automation rules. They help streamline and simplify event payloads, making it easier to define conditions and actions in rulebooks. Previously, we explored the <code>ansible.eda.dashes_to_underscores</code> filter, which replaces dashes in keys with underscores to ensure compatibility with Ansible's variable naming conventions.&nbsp;</p>
+<p>In this article, we will explore two more event filters <code>ansible.eda.json_filter</code> and <code>ansible.eda.normalize_keys</code>.</p><img height="1" src="https://feeds.dzone.com/link/23568/17023051.gif" width="1" />
+                ]]>
+            </content:encoded>
+        </item>
+        
+        <item>
+            <id>https://dzone.com/articles/3562311</id>
+            <title>Mastering Fluent Bit: Installing and Configuring Fluent Bit on Kubernetes (Part 3)</title>
+            <link>https://feeds.dzone.com/link/23568/17022228/installing-configuring-fluent-bit-kubernetes</link>
+            <guid isPermaLink="false">https://dzone.com/articles/3562311</guid>
+            <pubDate></pubDate>
+            <updated>Mon, 05 May 2025 13:00:00 GMT</updated>
+                
+            <media:thumbnail url="https://dz2cdn1.dzone.com/thumbnail?fid=18377778&amp;w=600"/>
+                
+                
+            <content:encoded>
+                <![CDATA[
+                    
+                    <p>This series is a general-purpose getting-started guide for those of us who want to learn about the Cloud Native Computing Foundation (CNCF) project Fluent Bit.&nbsp;</p>
+<p>Each article in this series addresses a single topic by providing insights into <em>what</em> the topic is, <em>why</em> we are interested in exploring that topic, <em>where</em> to get started with the topic, and <em>how&nbsp;</em>to get hands-on with learning about the topic as it relates to the Fluent Bit project.</p><img height="1" src="https://feeds.dzone.com/link/23568/17022228.gif" width="1" />
+                ]]>
+            </content:encoded>
+        </item>
+        
+        <item>
+            <id>https://dzone.com/articles/3555509</id>
+            <title>Docker Base Images Demystified: A Practical Guide</title>
+            <link>https://feeds.dzone.com/link/23568/17020806/docker-base-images-demystified</link>
+            <guid isPermaLink="false">https://dzone.com/articles/3555509</guid>
+            <pubDate></pubDate>
+            <updated>Fri, 02 May 2025 16:00:07 GMT</updated>
+                
+            <media:thumbnail url="https://dz2cdn1.dzone.com/thumbnail?fid=18377693&amp;w=600"/>
+                
+                
+            <content:encoded>
+                <![CDATA[
+                    
+                    <h2>What Is a Docker Base Image?</h2>
+<p>A Docker base image is the foundational layer from which containers are built. Think of it as the “starting point” for your application’s environment. It’s a minimal, preconfigured template containing an operating system, runtime tools, libraries, and dependencies. When you write a Dockerfile, the <code>FROM</code> command defines this base image, setting the stage for all subsequent layers.&nbsp;</p>
+<p>For example, you might start with a lightweight Linux distribution like Alpine, a language-specific image like <a href="https://dzone.com/articles/python-tutorial-for-beginners-a-comprehensive-guid">Python</a> or <a href="https://dzone.com/articles/watch-a-writer-learn-nodejs-part-1">Node.js</a>, or even an empty "scratch" image for ultimate customization. These base images abstract away the underlying infrastructure, ensuring consistency across development, testing, and production environments. Choosing the right base image is critical, as it directly impacts your container’s security, size, performance, and maintainability. Whether optimizing for speed or ensuring compatibility, your base image shapes everything that follows.</p><img height="1" src="https://feeds.dzone.com/link/23568/17020806.gif" width="1" />
+                ]]>
+            </content:encoded>
+        </item>
+        
+        <item>
+            <id>https://dzone.com/articles/3529704</id>
+            <title>Optimize Deployment Pipelines for Speed, Security and Seamless Automation</title>
+            <link>https://feeds.dzone.com/link/23568/17020727/deployment-pipeline-boost-speed-security-automation</link>
+            <guid isPermaLink="false">https://dzone.com/articles/3529704</guid>
+            <pubDate></pubDate>
+            <updated>Fri, 02 May 2025 14:00:00 GMT</updated>
+                
+            <media:thumbnail url="https://dz2cdn1.dzone.com/thumbnail?fid=18368733&amp;w=600"/>
+                
+                
+            <content:encoded>
+                <![CDATA[
+                    
+                    <p dir="ltr">A developer's work doesn't stop once the code is written. The real action begins when it’s deployment day. The process—managing multiple environments, testing new features, or ensuring seamless uptime during releases—must be fast, secure, and efficient.</p>
+<p dir="ltr">Can you imagine a world where deployment is smooth, automated, and risk-free—where strategies scale, adapt, and are successful every single time?&nbsp;</p><img height="1" src="https://feeds.dzone.com/link/23568/17020727.gif" width="1" />
+                ]]>
+            </content:encoded>
+        </item>
+        
+        <item>
+            <id>https://dzone.com/articles/3557015</id>
+            <title>Internal Developer Portals: Modern DevOps's Missing Piece</title>
+            <link>https://feeds.dzone.com/link/23568/17020274/idps-modern-devopss-missing-piece</link>
+            <guid isPermaLink="false">https://dzone.com/articles/3557015</guid>
+            <pubDate></pubDate>
+            <updated>Thu, 01 May 2025 20:00:00 GMT</updated>
+                
+            <media:thumbnail url="https://dz2cdn1.dzone.com/thumbnail?fid=18373777&amp;w=600"/>
+                
+                
+            <content:encoded>
+                <![CDATA[
+                    
+                    <p>You have experienced the following scenario as a developer in 2025: you are prepared to test an API or introduce a new microservice, but you are initially stalled. You require authorization to construct a container, database access, or guidance on which CI/CD pipeline to employ. You go through old documents, ping a few Slack channels, and maybe, just possibly, you'll be unblocked before lunch.</p>
+<p>It's not a tool problem. This issue stems from the lack of experience among developers. To bridge the gap, internal developer portals (IDPs) are taking over.</p><img height="1" src="https://feeds.dzone.com/link/23568/17020274.gif" width="1" />
+                ]]>
+            </content:encoded>
+        </item>
+        
+        <item>
+            <id>https://dzone.com/articles/3554989</id>
+            <title>Integrating Security as Code: A Necessity for DevSecOps</title>
+            <link>https://feeds.dzone.com/link/23568/17020142/integrating-security-as-code-devops</link>
+            <guid isPermaLink="false">https://dzone.com/articles/3554989</guid>
+            <pubDate></pubDate>
+            <updated>Thu, 01 May 2025 17:00:00 GMT</updated>
+                
+            <media:thumbnail url="https://dz2cdn1.dzone.com/thumbnail?fid=18374671&amp;w=600"/>
+                
+                
+            <content:encoded>
+                <![CDATA[
+                    
+                    <p>Security practices in DevOps have evolved from being a minor concern to one of the main focus points, which resulted in the DevSecOps movement. It’s about “shifting security to the left” in the software development lifecycle — so the security measures are a fundamental component.</p>
+<p>Traditionally, security management was moved to the final stages of developing software, and it has proven its ineffectiveness in dealing with the challenges of modern software projects. This is where Security as Code (SaC) comes in. It is a way to integrate security into every phase of development, from start to deployment, so that security and development teams can work together effectively and successfully.&nbsp;</p><img height="1" src="https://feeds.dzone.com/link/23568/17020142.gif" width="1" />
+                ]]>
+            </content:encoded>
+        </item>
+        
+        <item>
+            <id>https://dzone.com/articles/3556420</id>
+            <title>The 4 R’s of Pipeline Reliability: Designing Data Systems That Last</title>
+            <link>https://feeds.dzone.com/link/23568/17020042/four-rs-of-pipeline-reliability</link>
+            <guid isPermaLink="false">https://dzone.com/articles/3556420</guid>
+            <pubDate></pubDate>
+            <updated>Thu, 01 May 2025 14:00:00 GMT</updated>
+                
+            <media:thumbnail url="https://dz2cdn1.dzone.com/thumbnail?fid=18374557&amp;w=600"/>
+                
+                
+            <content:encoded>
+                <![CDATA[
+                    
+                    <p dir="ltr">As AI and machine learning applications continue to proliferate, the data pipelines that power them have become more mission-critical than ever. As retrieval-augmented generation (RAG) applications and real-time AI systems are becoming the norm, any glitch in a data pipeline can lead to stale insights, suboptimal model performance, and inflated infrastructure costs.</p>
+<p dir="ltr">Working in this domain has taught me that even minor lapses in pipeline reliability can escalate into major outages. To combat this, I rely on a framework I call the 4 R’s of <a href="https://dzone.com/articles/enhanced-monitoring-pipeline-rag-optimizations">pipeline reliability</a>: robust architecture, resumability, recoverability, and redundancy. Here’s how each element contributes to building data systems that truly last.</p><img height="1" src="https://feeds.dzone.com/link/23568/17020042.gif" width="1" />
+                ]]>
+            </content:encoded>
+        </item>
+        
+        <item>
+            <id>https://dzone.com/articles/3556922</id>
+            <title>Docker Model Runner: Streamlining AI Deployment for Developers</title>
+            <link>https://feeds.dzone.com/link/23568/17019406/docker-model-runner-ai-deployment</link>
+            <guid isPermaLink="false">https://dzone.com/articles/3556922</guid>
+            <pubDate></pubDate>
+            <updated>Wed, 30 Apr 2025 19:00:00 GMT</updated>
+                
+            <media:thumbnail url="https://dz2cdn1.dzone.com/thumbnail?fid=18371704&amp;w=600"/>
+                
+                
+            <content:encoded>
+                <![CDATA[
+                    
+                    <p>Development teams working in the fast-evolving AI development environment must tackle efficient model deployment as their primary operational challenge. Docker Model Runner represents a transformative containerization solution that drives changes in how developers create, deploy, and expand their applications that use AI technology.&nbsp;</p>
+<p>This article will cover how this technology bridges the gap between data science testing phases and the deployment of ready-to-use AI systems.</p><img height="1" src="https://feeds.dzone.com/link/23568/17019406.gif" width="1" />
+                ]]>
+            </content:encoded>
+        </item>
+        
+        <item>
+            <id>https://dzone.com/articles/3559119</id>
+            <title>A Guide to Container Runtimes</title>
+            <link>https://feeds.dzone.com/link/23568/17019369/a-guide-to-container-runtimes</link>
+            <guid isPermaLink="false">https://dzone.com/articles/3559119</guid>
+            <pubDate></pubDate>
+            <updated>Wed, 30 Apr 2025 18:00:00 GMT</updated>
+                
+            <media:thumbnail url="https://dz2cdn1.dzone.com/thumbnail?fid=18370530&amp;w=600"/>
+                
+                
+            <content:encoded>
+                <![CDATA[
+                    
+                    <p>Kubernetes, also known as K8S, is an open-source container orchestration system that is used for automating the deployment, scaling, and management of containerized workloads.&nbsp;</p>
+<p>Containers are at the heart of the <a href="https://github.com/kubernetes/kubernetes" rel="noopener noreferrer" target="_blank">Kubernetes ecosystem</a> and are the building blocks of the services built and managed by K8S. Understanding how containers are run is key to optimizing your Kubernetes environment.</p><img height="1" src="https://feeds.dzone.com/link/23568/17019369.gif" width="1" />
+                ]]>
+            </content:encoded>
+        </item>
+        
+        <item>
+            <id>https://dzone.com/articles/3556325</id>
+            <title>Setting Up Data Pipelines With Snowflake Dynamic Tables</title>
+            <link>https://feeds.dzone.com/link/23568/17019280/snowflake-dynamic-tables-data-pipelines</link>
+            <guid isPermaLink="false">https://dzone.com/articles/3556325</guid>
+            <pubDate></pubDate>
+            <updated>Wed, 30 Apr 2025 16:00:05 GMT</updated>
+                
+            <media:thumbnail url="https://dz2cdn1.dzone.com/thumbnail?fid=18324588&amp;w=600"/>
+                
+                
+            <content:encoded>
+                <![CDATA[
+                    
+                    <p>This guide walks through the steps to set up a data pipeline specifically for near-real-time or event-driven data architectures and continuously evolving needs. This guide covers each step, from setup to data ingestion, to the different layers of the data platform, and deployment and monitoring, to help manage large-scale applications effectively.</p>
+<h2><strong>&nbsp;</strong><strong>Prerequisites</strong></h2>
+<ol start="1" type="1">
+ <li>Expertise in basic and complex SQL for scripting</li>
+ <li>Experience with maintaining data pipelines and orchestration</li>
+ <li>Access to a Snowflake for deployment</li>
+ <li>Knowledge of ETL frameworks for efficient design</li>
+</ol>
+<h2><strong>Introduction</strong></h2>
+<p>Data pipeline workloads are an integral part of today’s world, and maintaining these workloads needs massive effort, and it's cumbersome. A solution is provided within Snowflake, which is called dynamic tables. &nbsp;</p><img height="1" src="https://feeds.dzone.com/link/23568/17019280.gif" width="1" />
+                ]]>
+            </content:encoded>
+        </item>
+        
+    </channel>
+</rss>

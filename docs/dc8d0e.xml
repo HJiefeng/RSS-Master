@@ -1,0 +1,348 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
+    <channel>
+        <title>Percona Database Performance Blog</title>
+        <link>https://www.percona.com/blog/</link>
+        
+        <item>
+            <id>https://www.percona.com/blog/?p=101416</id>
+            <title>Freedom and Flexibility: Rethinking Your MongoDB Cloud Strategy Beyond Atlas</title>
+            <link>https://www.percona.com/blog/rethinking-your-mongodb-cloud-strategy-beyond-atlas/</link>
+            <guid isPermaLink="false">https://www.percona.com/blog/?p=101416</guid>
+            <pubDate></pubDate>
+            <updated>Fri, 16 May 2025 13:21:35 +0000</updated>
+                
+                
+            <content:encoded>
+                <![CDATA[
+                    
+                    <img alt="MongoDB Cloud" class="webfeedsFeaturedVisual wp-post-image" height="112" src="https://www.percona.com/blog/wp-content/uploads/2025/05/MongoDB-Cloud-200x112.jpg" style="display: block; margin-bottom: 5px; clear: both;" width="200" />Let&#8217;s be honest: Getting MongoDB up and running quickly in the cloud sounds fantastic. Services like MongoDB Atlas promise easy deployment, automated scaling, and hands-off management on AWS, Azure, and GCP. For teams looking to shed operational burdens, the appeal is tempting. Click a few buttons, get a database… what&#8217;s not to like? However, as [&#8230;]
+                ]]>
+            </content:encoded>
+        </item>
+        
+        <item>
+            <id>https://www.percona.com/blog/?p=101439</id>
+            <title>New in Percona Everest 1.6.0: Easily Deploy PMM with a Single Helm Command</title>
+            <link>https://www.percona.com/blog/new-in-percona-everest-1-6-0-easily-deploy-pmm-with-a-single-helm-command/</link>
+            <guid isPermaLink="false">https://www.percona.com/blog/?p=101439</guid>
+            <pubDate></pubDate>
+            <updated>Thu, 15 May 2025 13:59:03 +0000</updated>
+                
+                
+            <content:encoded>
+                <![CDATA[
+                    
+                    <img alt="New in Percona Everest 1.6.0: Easily Deploy PMM with a Single Helm Command" class="webfeedsFeaturedVisual wp-post-image" height="112" src="https://www.percona.com/blog/wp-content/uploads/2025/05/Percona-Everest-1.6.0-Deploy-PMM-with-a-Single-Helm-Command-200x112.jpg" style="display: block; margin-bottom: 5px; clear: both;" width="200" />Monitoring your databases is critical, especially in Kubernetes environments where visibility and automation are key. That’s why, in Percona Everest 1.6.0, we introduced a highly requested feature: the ability to automatically deploy Percona Monitoring and Management (PMM) as part of the Everest Helm chart using just one flag. This simplifies the process for teams who [&#8230;]
+                ]]>
+            </content:encoded>
+        </item>
+        
+        <item>
+            <id>https://www.percona.com/blog/?p=101399</id>
+            <title>Configuring PgBouncer auth_type with Trust and HBA: Examples and Known Issues</title>
+            <link>https://www.percona.com/blog/configuring-pgbouncer-auth_type-with-trust-and-hba-examples-and-known-issues/</link>
+            <guid isPermaLink="false">https://www.percona.com/blog/?p=101399</guid>
+            <pubDate></pubDate>
+            <updated>Wed, 14 May 2025 13:35:12 +0000</updated>
+                
+                
+            <content:encoded>
+                <![CDATA[
+                    
+                    <img alt="" class="webfeedsFeaturedVisual wp-post-image" height="86" src="https://www.percona.com/blog/wp-content/uploads/2025/05/Configuring-PgBouncer-auth_type-with-Trust-and-HBA-200x86.jpg" style="display: block; margin-bottom: 5px; clear: both;" width="200" />PgBouncer is a lightweight external connection pooler that can be introduced between an application and a PostgreSQL database. It manages its own user authentication and has its own database for users, and uses auth_type options to authenticate users.  This blog post explains PgBouncer auth_type trust and hba use cases with configuration examples and known issues. [&#8230;]
+                ]]>
+            </content:encoded>
+        </item>
+        
+        <item>
+            <id>https://www.percona.com/blog/?p=101306</id>
+            <title>InnoDB Cluster Setup: Building a 3-Node High Availability Architecture</title>
+            <link>https://www.percona.com/blog/innodb-cluster-setup-building-a-3-node-high-availability-architecture/</link>
+            <guid isPermaLink="false">https://www.percona.com/blog/?p=101306</guid>
+            <pubDate></pubDate>
+            <updated>Mon, 12 May 2025 14:11:20 +0000</updated>
+                
+                
+            <content:encoded>
+                <![CDATA[
+                    
+                    <img alt="InnoDB Cluster setup" class="webfeedsFeaturedVisual wp-post-image" height="112" src="https://www.percona.com/blog/wp-content/uploads/2025/05/InnoDB-Cluster-setup-200x112.jpg" style="display: block; margin-bottom: 5px; clear: both;" width="200" />Modern applications need to be highly available and easy to scale. A three-node MySQL InnoDB Cluster—built on MySQL Group Replication and connected through MySQL Router—provides a reliable way to support critical workloads. To set up this architecture, you start by deploying three MySQL server instances. In this example, the nodes are assigned the following hostname-to-IP [&#8230;]
+                ]]>
+            </content:encoded>
+        </item>
+        
+        <item>
+            <id>https://www.percona.com/blog/?p=101284</id>
+            <title>Patroni: The Key PostgreSQL Component for Enterprise High Availability</title>
+            <link>https://www.percona.com/blog/patroni-the-key-postgresql-component-for-enterprise-high-availability/</link>
+            <guid isPermaLink="false">https://www.percona.com/blog/?p=101284</guid>
+            <pubDate></pubDate>
+            <updated>Fri, 09 May 2025 13:00:21 +0000</updated>
+                
+                
+            <content:encoded>
+                <![CDATA[
+                    
+                    <img alt="PostgreSQL high availability with Patroni" class="webfeedsFeaturedVisual wp-post-image" height="112" src="https://www.percona.com/blog/wp-content/uploads/2025/05/PostgreSQL-high-availability-with-Patroni-200x112.jpg" style="display: block; margin-bottom: 5px; clear: both;" width="200" />You don&#8217;t have time for database downtime. Whether you&#8217;re managing a high-traffic application, supporting business-critical transactions, or ensuring real-time analytics stay online, the last thing you need is a PostgreSQL failure that grinds everything to a halt. But let’s be real; high availability (HA) in PostgreSQL isn’t something you can just switch on. Setting up [&#8230;]
+                ]]>
+            </content:encoded>
+        </item>
+        
+        <item>
+            <id>https://www.percona.com/blog/?p=101358</id>
+            <title>Deploying External Read Replica in MySQL InnoDB Cluster</title>
+            <link>https://www.percona.com/blog/deploying-external-read-replica-in-mysql-innodb-cluster/</link>
+            <guid isPermaLink="false">https://www.percona.com/blog/?p=101358</guid>
+            <pubDate></pubDate>
+            <updated>Thu, 08 May 2025 12:52:57 +0000</updated>
+                
+                
+            <content:encoded>
+                <![CDATA[
+                    
+                    <img alt="Deploying External Read Replica in MySQL InnoDB Cluster" class="webfeedsFeaturedVisual wp-post-image" height="112" src="https://www.percona.com/blog/wp-content/uploads/2025/05/Deploying-External-Read-Replica-in-MySQL-InnoDB-Cluster-200x112.jpg" style="display: block; margin-bottom: 5px; clear: both;" width="200" />Innodb Cluster or ClusterSet topologies already have secondary instances that can act as a failover for primary or also offload read requests. However, with MySQL 8.4, we now have the feasibility of adding a separate async replica to the cluster for serving various special/ad-hoc queries or some reporting purposes. This will also help offload read traffic away [&#8230;]
+                ]]>
+            </content:encoded>
+        </item>
+        
+        <item>
+            <id>https://www.percona.com/blog/?p=101249</id>
+            <title>MongoDB Benchmarking Made Effortless With Workload Generator for MongoDB</title>
+            <link>https://www.percona.com/blog/mongodb-benchmarking-made-effortless-with-mongodb-workload-generator/</link>
+            <guid isPermaLink="false">https://www.percona.com/blog/?p=101249</guid>
+            <pubDate></pubDate>
+            <updated>Tue, 06 May 2025 14:38:07 +0000</updated>
+                
+                
+            <content:encoded>
+                <![CDATA[
+                    
+                    <img alt="Benchmarking MongoDB" class="webfeedsFeaturedVisual wp-post-image" height="112" src="https://www.percona.com/blog/wp-content/uploads/2025/05/Benchmarking-MongoDB-200x112.jpg" style="display: block; margin-bottom: 5px; clear: both;" width="200" />Recognizing a gap in the availability of straightforward tools for MongoDB benchmarking, particularly those that do not require complex compilation, configuration, and intricate setups, I developed Workload Generator for MongoDB. The aim was to provide MongoDB users with an accessible solution for effortlessly generating realistic data and simulating application workloads on both sharded and non-sharded [&#8230;]
+                ]]>
+            </content:encoded>
+        </item>
+        
+        <item>
+            <id>https://www.percona.com/blog/?p=100903</id>
+            <title>MongoDB Operators Explained: Features, Limitations, and Open Source Alternatives</title>
+            <link>https://www.percona.com/blog/mongodb-operators-explained-features-limitations-and-open-source-alternatives/</link>
+            <guid isPermaLink="false">https://www.percona.com/blog/?p=100903</guid>
+            <pubDate></pubDate>
+            <updated>Fri, 02 May 2025 13:07:54 +0000</updated>
+                
+                
+            <content:encoded>
+                <![CDATA[
+                    
+                    <img alt="MongoDB Operators" class="webfeedsFeaturedVisual wp-post-image" height="112" src="https://www.percona.com/blog/wp-content/uploads/2025/04/MongoDB-Operators-200x112.jpg" style="display: block; margin-bottom: 5px; clear: both;" width="200" />If you&#8217;ve tried running MongoDB on Kubernetes, you&#8217;ve likely run into some unique challenges. Stateful workloads like replica sets and sharded clusters can be messy in containers, and things that should be easy, like backups, scaling, failovers, and upgrades, suddenly take more time and attention than they should. That’s exactly what good MongoDB Operators are [&#8230;]
+                ]]>
+            </content:encoded>
+        </item>
+        
+        <item>
+            <id>https://www.percona.com/blog/?p=100874</id>
+            <title>Benchmarking PostgreSQL: The Hidden Cost of Over-Indexing</title>
+            <link>https://www.percona.com/blog/benchmarking-postgresql-the-hidden-cost-of-over-indexing/</link>
+            <guid isPermaLink="false">https://www.percona.com/blog/?p=100874</guid>
+            <pubDate></pubDate>
+            <updated>Wed, 30 Apr 2025 12:53:50 +0000</updated>
+                
+                
+            <content:encoded>
+                <![CDATA[
+                    
+                    <img alt="" class="webfeedsFeaturedVisual wp-post-image" height="86" src="https://www.percona.com/blog/wp-content/uploads/2025/04/Benchmarking-PostgreSQL-200x86.jpg" style="display: block; margin-bottom: 5px; clear: both;" width="200" />Indexing is one of PostgreSQL’s most effective tools for improving query performance, but like any powerful tool, it can cause real problems when overused. A while ago, my colleague Jobin wrote a blog post exploring the negative side effects of over-indexing in PostgreSQL: PostgreSQL Indexes Can Hurt Performance: Exploring the Negative Effects and the Costs [&#8230;]
+                ]]>
+            </content:encoded>
+        </item>
+        
+        <item>
+            <id>https://www.percona.com/blog/?p=101136</id>
+            <title>pgvector: The Critical PostgreSQL Component for Your Enterprise AI Strategy</title>
+            <link>https://www.percona.com/blog/pgvector-the-critical-postgresql-component-for-your-enterprise-ai-strategy/</link>
+            <guid isPermaLink="false">https://www.percona.com/blog/?p=101136</guid>
+            <pubDate></pubDate>
+            <updated>Fri, 25 Apr 2025 12:32:41 +0000</updated>
+                
+                
+            <content:encoded>
+                <![CDATA[
+                    
+                    <img alt="pgvector for PostgreSQL enterprise AI" class="webfeedsFeaturedVisual wp-post-image" height="112" src="https://www.percona.com/blog/wp-content/uploads/2025/04/pgvector-for-PostgreSQL-enterprise-AI-200x112.jpg" style="display: block; margin-bottom: 5px; clear: both;" width="200" />You&#8217;re likely racing to enhance your applications with more intelligent, data-driven capabilities, whether through AI-powered models (which have moved into &#8220;must implement now!&#8221; territory), advanced search functions, real-time fraud detection, or geospatial analysis. As these demands grow, you face a significant challenge: efficiently storing, managing, and querying high-dimensional vector data within your existing database infrastructure. [&#8230;]
+                ]]>
+            </content:encoded>
+        </item>
+        
+        <item>
+            <id>https://www.percona.com/blog/?p=101106</id>
+            <title>Does FCV Have Any Impact on MongoDB Performance?</title>
+            <link>https://www.percona.com/blog/does-fcv-have-any-impact-on-mongodb-performance/</link>
+            <guid isPermaLink="false">https://www.percona.com/blog/?p=101106</guid>
+            <pubDate></pubDate>
+            <updated>Wed, 23 Apr 2025 13:50:20 +0000</updated>
+                
+                
+            <content:encoded>
+                <![CDATA[
+                    
+                    <img alt="" class="webfeedsFeaturedVisual wp-post-image" height="112" src="https://www.percona.com/blog/wp-content/uploads/2025/04/FCV-Have-Any-Impact-on-MongoDB-Performance-200x112.jpg" style="display: block; margin-bottom: 5px; clear: both;" width="200" />It is generally known and established that different database versions provide different sets of features and performance rates. Along with the binary versions, MongoDB has a property called Feature Compatibility Value, which allows administrators to run a binary version without enabling any features that are incompatible with the previous one. This property is generally helpful [&#8230;]
+                ]]>
+            </content:encoded>
+        </item>
+        
+        <item>
+            <id>https://www.percona.com/blog/?p=101050</id>
+            <title>Behind the Scenes: How Percona Support Diagnosed a MongoDB FTDC Freeze</title>
+            <link>https://www.percona.com/blog/behind-the-scenes-how-percona-support-diagnosed-a-mongodb-ftdc-freeze/</link>
+            <guid isPermaLink="false">https://www.percona.com/blog/?p=101050</guid>
+            <pubDate></pubDate>
+            <updated>Tue, 22 Apr 2025 15:46:41 +0000</updated>
+                
+                
+            <content:encoded>
+                <![CDATA[
+                    
+                    <img alt="MongoDB FTDC Freeze" class="webfeedsFeaturedVisual wp-post-image" height="112" src="https://www.percona.com/blog/wp-content/uploads/2025/04/MongoDB-FTDC-Freeze-200x112.jpg" style="display: block; margin-bottom: 5px; clear: both;" width="200" />One of our customers recently reported that MongoDB’s diagnostic metrics—collected via FTDC (Full-Time Diagnostic Data Capture)—had stopped updating. As a result, no metrics were being collected, either through diagnostic data files or the getDiagnosticData command. Key metrics such as uptime were no longer progressing. While the cluster remained fully operational, the lack of observability introduced a [&#8230;]
+                ]]>
+            </content:encoded>
+        </item>
+        
+        <item>
+            <id>https://www.percona.com/blog/?p=101003</id>
+            <title>Speeding Up Percona XtraDB Cluster State Transfers with Kubernetes Volume Snapshots</title>
+            <link>https://www.percona.com/blog/speeding-up-percona-xtradb-cluster-state-transfers-with-kubernetes-volume-snapshots/</link>
+            <guid isPermaLink="false">https://www.percona.com/blog/?p=101003</guid>
+            <pubDate></pubDate>
+            <updated>Mon, 21 Apr 2025 14:08:22 +0000</updated>
+                
+                
+            <content:encoded>
+                <![CDATA[
+                    
+                    <img alt="Percona XtraDB Cluster state transfers" class="webfeedsFeaturedVisual wp-post-image" height="86" src="https://www.percona.com/blog/wp-content/uploads/2025/04/Percona-XtraDB-Cluster-state-transfers-200x86.jpg" style="display: block; margin-bottom: 5px; clear: both;" width="200" />When using the Percona Operator for MySQL based on Percona XtraDB Cluster (PXC), it&#8217;s common to encounter scenarios where cluster nodes request a full State Snapshot Transfer (SST) when rejoining the cluster. One typical scenario where a State Snapshot Transfer (SST) is required is when a node has been offline long enough that the GCache [&#8230;]
+                ]]>
+            </content:encoded>
+        </item>
+        
+        <item>
+            <id>https://www.percona.com/blog/?p=100998</id>
+            <title>Run PostgreSQL on Kubernetes: A Practical Guide with Benchmarks and Best Practices</title>
+            <link>https://www.percona.com/blog/run-postgresql-on-kubernetes-a-practical-guide-with-benchmarks-best-practices/</link>
+            <guid isPermaLink="false">https://www.percona.com/blog/?p=100998</guid>
+            <pubDate></pubDate>
+            <updated>Fri, 18 Apr 2025 13:19:47 +0000</updated>
+                
+                
+            <content:encoded>
+                <![CDATA[
+                    
+                    <img alt="Run PostgreSQL on Kubernetes" class="webfeedsFeaturedVisual wp-post-image" height="112" src="https://www.percona.com/blog/wp-content/uploads/2025/04/Run-PostgreSQL-on-Kubernetes-200x112.jpg" style="display: block; margin-bottom: 5px; clear: both;" width="200" />Remember when running databases in Kubernetes felt like a gamble? When unpredictable storage performance and complex state management made stability a constant battle? Thankfully, those days are largely behind us. With better tools, smarter operators, and field-tested strategies, you can now confidently deploy PostgreSQL on Kubernetes, especially when you need scale, automation, and platform consistency. [&#8230;]
+                ]]>
+            </content:encoded>
+        </item>
+        
+        <item>
+            <id>https://www.percona.com/blog/?p=100920</id>
+            <title>What’s New in MySQL 8.4 LTS: Key Enhancements Explained</title>
+            <link>https://www.percona.com/blog/whats-new-in-mysql-8-4-lts-key-enhancements-explained/</link>
+            <guid isPermaLink="false">https://www.percona.com/blog/?p=100920</guid>
+            <pubDate></pubDate>
+            <updated>Thu, 17 Apr 2025 14:10:30 +0000</updated>
+                
+                
+            <content:encoded>
+                <![CDATA[
+                    
+                    <img alt="MySQL 8.4 LTS" class="webfeedsFeaturedVisual wp-post-image" height="86" src="https://www.percona.com/blog/wp-content/uploads/2025/04/MySQL-8.4-LTS-200x86.jpg" style="display: block; margin-bottom: 5px; clear: both;" width="200" />MySQL has been evolving rapidly, and with the recent release of MySQL 8.4, there’s a lot to unpack. While MySQL 8.4 is officially dubbed a Long-Term Support (LTS) release, many features introduced between 8.0 and 8.4 have now matured into defaults or become deprecated/removed. This blog provides a comprehensive, side-by-side comparison of the key differences [&#8230;]
+                ]]>
+            </content:encoded>
+        </item>
+        
+        <item>
+            <id>https://www.percona.com/blog/?p=100925</id>
+            <title>How to Extend Percona Monitoring and Management to Add Logging Functionality</title>
+            <link>https://www.percona.com/blog/how-to-extend-percona-monitoring-and-management-to-add-logging-functionality/</link>
+            <guid isPermaLink="false">https://www.percona.com/blog/?p=100925</guid>
+            <pubDate></pubDate>
+            <updated>Wed, 16 Apr 2025 13:10:05 +0000</updated>
+                
+                
+            <content:encoded>
+                <![CDATA[
+                    
+                    <img alt="Extend Percona Monitoring and Management with logging capabilities" class="webfeedsFeaturedVisual wp-post-image" height="112" src="https://www.percona.com/blog/wp-content/uploads/2025/04/Extend-Percona-Monitoring-and-Management-with-logging-capabilities-200x112.jpg" style="display: block; margin-bottom: 5px; clear: both;" width="200" />Evolution is one of the inherent traits of modern software. Many people reach out to product teams daily, asking to add more functionality to the software products they use and love. This is understandable: there will always be ways to make a product better by adding more features to the users’ delight so they can [&#8230;]
+                ]]>
+            </content:encoded>
+        </item>
+        
+        <item>
+            <id>https://www.percona.com/blog/?p=100858</id>
+            <title>Percona Server for MySQL Data Masking Enhanced with Dictionary Term Cache</title>
+            <link>https://www.percona.com/blog/percona-server-for-mysql-data-masking-enhanced-with-dictionary-term-cache/</link>
+            <guid isPermaLink="false">https://www.percona.com/blog/?p=100858</guid>
+            <pubDate></pubDate>
+            <updated>Tue, 15 Apr 2025 15:32:58 +0000</updated>
+                
+                
+            <content:encoded>
+                <![CDATA[
+                    
+                    <img alt="" class="webfeedsFeaturedVisual wp-post-image" height="112" src="https://www.percona.com/blog/wp-content/uploads/2025/04/Percona-Server-for-MySQL-Data-Masking-Enhanced-with-Dictionary-Term-Cache-200x112.jpg" style="display: block; margin-bottom: 5px; clear: both;" width="200" />In Percona Server for MySQL 8.0.41 / 8.4.4, we significantly re-designed the Data Masking Component. In particular, we made the following changes: Changed the user on behalf of whom we execute internal queries for dictionary operations. Introduced an in-memory dictionary term cache that allows significant speed-up of dictionary operations. Introduced masking_dictionaries_flush() User Defined Function. Introduced [&#8230;]
+                ]]>
+            </content:encoded>
+        </item>
+        
+        <item>
+            <id>https://www.percona.com/blog/?p=92159</id>
+            <title>Common PostgreSQL Upgrade Errors and How to Avoid Them</title>
+            <link>https://www.percona.com/blog/11-common-postgresql-upgrade-errors-and-how-to-avoid-them/</link>
+            <guid isPermaLink="false">https://www.percona.com/blog/?p=92159</guid>
+            <pubDate></pubDate>
+            <updated>Tue, 15 Apr 2025 14:07:12 +0000</updated>
+                
+                
+            <content:encoded>
+                <![CDATA[
+                    
+                    <img alt="common PostgreSQL upgrade errors" class="webfeedsFeaturedVisual wp-post-image" height="86" src="https://www.percona.com/blog/wp-content/uploads/2024/01/common-PostgreSQL-upgrade-errors-1-200x86.jpg" style="display: block; margin-bottom: 5px; clear: both;" width="200" />This post was originally published in January 2024 and was updated in April 2025. Everyone usually welcomes an upgrade, whether it&#8217;s a new phone OS, a flight seat, or a home renovation. Upgrades typically mean improvement, which holds true for PostgreSQL. Each new version brings updates vital for optimal application performance, stability, and security. However, [&#8230;]
+                ]]>
+            </content:encoded>
+        </item>
+        
+        <item>
+            <id>https://www.percona.com/blog/?p=100861</id>
+            <title>MongoDB Pricing Explained: What You’re Really Paying For</title>
+            <link>https://www.percona.com/blog/mongodb-pricing-explained-what-youre-really-paying-for/</link>
+            <guid isPermaLink="false">https://www.percona.com/blog/?p=100861</guid>
+            <pubDate></pubDate>
+            <updated>Mon, 14 Apr 2025 15:34:16 +0000</updated>
+                
+                
+            <content:encoded>
+                <![CDATA[
+                    
+                    <img alt="" class="webfeedsFeaturedVisual wp-post-image" height="112" src="https://www.percona.com/blog/wp-content/uploads/2025/04/MongoDB-Pricing-200x112.jpg" style="display: block; margin-bottom: 5px; clear: both;" width="200" />If you&#8217;re using MongoDB, whether it&#8217;s the Community Edition, Enterprise Advanced, or Atlas, you’ve probably asked yourself at some point: what is this actually costing us? And the answer isn’t always easy to pin down. The reality is that there&#8217;s no one-size-fits-all price tag. Your infrastructure, usage patterns, and team setup all factor in. That’s [&#8230;]
+                ]]>
+            </content:encoded>
+        </item>
+        
+        <item>
+            <id>https://www.percona.com/blog/?p=100841</id>
+            <title>Percona Server for MySQL: Enhanced Encryption UDFs</title>
+            <link>https://www.percona.com/blog/percona-server-for-mysql-enhanced-encryption-udfs/</link>
+            <guid isPermaLink="false">https://www.percona.com/blog/?p=100841</guid>
+            <pubDate></pubDate>
+            <updated>Wed, 09 Apr 2025 13:14:41 +0000</updated>
+                
+                
+            <content:encoded>
+                <![CDATA[
+                    
+                    <img alt="MySQL Encryption UDFs" class="webfeedsFeaturedVisual wp-post-image" height="112" src="https://www.percona.com/blog/wp-content/uploads/2025/04/MySQL-Encryption-UDFs-200x112.jpg" style="display: block; margin-bottom: 5px; clear: both;" width="200" />In Percona Server for MySQL 8.0.41 / 8.4.4, we introduced several improvements in Encryption User-Defined Functions. Added support for RSAES-OAEP (OAEP) padding for RSA encrypt / decrypt operations. Added support for RSASSA-PSS (PSS) padding for RSA sign / verify operations. Added new encryption_udf.legacy_padding_scheme component system variable. Normalized character set support for all Encryption UDFs. PKCS1 [&#8230;]
+                ]]>
+            </content:encoded>
+        </item>
+        
+    </channel>
+</rss>

@@ -1,0 +1,323 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
+    <channel>
+        <title>USENIX</title>
+        <link>https://www.youtube.com/channel/UC4-GrpQBx6WCGwmwozP744Q</link>
+        
+        <item>
+            <id>yt:video:uGENUQfjlw4</id>
+            <title>SREcon25 Americas - Safe Evaluation and Rollout of AI Models</title>
+            <link>https://www.youtube.com/watch?v=uGENUQfjlw4</link>
+            <guid isPermaLink="false">yt:video:uGENUQfjlw4</guid>
+            <pubDate></pubDate>
+            <updated>2025-05-10T19:07:23+00:00</updated>
+                
+            <media:thumbnail url="https://i2.ytimg.com/vi/uGENUQfjlw4/hqdefault.jpg"/>
+                
+                
+            <media:content url="https://www.youtube.com/v/uGENUQfjlw4?version=3"/>
+                
+            <content:encoded>
+                <![CDATA[
+                    
+                    
+                ]]>
+            </content:encoded>
+        </item>
+        
+        <item>
+            <id>yt:video:1skevfCoIbI</id>
+            <title>SREcon25 Americas - Lightning Talks</title>
+            <link>https://www.youtube.com/watch?v=1skevfCoIbI</link>
+            <guid isPermaLink="false">yt:video:1skevfCoIbI</guid>
+            <pubDate></pubDate>
+            <updated>2025-05-01T04:15:22+00:00</updated>
+                
+            <media:thumbnail url="https://i2.ytimg.com/vi/1skevfCoIbI/hqdefault.jpg"/>
+                
+                
+            <media:content url="https://www.youtube.com/v/1skevfCoIbI?version=3"/>
+                
+            <content:encoded>
+                <![CDATA[
+                    
+                    
+                ]]>
+            </content:encoded>
+        </item>
+        
+        <item>
+            <id>yt:video:ogBv6HN8qc0</id>
+            <title>SREcon25 Americas - Beyond Sequential: A Recipe for Async Pipeline Observability and Alerting</title>
+            <link>https://www.youtube.com/watch?v=ogBv6HN8qc0</link>
+            <guid isPermaLink="false">yt:video:ogBv6HN8qc0</guid>
+            <pubDate></pubDate>
+            <updated>2025-05-10T13:54:50+00:00</updated>
+                
+            <media:thumbnail url="https://i4.ytimg.com/vi/ogBv6HN8qc0/hqdefault.jpg"/>
+                
+                
+            <media:content url="https://www.youtube.com/v/ogBv6HN8qc0?version=3"/>
+                
+            <content:encoded>
+                <![CDATA[
+                    
+                    
+                ]]>
+            </content:encoded>
+        </item>
+        
+        <item>
+            <id>yt:video:pJkCi7gn5uQ</id>
+            <title>SREcon25 Americas - Tackling Slow Queries: A Practical Approach to Prevention and Correction</title>
+            <link>https://www.youtube.com/watch?v=pJkCi7gn5uQ</link>
+            <guid isPermaLink="false">yt:video:pJkCi7gn5uQ</guid>
+            <pubDate></pubDate>
+            <updated>2025-05-14T14:35:28+00:00</updated>
+                
+            <media:thumbnail url="https://i1.ytimg.com/vi/pJkCi7gn5uQ/hqdefault.jpg"/>
+                
+                
+            <media:content url="https://www.youtube.com/v/pJkCi7gn5uQ?version=3"/>
+                
+            <content:encoded>
+                <![CDATA[
+                    
+                    
+                ]]>
+            </content:encoded>
+        </item>
+        
+        <item>
+            <id>yt:video:rSjcV22zx5w</id>
+            <title>SREcon25 Americas - Maturing Your Data Architecture in a Week: How Bluesky Survived</title>
+            <link>https://www.youtube.com/watch?v=rSjcV22zx5w</link>
+            <guid isPermaLink="false">yt:video:rSjcV22zx5w</guid>
+            <pubDate></pubDate>
+            <updated>2025-05-10T13:50:27+00:00</updated>
+                
+            <media:thumbnail url="https://i3.ytimg.com/vi/rSjcV22zx5w/hqdefault.jpg"/>
+                
+                
+            <media:content url="https://www.youtube.com/v/rSjcV22zx5w?version=3"/>
+                
+            <content:encoded>
+                <![CDATA[
+                    
+                    
+                ]]>
+            </content:encoded>
+        </item>
+        
+        <item>
+            <id>yt:video:twl_PdIpRA0</id>
+            <title>SREcon25 Americas - AIOps: Prove It! An Open Letter to Vendors Selling AI for SREs</title>
+            <link>https://www.youtube.com/watch?v=twl_PdIpRA0</link>
+            <guid isPermaLink="false">yt:video:twl_PdIpRA0</guid>
+            <pubDate></pubDate>
+            <updated>2025-05-18T22:24:54+00:00</updated>
+                
+            <media:thumbnail url="https://i1.ytimg.com/vi/twl_PdIpRA0/hqdefault.jpg"/>
+                
+                
+            <media:content url="https://www.youtube.com/v/twl_PdIpRA0?version=3"/>
+                
+            <content:encoded>
+                <![CDATA[
+                    
+                    
+                ]]>
+            </content:encoded>
+        </item>
+        
+        <item>
+            <id>yt:video:uIfw0FBPpaQ</id>
+            <title>SREcon25 Americas - Network Flow Data in the Cloud</title>
+            <link>https://www.youtube.com/watch?v=uIfw0FBPpaQ</link>
+            <guid isPermaLink="false">yt:video:uIfw0FBPpaQ</guid>
+            <pubDate></pubDate>
+            <updated>2025-05-10T13:52:16+00:00</updated>
+                
+            <media:thumbnail url="https://i2.ytimg.com/vi/uIfw0FBPpaQ/hqdefault.jpg"/>
+                
+                
+            <media:content url="https://www.youtube.com/v/uIfw0FBPpaQ?version=3"/>
+                
+            <content:encoded>
+                <![CDATA[
+                    
+                    
+                ]]>
+            </content:encoded>
+        </item>
+        
+        <item>
+            <id>yt:video:uly_2NIWBsU</id>
+            <title>SREcon25 Americas - Per Aspera ad Productum: Turning Processes into Products</title>
+            <link>https://www.youtube.com/watch?v=uly_2NIWBsU</link>
+            <guid isPermaLink="false">yt:video:uly_2NIWBsU</guid>
+            <pubDate></pubDate>
+            <updated>2025-05-10T14:01:58+00:00</updated>
+                
+            <media:thumbnail url="https://i2.ytimg.com/vi/uly_2NIWBsU/hqdefault.jpg"/>
+                
+                
+            <media:content url="https://www.youtube.com/v/uly_2NIWBsU?version=3"/>
+                
+            <content:encoded>
+                <![CDATA[
+                    
+                    
+                ]]>
+            </content:encoded>
+        </item>
+        
+        <item>
+            <id>yt:video:z7tZmgNqc4c</id>
+            <title>SREcon25 Americas - Inclusive SRE: Best Practices for Working with a Visually Impaired Incident...</title>
+            <link>https://www.youtube.com/watch?v=z7tZmgNqc4c</link>
+            <guid isPermaLink="false">yt:video:z7tZmgNqc4c</guid>
+            <pubDate></pubDate>
+            <updated>2025-05-10T13:58:34+00:00</updated>
+                
+            <media:thumbnail url="https://i3.ytimg.com/vi/z7tZmgNqc4c/hqdefault.jpg"/>
+                
+                
+            <media:content url="https://www.youtube.com/v/z7tZmgNqc4c?version=3"/>
+                
+            <content:encoded>
+                <![CDATA[
+                    
+                    
+                ]]>
+            </content:encoded>
+        </item>
+        
+        <item>
+            <id>yt:video:bKam-KtUC3M</id>
+            <title>SREcon25 Americas - Case Study: A Thundering Herd in the Wild</title>
+            <link>https://www.youtube.com/watch?v=bKam-KtUC3M</link>
+            <guid isPermaLink="false">yt:video:bKam-KtUC3M</guid>
+            <pubDate></pubDate>
+            <updated>2025-05-10T13:50:02+00:00</updated>
+                
+            <media:thumbnail url="https://i3.ytimg.com/vi/bKam-KtUC3M/hqdefault.jpg"/>
+                
+                
+            <media:content url="https://www.youtube.com/v/bKam-KtUC3M?version=3"/>
+                
+            <content:encoded>
+                <![CDATA[
+                    
+                    
+                ]]>
+            </content:encoded>
+        </item>
+        
+        <item>
+            <id>yt:video:d2bEAJHEguQ</id>
+            <title>SREcon25 Americas - OLTP SQL Database Query Tracing and Linting</title>
+            <link>https://www.youtube.com/watch?v=d2bEAJHEguQ</link>
+            <guid isPermaLink="false">yt:video:d2bEAJHEguQ</guid>
+            <pubDate></pubDate>
+            <updated>2025-05-10T13:48:53+00:00</updated>
+                
+            <media:thumbnail url="https://i1.ytimg.com/vi/d2bEAJHEguQ/hqdefault.jpg"/>
+                
+                
+            <media:content url="https://www.youtube.com/v/d2bEAJHEguQ?version=3"/>
+                
+            <content:encoded>
+                <![CDATA[
+                    
+                    
+                ]]>
+            </content:encoded>
+        </item>
+        
+        <item>
+            <id>yt:video:dOK8yh1xBsk</id>
+            <title>SREcon25 Americas - Technical Debt as Theory Building and Practice</title>
+            <link>https://www.youtube.com/watch?v=dOK8yh1xBsk</link>
+            <guid isPermaLink="false">yt:video:dOK8yh1xBsk</guid>
+            <pubDate></pubDate>
+            <updated>2025-04-25T00:48:52+00:00</updated>
+                
+            <media:thumbnail url="https://i1.ytimg.com/vi/dOK8yh1xBsk/hqdefault.jpg"/>
+                
+                
+            <media:content url="https://www.youtube.com/v/dOK8yh1xBsk?version=3"/>
+                
+            <content:encoded>
+                <![CDATA[
+                    
+                    
+                ]]>
+            </content:encoded>
+        </item>
+        
+        <item>
+            <id>yt:video:eMp306mVz2c</id>
+            <title>SREcon25 Americas - Distributed Tracing in Action: Our Journey with OpenTelemetry</title>
+            <link>https://www.youtube.com/watch?v=eMp306mVz2c</link>
+            <guid isPermaLink="false">yt:video:eMp306mVz2c</guid>
+            <pubDate></pubDate>
+            <updated>2025-05-18T01:53:23+00:00</updated>
+                
+            <media:thumbnail url="https://i2.ytimg.com/vi/eMp306mVz2c/hqdefault.jpg"/>
+                
+                
+            <media:content url="https://www.youtube.com/v/eMp306mVz2c?version=3"/>
+                
+            <content:encoded>
+                <![CDATA[
+                    
+                    
+                ]]>
+            </content:encoded>
+        </item>
+        
+        <item>
+            <id>yt:video:emKh1bV2IyI</id>
+            <title>SREcon25 Americas - Fully Automated HW SKU Selection System to Optimize Apache Pinot’s Cost-to...</title>
+            <link>https://www.youtube.com/watch?v=emKh1bV2IyI</link>
+            <guid isPermaLink="false">yt:video:emKh1bV2IyI</guid>
+            <pubDate></pubDate>
+            <updated>2025-05-10T13:59:13+00:00</updated>
+                
+            <media:thumbnail url="https://i2.ytimg.com/vi/emKh1bV2IyI/hqdefault.jpg"/>
+                
+                
+            <media:content url="https://www.youtube.com/v/emKh1bV2IyI?version=3"/>
+                
+            <content:encoded>
+                <![CDATA[
+                    
+                    
+                ]]>
+            </content:encoded>
+        </item>
+        
+        <item>
+            <id>yt:video:g4QLtRKinRA</id>
+            <title>SREcon25 Americas - Chaos Experiments - Datacenter Stress Testing</title>
+            <link>https://www.youtube.com/watch?v=g4QLtRKinRA</link>
+            <guid isPermaLink="false">yt:video:g4QLtRKinRA</guid>
+            <pubDate></pubDate>
+            <updated>2025-05-10T13:49:12+00:00</updated>
+                
+            <media:thumbnail url="https://i4.ytimg.com/vi/g4QLtRKinRA/hqdefault.jpg"/>
+                
+                
+            <media:content url="https://www.youtube.com/v/g4QLtRKinRA?version=3"/>
+                
+            <content:encoded>
+                <![CDATA[
+                    
+                    
+                ]]>
+            </content:encoded>
+        </item>
+        
+    </channel>
+</rss>

@@ -1,0 +1,348 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
+    <channel>
+        <title>AWS Storage Blog</title>
+        <link>https://aws.amazon.com/blogs/storage/</link>
+        
+        <item>
+            <id>7e8d0394b95356a4952511004c6ba90a24a9cafb</id>
+            <title>Using Amazon S3 Express One Zone as a caching layer for S3 Standard</title>
+            <link>https://aws.amazon.com/blogs/storage/using-amazon-s3-express-one-zone-as-a-caching-layer-for-s3-standard/</link>
+            <guid isPermaLink="false">7e8d0394b95356a4952511004c6ba90a24a9cafb</guid>
+            <pubDate></pubDate>
+            <updated>Fri, 16 May 2025 18:55:46 +0000</updated>
+                
+                
+            <content:encoded>
+                <![CDATA[
+                    
+                    Data caching is a critical strategy for optimizing application performance in today’s data-intensive environments. By storing frequently accessed information in high-speed storage locations, organizations can dramatically reduce access times, optimize the use of compute resources, and improve overall system responsiveness. Effective caching strategies become particularly essential for workloads that require consistent low latency, such as […]
+                ]]>
+            </content:encoded>
+        </item>
+        
+        <item>
+            <id>87ec28739e965b618e4f40c49d6d3dc5ae33a655</id>
+            <title>Expedite VMware migration to Amazon EC2 and Amazon FSx for NetApp ONTAP using the BlueXP workload factory migration advisor</title>
+            <link>https://aws.amazon.com/blogs/storage/expedite-vmware-migration-to-amazon-ec2-and-amazon-fsx-for-netapp-ontap-using-bluexp-workload-factory-for-aws-migration-advisor/</link>
+            <guid isPermaLink="false">87ec28739e965b618e4f40c49d6d3dc5ae33a655</guid>
+            <pubDate></pubDate>
+            <updated>Thu, 15 May 2025 16:04:02 +0000</updated>
+                
+                
+            <content:encoded>
+                <![CDATA[
+                    
+                    Over the past two decades, virtualization, specifically VMware was the key technology trend that has helped organizations reduce costs, improve operational efficiency, and simplify infrastructure management. However, the technology landscape is rapidly evolving. Cloud service providers now offer advanced hypervisor capabilities that match or exceed traditional on-premises virtualization solutions, while providing seamless integration with a […]
+                ]]>
+            </content:encoded>
+        </item>
+        
+        <item>
+            <id>7a2e1b33263669d4c474cc26b83e0f66fffe1cfb</id>
+            <title>Understanding Amazon S3 client-side encryption options</title>
+            <link>https://aws.amazon.com/blogs/storage/understanding-amazon-s3-client-side-encryption-options/</link>
+            <guid isPermaLink="false">7a2e1b33263669d4c474cc26b83e0f66fffe1cfb</guid>
+            <pubDate></pubDate>
+            <updated>Wed, 14 May 2025 17:22:59 +0000</updated>
+                
+                
+            <content:encoded>
+                <![CDATA[
+                    
+                    Encryption serves a fundamental role in securing sensitive data both in transit and at rest. Server-side encryption offers simplicity and ease of implementation, with data encrypted where stored, and enables seamless integration with other services. In contrast, client-side encryption secures data where ingested or created, and offers additional capabilities to meet specific security requirements around […]
+                ]]>
+            </content:encoded>
+        </item>
+        
+        <item>
+            <id>d2035a6d424e15e76d835a1acfff05e849a95f00</id>
+            <title>How Pendulum achieves 6x faster processing and 40% cost reduction with Amazon S3 Tables</title>
+            <link>https://aws.amazon.com/blogs/storage/how-pendulum-achieves-6x-faster-processing-and-40-cost-reduction-with-amazon-s3-tables/</link>
+            <guid isPermaLink="false">d2035a6d424e15e76d835a1acfff05e849a95f00</guid>
+            <pubDate></pubDate>
+            <updated>Tue, 13 May 2025 15:01:27 +0000</updated>
+                
+                
+            <content:encoded>
+                <![CDATA[
+                    
+                    Pendulum is an AI-powered analytics platform that aggregates and analyzes real-time data from social media, news, and podcasts. Designed to help organizations stay ahead, it enables reputation monitoring, early crisis detection, and influencer activity tracking. Using machine learning (ML) enables Pendulum to surface key insights from multiple channels, providing a comprehensive view of the digital […]
+                ]]>
+            </content:encoded>
+        </item>
+        
+        <item>
+            <id>811ae10e3cb42f45de813ac908e55970b9fbfc1c</id>
+            <title>Bringing more to the table: How Amazon S3 Tables rapidly delivered new capabilities in the first 5 months</title>
+            <link>https://aws.amazon.com/blogs/storage/bringing-more-to-the-table-how-amazon-s3-tables-rapidly-delivered-new-capabilities-in-the-first-5-months/</link>
+            <guid isPermaLink="false">811ae10e3cb42f45de813ac908e55970b9fbfc1c</guid>
+            <pubDate></pubDate>
+            <updated>Fri, 09 May 2025 21:32:52 +0000</updated>
+                
+                
+            <content:encoded>
+                <![CDATA[
+                    
+                    Amazon S3 redefined data storage when it launched as the first generally available AWS service in 2006 to deliver highly reliable, durable, secure, low-latency storage with virtually unlimited scale. While designed to deliver simple storage, S3 has proven to be built to handle the explosive growth of data we have seen in the last 19 […]
+                ]]>
+            </content:encoded>
+        </item>
+        
+        <item>
+            <id>b360daced3fc14d3d502731b9948c17627bb9825</id>
+            <title>Using AWS Backup and Oracle Fast Recovery Area on Amazon FSx for NetApp ONTAP for backup/restore of Oracle databases on Amazon EC2</title>
+            <link>https://aws.amazon.com/blogs/storage/using-aws-backup-and-oracle-fast-recovery-area-on-amazon-fsx-for-netapp-ontap-for-backup-restore-of-oracle-databases-on-amazon-ec2/</link>
+            <guid isPermaLink="false">b360daced3fc14d3d502731b9948c17627bb9825</guid>
+            <pubDate></pubDate>
+            <updated>Tue, 29 Apr 2025 16:01:16 +0000</updated>
+                
+                
+            <content:encoded>
+                <![CDATA[
+                    
+                    As data grows exponentially, organizations running Oracle databases prioritize minimizing backup time and quicker recovery times in the event of disasters. Oracle databases on&nbsp;Amazon Elastic Compute Cloud (Amazon EC2)&nbsp;often configure an Oracle Fast Recovery Area (FRA) to fulfil data protection, disaster recovery, and compliance requirements. The FRA is a centralized, Oracle-managed storage location that streamlines […]
+                ]]>
+            </content:encoded>
+        </item>
+        
+        <item>
+            <id>70173044b68a109c7221f7aa723b815318e239ad</id>
+            <title>Implementing restore testing for recovery validation using AWS Backup</title>
+            <link>https://aws.amazon.com/blogs/storage/implementing-restore-testing-for-recovery-validation-using-aws-backup/</link>
+            <guid isPermaLink="false">70173044b68a109c7221f7aa723b815318e239ad</guid>
+            <pubDate></pubDate>
+            <updated>Mon, 28 Apr 2025 15:59:25 +0000</updated>
+                
+                
+            <content:encoded>
+                <![CDATA[
+                    
+                    Mission-critical applications power everything from e-commerce to healthcare, making a solid backup strategy not just a best practice but a vital necessity. Threats like ransomware grow more sophisticated and for AWS users, having backups isn’t enough. Organizations need confidence that these safeguards will perform when disaster strikes. Manual testing, while essential, drains IT resources. Through […]
+                ]]>
+            </content:encoded>
+        </item>
+        
+        <item>
+            <id>72f6cbd412856aa7edc4695f69af4735d75ad38d</id>
+            <title>How FICO modernizes file transfers with ETL automation using AWS Transfer Family</title>
+            <link>https://aws.amazon.com/blogs/storage/how-fico-modernizes-file-transfers-with-etl-automation-using-aws-transfer-family/</link>
+            <guid isPermaLink="false">72f6cbd412856aa7edc4695f69af4735d75ad38d</guid>
+            <pubDate></pubDate>
+            <updated>Thu, 24 Apr 2025 17:41:27 +0000</updated>
+                
+                
+            <content:encoded>
+                <![CDATA[
+                    
+                    FICO powers decisions that help people and businesses around the world prosper. Using FICO solutions, businesses in more than 80 countries do everything from protecting four billion payment cards from fraud, to improving financial inclusion, and increasing supply chain resiliency. As a global leader in credit scoring and analytics, FICO processes massive volumes of sensitive […]
+                ]]>
+            </content:encoded>
+        </item>
+        
+        <item>
+            <id>2259644d86d58784933963a3d94fa90094905375</id>
+            <title>Enhancing resource-level permissions for copying Amazon EBS snapshots</title>
+            <link>https://aws.amazon.com/blogs/storage/enhancing-resource-level-permissions-for-copying-amazon-ebs-snapshots/</link>
+            <guid isPermaLink="false">2259644d86d58784933963a3d94fa90094905375</guid>
+            <pubDate></pubDate>
+            <updated>Tue, 22 Apr 2025 19:03:10 +0000</updated>
+                
+                
+            <content:encoded>
+                <![CDATA[
+                    
+                    Businesses use Amazon Elastic Block Store (Amazon EBS) snapshots to capture point-in-time copies of application data volumes that can serve as baseline standards when creating new volumes. With snapshot copy, users are enabled to launch application workloads in different AWS Regions or meet data protection and disaster recovery requirements. Security and regulatory compliance remain top […]
+                ]]>
+            </content:encoded>
+        </item>
+        
+        <item>
+            <id>9c43eefa92d560e5afd521b3edef07fac711fb88</id>
+            <title>Protecting data using Autonomous Ransomware Protection on Amazon FSx for NetApp ONTAP</title>
+            <link>https://aws.amazon.com/blogs/storage/protecting-data-using-autonomous-ransomware-protection-on-amazon-fsx-for-netapp-ontap/</link>
+            <guid isPermaLink="false">9c43eefa92d560e5afd521b3edef07fac711fb88</guid>
+            <pubDate></pubDate>
+            <updated>Fri, 18 Apr 2025 16:10:50 +0000</updated>
+                
+                
+            <content:encoded>
+                <![CDATA[
+                    
+                    In a layered security strategy like a defense-in-depth, when prevention fails, mitigation becomes critical. Most AWS storage services use immutable storage and recovery from backup to mitigate the impact of ransomware. Autonomous Ransomware Protection (ARP) is a new security feature of Amazon FSx for NetApp ONTAP (FSx for ONTAP), a fully managed service that provides […]
+                ]]>
+            </content:encoded>
+        </item>
+        
+        <item>
+            <id>b9266258573333cb61922d366901ade586173152</id>
+            <title>Migrating files to Amazon FSx for Windows File Server using Robocopy</title>
+            <link>https://aws.amazon.com/blogs/storage/migrating-files-to-fsx-for-windows-file-server-using-robocopy/</link>
+            <guid isPermaLink="false">b9266258573333cb61922d366901ade586173152</guid>
+            <pubDate></pubDate>
+            <updated>Wed, 16 Apr 2025 16:46:57 +0000</updated>
+                
+                
+            <content:encoded>
+                <![CDATA[
+                    
+                    When migrating file shares to AWS, users need a direct and efficient solution for transferring their data. Amazon FSx for Windows File Server provides fully managed shared storage built on Windows Server, and delivers a wide range of data access, data management, and administrative capabilities. There are a few different choices for migration. AWS DataSync […]
+                ]]>
+            </content:encoded>
+        </item>
+        
+        <item>
+            <id>e3d629fd70b5bf230b0feaaebf216134d6ad19c8</id>
+            <title>Validate recovery readiness with AWS Backup restore testing</title>
+            <link>https://aws.amazon.com/blogs/storage/validate-recovery-readiness-with-aws-backup-restore-testing/</link>
+            <guid isPermaLink="false">e3d629fd70b5bf230b0feaaebf216134d6ad19c8</guid>
+            <pubDate></pubDate>
+            <updated>Tue, 15 Apr 2025 19:44:37 +0000</updated>
+                
+                
+            <content:encoded>
+                <![CDATA[
+                    
+                    Data resilience underpins disaster recovery (DR) and cyber resilience strategies, yet many organizations stumble with an incomplete approach: they diligently back up critical workloads but rarely confirm those backups can be restored. This gap can unravel into costly shocks—like an application owner learning their database restore overshoots a four-hour Recovery Time Objective (RTO), triggering hours […]
+                ]]>
+            </content:encoded>
+        </item>
+        
+        <item>
+            <id>a706e7d6d5d6e413b2714f032f321ae7852b6e58</id>
+            <title>Prime Video improved stream analytics performance with Amazon S3 Express One Zone</title>
+            <link>https://aws.amazon.com/blogs/storage/prime-video-improved-stream-analytics-performance-with-amazon-s3-express-one-zone/</link>
+            <guid isPermaLink="false">a706e7d6d5d6e413b2714f032f321ae7852b6e58</guid>
+            <pubDate></pubDate>
+            <updated>Thu, 10 Apr 2025 21:18:43 +0000</updated>
+                
+                
+            <content:encoded>
+                <![CDATA[
+                    
+                    Amazon Prime Video provides a selection of original content and licensed movies and TV shows that you can stream or download as part of the Amazon Prime subscription. Prime Video’s telemetry platform serves as the backbone for monitoring playback performance, saving data snapshots for failure recovery, providing business analytics, and generating real-time insights across its […]
+                ]]>
+            </content:encoded>
+        </item>
+        
+        <item>
+            <id>38f1b8d57c3fe540e3fec616ba14a2f3c9206b83</id>
+            <title>Real-time monitoring of AWS Elastic Disaster Recovery using Amazon Q Developer</title>
+            <link>https://aws.amazon.com/blogs/storage/real-time-monitoring-of-elastic-disaster-recovery-using-amazon-q-developer/</link>
+            <guid isPermaLink="false">38f1b8d57c3fe540e3fec616ba14a2f3c9206b83</guid>
+            <pubDate></pubDate>
+            <updated>Mon, 07 Apr 2025 13:46:11 +0000</updated>
+                
+                
+            <content:encoded>
+                <![CDATA[
+                    
+                    The ability to monitor and manage workloads in real-time is a foundational requirement for ensuring that you can meet your resilience objectives. Having visibility into key user activities and the performance of critical business functions, enables you to automate responses to events that can impact business operations. Effective monitoring is crucial for not only achieving […]
+                ]]>
+            </content:encoded>
+        </item>
+        
+        <item>
+            <id>67c18cc31b067ae140f7a72189b11a08f4434862</id>
+            <title>Reduce costs with customized delete protection for Amazon EBS Snapshots and EBS-backed AMIs</title>
+            <link>https://aws.amazon.com/blogs/storage/reduce-costs-with-customized-delete-protection-for-amazon-ebs-snapshots-and-ebs-backed-amis/</link>
+            <guid isPermaLink="false">67c18cc31b067ae140f7a72189b11a08f4434862</guid>
+            <pubDate></pubDate>
+            <updated>Wed, 02 Apr 2025 00:34:14 +0000</updated>
+                
+                
+            <content:encoded>
+                <![CDATA[
+                    
+                    Safeguarding business-critical cloud resources against accidental loss and external threats such as ransomware is a top priority for modern organizations. These companies utilize privacy-enhancing technologies, malware scanning, and the ability to protect from accidental deletion to form key pillars of a strong data security posture. This combination helps ensure that data remains secure, protected from […]
+                ]]>
+            </content:encoded>
+        </item>
+        
+        <item>
+            <id>c2db19a8879e85cd5074cc27aed2402c16994b9c</id>
+            <title>Setting file system-wide soft and hard quotas on Amazon Elastic File System (EFS)</title>
+            <link>https://aws.amazon.com/blogs/storage/setting-file-system-wide-soft-and-hard-quotas-on-amazon-elastic-file-system-efs/</link>
+            <guid isPermaLink="false">c2db19a8879e85cd5074cc27aed2402c16994b9c</guid>
+            <pubDate></pubDate>
+            <updated>Wed, 26 Mar 2025 15:18:40 +0000</updated>
+                
+                
+            <content:encoded>
+                <![CDATA[
+                    
+                    Sometimes the infrastructure operations team might face a challenge in managing the development team’s data storage practices. The development team tends to store data in an uncontrolled manner, leading to potential issues such as excessive storage consumption and inefficient resource usage. This challenge arises from the lack of quota or capacity management capabilities in the […]
+                ]]>
+            </content:encoded>
+        </item>
+        
+        <item>
+            <id>ff495c84beb9b75f32013830b149b61885be0dc5</id>
+            <title>How Bridgewater maintains data consistency across Regions using Amazon S3 Replication</title>
+            <link>https://aws.amazon.com/blogs/storage/how-bridgewater-maintains-data-consistency-across-regions-using-amazon-s3-replication/</link>
+            <guid isPermaLink="false">ff495c84beb9b75f32013830b149b61885be0dc5</guid>
+            <pubDate></pubDate>
+            <updated>Tue, 25 Mar 2025 17:41:33 +0000</updated>
+                
+                
+            <content:encoded>
+                <![CDATA[
+                    
+                    Bridgewater Associates is a global macro investment manager, with a core mission of understanding how the world’s markets and economies work by analyzing the drivers of markets and turning that understanding into high-quality portfolios and investment advice for their clients. The data that drives this economic research is stored in Bridgewater’s data lake, built on […]
+                ]]>
+            </content:encoded>
+        </item>
+        
+        <item>
+            <id>81811c11bf2eba89f8937683103078dd204315ca</id>
+            <title>Streamlining access to tabular datasets stored in Amazon S3 Tables with DuckDB</title>
+            <link>https://aws.amazon.com/blogs/storage/streamlining-access-to-tabular-datasets-stored-in-amazon-s3-tables-with-duckdb/</link>
+            <guid isPermaLink="false">81811c11bf2eba89f8937683103078dd204315ca</guid>
+            <pubDate></pubDate>
+            <updated>Tue, 18 Mar 2025 21:02:01 +0000</updated>
+                
+                
+            <content:encoded>
+                <![CDATA[
+                    
+                    As businesses continue to rely on data-driven decision-making, there’s an increasing demand for tools that streamline and accelerate the process of data analysis. Efficiency and simplicity in application architecture can serve as a competitive edge when driving high-stakes decisions. Developers are seeking lightweight, flexible tools that seamlessly integrate with their existing application stack, specifically solutions […]
+                ]]>
+            </content:encoded>
+        </item>
+        
+        <item>
+            <id>023c26854fae3c46f2adc2d896306548ded89915</id>
+            <title>Seamless streaming to Amazon S3 Tables with StreamNative Ursa Engine</title>
+            <link>https://aws.amazon.com/blogs/storage/seamless-streaming-to-amazon-s3-tables-with-streamnative-ursa-engine/</link>
+            <guid isPermaLink="false">023c26854fae3c46f2adc2d896306548ded89915</guid>
+            <pubDate></pubDate>
+            <updated>Tue, 18 Mar 2025 00:19:18 +0000</updated>
+                
+                
+            <content:encoded>
+                <![CDATA[
+                    
+                    Organizations are modernizing data platforms to use generative AI by centralizing data from various sources and streaming real-time data into data lakes. A strong data foundation, such as scalable storage, reliable ingestion pipelines, and interoperable formats, is critical for businesses to discover, explore, and consume data. As organizations modernize their platforms, they often turn to […]
+                ]]>
+            </content:encoded>
+        </item>
+        
+        <item>
+            <id>5c2fcf6cffb01ef13fe9e7985f4a82a13cee7282</id>
+            <title>Connect Snowflake to S3 Tables using the SageMaker Lakehouse Iceberg REST endpoint</title>
+            <link>https://aws.amazon.com/blogs/storage/connect-snowflake-to-s3-tables-using-the-sagemaker-lakehouse-iceberg-rest-endpoint/</link>
+            <guid isPermaLink="false">5c2fcf6cffb01ef13fe9e7985f4a82a13cee7282</guid>
+            <pubDate></pubDate>
+            <updated>Fri, 14 Mar 2025 18:43:19 +0000</updated>
+                
+                
+            <content:encoded>
+                <![CDATA[
+                    
+                    Organizations today seek data analytics solutions that provide maximum flexibility and accessibility. Customers need their data to be readily available using their preferred query engines, and break down barriers across different computing environments. At the same time, they want a single copy of data to be used across these solutions, to track lineage, be cost […]
+                ]]>
+            </content:encoded>
+        </item>
+        
+    </channel>
+</rss>

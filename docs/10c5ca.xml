@@ -1,0 +1,348 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
+    <channel>
+        <title>Data Engineering Weekly</title>
+        <link>https://www.dataengineeringweekly.com</link>
+        
+        <item>
+            <id>https://www.dataengineeringweekly.com/p/data-engineering-weekly-220</id>
+            <title>Data Engineering Weekly #220</title>
+            <link>https://www.dataengineeringweekly.com/p/data-engineering-weekly-220</link>
+            <guid isPermaLink="false">https://www.dataengineeringweekly.com/p/data-engineering-weekly-220</guid>
+            <pubDate></pubDate>
+            <updated>Sun, 11 May 2025 20:38:04 GMT</updated>
+                
+                
+            <content:encoded>
+                <![CDATA[
+                    
+                    The Weekly Data Engineering Newsletter
+                ]]>
+            </content:encoded>
+        </item>
+        
+        <item>
+            <id>https://www.dataengineeringweekly.com/p/data-engineering-weekly-219</id>
+            <title>Data Engineering Weekly #219</title>
+            <link>https://www.dataengineeringweekly.com/p/data-engineering-weekly-219</link>
+            <guid isPermaLink="false">https://www.dataengineeringweekly.com/p/data-engineering-weekly-219</guid>
+            <pubDate></pubDate>
+            <updated>Sun, 04 May 2025 22:34:30 GMT</updated>
+                
+                
+            <content:encoded>
+                <![CDATA[
+                    
+                    The Weekly Data Engineering Newsletter
+                ]]>
+            </content:encoded>
+        </item>
+        
+        <item>
+            <id>https://www.dataengineeringweekly.com/p/data-engineering-weekly-218</id>
+            <title>Data Engineering Weekly #218</title>
+            <link>https://www.dataengineeringweekly.com/p/data-engineering-weekly-218</link>
+            <guid isPermaLink="false">https://www.dataengineeringweekly.com/p/data-engineering-weekly-218</guid>
+            <pubDate></pubDate>
+            <updated>Mon, 28 Apr 2025 02:51:28 GMT</updated>
+                
+                
+            <content:encoded>
+                <![CDATA[
+                    
+                    The Weekly Data Engineering Newsletter
+                ]]>
+            </content:encoded>
+        </item>
+        
+        <item>
+            <id>https://www.dataengineeringweekly.com/p/ai-and-data-in-production-insights</id>
+            <title>AI and Data in Production: Insights from Avinash Narasimha [AI Solutions Leader at Koch Industries]</title>
+            <link>https://www.dataengineeringweekly.com/p/ai-and-data-in-production-insights</link>
+            <guid isPermaLink="false">https://www.dataengineeringweekly.com/p/ai-and-data-in-production-insights</guid>
+            <pubDate></pubDate>
+            <updated>Fri, 25 Apr 2025 03:41:06 GMT</updated>
+                
+                
+            <content:encoded>
+                <![CDATA[
+                    
+                    In our latest episode of Data Engineering Weekly, co-hosted by Aswin, we explored the practical realities of AI deployment and data readiness with our distinguished guest, Avinash Narasimha, AI Solutions Leader at Koch Industries.
+                ]]>
+            </content:encoded>
+        </item>
+        
+        <item>
+            <id>https://www.dataengineeringweekly.com/p/data-engineering-weekly-217</id>
+            <title>Data Engineering Weekly #217</title>
+            <link>https://www.dataengineeringweekly.com/p/data-engineering-weekly-217</link>
+            <guid isPermaLink="false">https://www.dataengineeringweekly.com/p/data-engineering-weekly-217</guid>
+            <pubDate></pubDate>
+            <updated>Sun, 20 Apr 2025 21:35:24 GMT</updated>
+                
+                
+            <content:encoded>
+                <![CDATA[
+                    
+                    The Weekly Data Engineering Newsletter
+                ]]>
+            </content:encoded>
+        </item>
+        
+        <item>
+            <id>https://www.dataengineeringweekly.com/p/data-engineering-weekly-216</id>
+            <title>Data Engineering Weekly #216</title>
+            <link>https://www.dataengineeringweekly.com/p/data-engineering-weekly-216</link>
+            <guid isPermaLink="false">https://www.dataengineeringweekly.com/p/data-engineering-weekly-216</guid>
+            <pubDate></pubDate>
+            <updated>Mon, 14 Apr 2025 00:41:04 GMT</updated>
+                
+                
+            <content:encoded>
+                <![CDATA[
+                    
+                    The Weekly Data Engineering Newsletter
+                ]]>
+            </content:encoded>
+        </item>
+        
+        <item>
+            <id>https://www.dataengineeringweekly.com/p/towards-composable-data-infrastructure</id>
+            <title>Towards Composable Data Infrastructure</title>
+            <link>https://www.dataengineeringweekly.com/p/towards-composable-data-infrastructure</link>
+            <guid isPermaLink="false">https://www.dataengineeringweekly.com/p/towards-composable-data-infrastructure</guid>
+            <pubDate></pubDate>
+            <updated>Fri, 11 Apr 2025 19:07:23 GMT</updated>
+                
+                
+            <content:encoded>
+                <![CDATA[
+                    
+                    A Case for Federated Data Catalog
+                ]]>
+            </content:encoded>
+        </item>
+        
+        <item>
+            <id>https://www.dataengineeringweekly.com/p/data-engineering-weekly-215</id>
+            <title>Data Engineering Weekly #215</title>
+            <link>https://www.dataengineeringweekly.com/p/data-engineering-weekly-215</link>
+            <guid isPermaLink="false">https://www.dataengineeringweekly.com/p/data-engineering-weekly-215</guid>
+            <pubDate></pubDate>
+            <updated>Sun, 06 Apr 2025 23:05:45 GMT</updated>
+                
+                
+            <content:encoded>
+                <![CDATA[
+                    
+                    The Weekly Data Engineering Newsletter
+                ]]>
+            </content:encoded>
+        </item>
+        
+        <item>
+            <id>https://www.dataengineeringweekly.com/p/data-engineering-weekly-214</id>
+            <title>Data Engineering Weekly #214</title>
+            <link>https://www.dataengineeringweekly.com/p/data-engineering-weekly-214</link>
+            <guid isPermaLink="false">https://www.dataengineeringweekly.com/p/data-engineering-weekly-214</guid>
+            <pubDate></pubDate>
+            <updated>Sun, 30 Mar 2025 22:45:53 GMT</updated>
+                
+                
+            <content:encoded>
+                <![CDATA[
+                    
+                    The Weekly Data Engineering Newsletter
+                ]]>
+            </content:encoded>
+        </item>
+        
+        <item>
+            <id>https://www.dataengineeringweekly.com/p/data-engineering-weekly-213</id>
+            <title>Data Engineering Weekly #213</title>
+            <link>https://www.dataengineeringweekly.com/p/data-engineering-weekly-213</link>
+            <guid isPermaLink="false">https://www.dataengineeringweekly.com/p/data-engineering-weekly-213</guid>
+            <pubDate></pubDate>
+            <updated>Sun, 23 Mar 2025 21:09:07 GMT</updated>
+                
+                
+            <content:encoded>
+                <![CDATA[
+                    
+                    The Weekly Data Engineering Newsletter
+                ]]>
+            </content:encoded>
+        </item>
+        
+        <item>
+            <id>https://www.dataengineeringweekly.com/p/data-engineering-weekly-212</id>
+            <title>Data Engineering Weekly #212</title>
+            <link>https://www.dataengineeringweekly.com/p/data-engineering-weekly-212</link>
+            <guid isPermaLink="false">https://www.dataengineeringweekly.com/p/data-engineering-weekly-212</guid>
+            <pubDate></pubDate>
+            <updated>Sun, 16 Mar 2025 23:07:28 GMT</updated>
+                
+                
+            <content:encoded>
+                <![CDATA[
+                    
+                    The Weekly Data Engineering Newsletter
+                ]]>
+            </content:encoded>
+        </item>
+        
+        <item>
+            <id>https://www.dataengineeringweekly.com/p/data-engineering-weekly-211</id>
+            <title>Data Engineering Weekly #211</title>
+            <link>https://www.dataengineeringweekly.com/p/data-engineering-weekly-211</link>
+            <guid isPermaLink="false">https://www.dataengineeringweekly.com/p/data-engineering-weekly-211</guid>
+            <pubDate></pubDate>
+            <updated>Mon, 10 Mar 2025 04:26:31 GMT</updated>
+                
+                
+            <content:encoded>
+                <![CDATA[
+                    
+                    The Weekly Data Engineering Newsletter
+                ]]>
+            </content:encoded>
+        </item>
+        
+        <item>
+            <id>https://www.dataengineeringweekly.com/p/is-apache-iceberg-the-new-hadoop</id>
+            <title>Is Apache Iceberg the New Hadoop? Navigating the Complexities of Modern Data Lakehouses</title>
+            <link>https://www.dataengineeringweekly.com/p/is-apache-iceberg-the-new-hadoop</link>
+            <guid isPermaLink="false">https://www.dataengineeringweekly.com/p/is-apache-iceberg-the-new-hadoop</guid>
+            <pubDate></pubDate>
+            <updated>Thu, 06 Mar 2025 04:22:59 GMT</updated>
+                
+                
+            <content:encoded>
+                <![CDATA[
+                    
+                    Conversation with Daniel Palma, Head of Marketing at Estuary
+                ]]>
+            </content:encoded>
+        </item>
+        
+        <item>
+            <id>https://www.dataengineeringweekly.com/p/data-engineering-weekly-210</id>
+            <title>Data Engineering Weekly #210</title>
+            <link>https://www.dataengineeringweekly.com/p/data-engineering-weekly-210</link>
+            <guid isPermaLink="false">https://www.dataengineeringweekly.com/p/data-engineering-weekly-210</guid>
+            <pubDate></pubDate>
+            <updated>Mon, 03 Mar 2025 02:29:21 GMT</updated>
+                
+                
+            <content:encoded>
+                <![CDATA[
+                    
+                    The Weekly Data Engineering Newsletter
+                ]]>
+            </content:encoded>
+        </item>
+        
+        <item>
+            <id>https://www.dataengineeringweekly.com/p/the-state-of-lakehouse-architecture</id>
+            <title>The State of Lakehouse Architecture: A Conversation with Roy Hassan on Maturity, Challenges, and Future Trends</title>
+            <link>https://www.dataengineeringweekly.com/p/the-state-of-lakehouse-architecture</link>
+            <guid isPermaLink="false">https://www.dataengineeringweekly.com/p/the-state-of-lakehouse-architecture</guid>
+            <pubDate></pubDate>
+            <updated>Wed, 26 Feb 2025 21:35:13 GMT</updated>
+                
+                
+            <content:encoded>
+                <![CDATA[
+                    
+                    An in-depth look at the evolution of Lakehouse implementations, open table formats, and the role of data engineers in the AI era.
+                ]]>
+            </content:encoded>
+        </item>
+        
+        <item>
+            <id>https://www.dataengineeringweekly.com/p/data-engineering-weekly-209</id>
+            <title>Data Engineering Weekly #209</title>
+            <link>https://www.dataengineeringweekly.com/p/data-engineering-weekly-209</link>
+            <guid isPermaLink="false">https://www.dataengineeringweekly.com/p/data-engineering-weekly-209</guid>
+            <pubDate></pubDate>
+            <updated>Mon, 24 Feb 2025 03:42:24 GMT</updated>
+                
+                
+            <content:encoded>
+                <![CDATA[
+                    
+                    The Weekly Data Engineering Newsletter
+                ]]>
+            </content:encoded>
+        </item>
+        
+        <item>
+            <id>https://www.dataengineeringweekly.com/p/beyond-kafka-conversation-with-jark</id>
+            <title>Beyond Kafka: Conversation with Jark Wu on Fluss - Streaming Storage for Real-Time Analytics</title>
+            <link>https://www.dataengineeringweekly.com/p/beyond-kafka-conversation-with-jark</link>
+            <guid isPermaLink="false">https://www.dataengineeringweekly.com/p/beyond-kafka-conversation-with-jark</guid>
+            <pubDate></pubDate>
+            <updated>Wed, 19 Feb 2025 03:56:11 GMT</updated>
+                
+                
+            <content:encoded>
+                <![CDATA[
+                    
+                    Bridging the Gap Between Kafka, Flink, and the Lakehouse
+                ]]>
+            </content:encoded>
+        </item>
+        
+        <item>
+            <id>https://www.dataengineeringweekly.com/p/data-engineering-weekly-208</id>
+            <title>Data Engineering Weekly #208</title>
+            <link>https://www.dataengineeringweekly.com/p/data-engineering-weekly-208</link>
+            <guid isPermaLink="false">https://www.dataengineeringweekly.com/p/data-engineering-weekly-208</guid>
+            <pubDate></pubDate>
+            <updated>Sun, 16 Feb 2025 22:53:05 GMT</updated>
+                
+                
+            <content:encoded>
+                <![CDATA[
+                    
+                    The Weekly Data Engineering Newsletter
+                ]]>
+            </content:encoded>
+        </item>
+        
+        <item>
+            <id>https://www.dataengineeringweekly.com/p/the-ascending-arc-of-ai-agents</id>
+            <title>The Ascending Arc of AI Agents</title>
+            <link>https://www.dataengineeringweekly.com/p/the-ascending-arc-of-ai-agents</link>
+            <guid isPermaLink="false">https://www.dataengineeringweekly.com/p/the-ascending-arc-of-ai-agents</guid>
+            <pubDate></pubDate>
+            <updated>Thu, 13 Feb 2025 04:09:33 GMT</updated>
+                
+                
+            <content:encoded>
+                <![CDATA[
+                    
+                    The Quest for Artificial General Intelligence
+                ]]>
+            </content:encoded>
+        </item>
+        
+        <item>
+            <id>https://www.dataengineeringweekly.com/p/data-engineering-weekly-207</id>
+            <title>Data Engineering Weekly #207</title>
+            <link>https://www.dataengineeringweekly.com/p/data-engineering-weekly-207</link>
+            <guid isPermaLink="false">https://www.dataengineeringweekly.com/p/data-engineering-weekly-207</guid>
+            <pubDate></pubDate>
+            <updated>Mon, 10 Feb 2025 01:26:26 GMT</updated>
+                
+                
+            <content:encoded>
+                <![CDATA[
+                    
+                    The Weekly Data Engineering Newsletter
+                ]]>
+            </content:encoded>
+        </item>
+        
+    </channel>
+</rss>

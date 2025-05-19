@@ -1,0 +1,459 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
+    <channel>
+        <title>DZone Databases Zone</title>
+        <link>https://dzone.com/databases</link>
+        
+        <item>
+            <id>https://dzone.com/articles/3540603</id>
+            <title>AWS to Azure Migration: A Cloudy Journey of Challenges and Triumphs</title>
+            <link>https://feeds.dzone.com/link/23560/17031819/aws-to-azure-migration-challenges-and-success</link>
+            <guid isPermaLink="false">https://dzone.com/articles/3540603</guid>
+            <pubDate></pubDate>
+            <updated>Thu, 15 May 2025 22:00:00 GMT</updated>
+                
+            <media:thumbnail url="https://dz2cdn1.dzone.com/thumbnail?fid=18405178&amp;w=600"/>
+                
+                
+            <content:encoded>
+                <![CDATA[
+                    
+                    <p><span lang="EN-IN">So, you are considering migrating your infrastructure from AWS to Azure? Congratulations! You have officially joined the ranks of people who thought a simple cloud swap was a quick weekend project — and now you’re probably questioning your life choices. But don’t worry, it is not as crazy as it sounds. In fact, it can be a pretty smooth ride if you know what you’re getting into (or at least, if you have a strong coffee supply).</span><span>&nbsp;</span></p>
+<p><span lang="EN-IN">The cloud wars are heating up. AWS has been the big player for years, and Azure has been right there, lurking, always trying to steal the spotlight. But sometimes, you realize the place you have been renting is just not quite the right fit anymore. Maybe AWS is too complicated. Or maybe Azure just offers a few things that AWS cannot (no, really, it happens). Whatever the reason, migrating from&nbsp;</span><a href="https://dzone.com/articles/aws-vs-azure-which-is-better-for-cloud-computing"><span lang="EN-IN">AWS to Azure</span></a><span lang="EN-IN">&nbsp;is not something to shy away from — unless, of course, you have something else to do like binge-watch an entire season of your favorite show.&nbsp;</span></p><img height="1" src="https://feeds.dzone.com/link/23560/17031819.gif" width="1" />
+                ]]>
+            </content:encoded>
+        </item>
+        
+        <item>
+            <id>https://dzone.com/articles/3556157</id>
+            <title>Optimizing Integration Workflows With Spark Structured Streaming and Cloud Services</title>
+            <link>https://feeds.dzone.com/link/23560/17031644/streaming-integration-workflows-spark-cloud</link>
+            <guid isPermaLink="false">https://dzone.com/articles/3556157</guid>
+            <pubDate></pubDate>
+            <updated>Thu, 15 May 2025 18:00:00 GMT</updated>
+                
+            <media:thumbnail url="https://dz2cdn1.dzone.com/thumbnail?fid=18402472&amp;w=600"/>
+                
+                
+            <content:encoded>
+                <![CDATA[
+                    
+                    <p dir="ltr">Data is everywhere and moving faster than ever before. If you are processing logs from millions of IoT devices, tracking customer behavior on an e-commerce site, or monitoring stock market changes in real time, your ability to integrate and process this data quickly and efficiently can mean the difference between your business succeeding or failing.</p>
+<p><a href="https://dzone.com/articles/spark-structured-streaming-using-java">Spark Structured Streaming</a> comes in handy here. The combination of scalability offered by cloud services and the ability to handle real-time data streams makes it a powerful tool for optimizing integration workflows. Let's see how these two technologies can be used to design robust, high-performing data pipelines and how to deal with the actual world scenario of dealing with continuous data.</p><img height="1" src="https://feeds.dzone.com/link/23560/17031644.gif" width="1" />
+                ]]>
+            </content:encoded>
+        </item>
+        
+        <item>
+            <id>https://dzone.com/articles/3544334</id>
+            <title>Designing a Java Connector for Software Integrations</title>
+            <link>https://feeds.dzone.com/link/23560/17031599/designing-java-connector-software-integrations</link>
+            <guid isPermaLink="false">https://dzone.com/articles/3544334</guid>
+            <pubDate></pubDate>
+            <updated>Thu, 15 May 2025 17:00:00 GMT</updated>
+                
+            <media:thumbnail url="https://dz2cdn1.dzone.com/thumbnail?fid=18402455&amp;w=600"/>
+                
+                
+            <content:encoded>
+                <![CDATA[
+                    
+                    <p>IT systems need integration to achieve seamless data flow alongside enhanced operational efficiency. The expansion of businesses creates independent operational systems that restrict performance through object isolation and restrict time-sensitive information acquisition. The system's functions become oriented for better workflow coordination, which minimizes both repetition and creates unified operations.</p>
+<p>The creation of such connections necessitates comprehensive knowledge about technical and business needs, which include format patterns along with protocol standards. Java provides robust libraries alongside <a href="https://dzone.com/articles/top-5-java-frameworks-for-web-application-developm">outstanding frameworks</a> that lead organizations to choose Java when building scalable, customized solutions. A strategically developed connector fulfills present requirements while enabling future technology adjustments, thus becoming a sustainable factor that supports successful IT system integration.</p><img height="1" src="https://feeds.dzone.com/link/23560/17031599.gif" width="1" />
+                ]]>
+            </content:encoded>
+        </item>
+        
+        <item>
+            <id>https://dzone.com/articles/3557265</id>
+            <title>Vibe Coding With GitHub Copilot: Optimizing API Performance in Fintech Microservices</title>
+            <link>https://feeds.dzone.com/link/23560/17031551/vibe-coding-github-copilot-fintech-apis</link>
+            <guid isPermaLink="false">https://dzone.com/articles/3557265</guid>
+            <pubDate></pubDate>
+            <updated>Thu, 15 May 2025 15:00:00 GMT</updated>
+                
+            <media:thumbnail url="https://dz2cdn1.dzone.com/thumbnail?fid=18402427&amp;w=600"/>
+                
+                
+            <content:encoded>
+                <![CDATA[
+                    
+                    <p style="text-align: left;">In fintech, APIs power everything. Starting from payments to trading to real-time customer experiences, the API takes care of everything. Performance isn't optional, but it's critical for user trust and business success.&nbsp;</p>
+<p style="text-align: left;">As a fintech API and cloud optimization expert, I constantly face the challenge of balancing quick development with high performance. When Microsoft announced GitHub Copilot for free, I asked myself a real-world question:<em>&nbsp;Can GitHub Copilot go beyond writing boilerplate code and help optimize fintech Microservice APIs?</em></p><img height="1" src="https://feeds.dzone.com/link/23560/17031551.gif" width="1" />
+                ]]>
+            </content:encoded>
+        </item>
+        
+        <item>
+            <id>https://dzone.com/articles/3553699</id>
+            <title>Mastering Advanced Aggregations in Spark SQL</title>
+            <link>https://feeds.dzone.com/link/23560/17031378/advanced-aggregations-in-apache-spark</link>
+            <guid isPermaLink="false">https://dzone.com/articles/3553699</guid>
+            <pubDate></pubDate>
+            <updated>Thu, 15 May 2025 11:00:00 GMT</updated>
+                
+            <media:thumbnail url="https://dz2cdn1.dzone.com/thumbnail?fid=18400770&amp;w=600"/>
+                
+                
+            <content:encoded>
+                <![CDATA[
+                    
+                    <p>In data analytics, efficiently aggregating large datasets is a basic need. For example, when working with retail inventory data, tracking products shipped to stores each month, the standard GROUP BY clause in SQL can handle basic aggregations.&nbsp;</p>
+<p>However, it falls short when you need multiple levels of aggregation in a single query. This is where <a href="https://dzone.com/articles/apache-spark-all-you-need-to-know">Spark SQL’s</a> advanced GROUP BY extensions, GROUPING SETS, ROLLUP, and CUBE, come into the picture to compute multiple groupings efficiently.</p><img height="1" src="https://feeds.dzone.com/link/23560/17031378.gif" width="1" />
+                ]]>
+            </content:encoded>
+        </item>
+        
+        <item>
+            <id>https://dzone.com/articles/3557394</id>
+            <title>Cosmos DB Disaster Recovery: Multi-Region Write Pitfalls and How to Evade Them</title>
+            <link>https://feeds.dzone.com/link/23560/17031020/cosmos-db-disaster-recovery</link>
+            <guid isPermaLink="false">https://dzone.com/articles/3557394</guid>
+            <pubDate></pubDate>
+            <updated>Wed, 14 May 2025 22:00:00 GMT</updated>
+                
+            <media:thumbnail url="https://dz2cdn1.dzone.com/thumbnail?fid=18401586&amp;w=600"/>
+                
+                
+            <content:encoded>
+                <![CDATA[
+                    
+                    <h2>Introduction</h2>
+<p>Azure Cosmos DB is an excellent global distributed, multi-model database service for high availability, low-latency access, and straightforward scalability. One of its most prominent characteristics is multi-region writes, whereby your applications write to the nearest regional replica, which greatly boosts performance and resilience.</p>
+<p>But here's the catch: enabling multi-region writes also introduces new challenges, especially when you're architecting for disaster recovery (DR). Without careful planning, you can end up with data conflicts, unplanned downtime, or even data loss.</p><img height="1" src="https://feeds.dzone.com/link/23560/17031020.gif" width="1" />
+                ]]>
+            </content:encoded>
+        </item>
+        
+        <item>
+            <id>https://dzone.com/articles/3541011</id>
+            <title>Why Database Migrations Take Months and How to Speed Them Up</title>
+            <link>https://feeds.dzone.com/link/23560/17030926/speed-up-data-migrations</link>
+            <guid isPermaLink="false">https://dzone.com/articles/3541011</guid>
+            <pubDate></pubDate>
+            <updated>Wed, 14 May 2025 20:00:00 GMT</updated>
+                
+            <media:thumbnail url="https://dz2cdn1.dzone.com/thumbnail?fid=18400851&amp;w=600"/>
+                
+                
+            <content:encoded>
+                <![CDATA[
+                    
+                    <p>Today, where information is unequivocally the cornerstone of everything and a core competitive advantage, our databases often hold our data hostage.&nbsp;</p>
+<p>It's 2025, yet it's not uncommon for a database migration project to span many months, even when the migration is considered like-for-like (e.g., between <a href="https://dzone.com/articles/mongodb-basics-in-5-minutes">MongoDB</a> and <a href="https://dzone.com/articles/optimizing-performance-in-azure-cosmos-db">Cosmos DB</a> with MongoDB API). These long projects take everyone's attention, create uncertainty, and slow down developer productivity.&nbsp;</p><img height="1" src="https://feeds.dzone.com/link/23560/17030926.gif" width="1" />
+                ]]>
+            </content:encoded>
+        </item>
+        
+        <item>
+            <id>https://dzone.com/articles/3551773</id>
+            <title>MySQL to PostgreSQL Database Migration: A Practical Case Study</title>
+            <link>https://feeds.dzone.com/link/23560/17030904/practical-case-study-of-mysql-to-postgresql-databa</link>
+            <guid isPermaLink="false">https://dzone.com/articles/3551773</guid>
+            <pubDate></pubDate>
+            <updated>Wed, 14 May 2025 19:00:00 GMT</updated>
+                
+            <media:thumbnail url="https://dz2cdn1.dzone.com/thumbnail?fid=18400762&amp;w=600"/>
+                
+                
+            <content:encoded>
+                <![CDATA[
+                    
+                    <p>Migrating a MySQL database to PostgreSQL is a complex process that involves schema conversion, data transfer, query optimization, and performance tuning. In this case study, we document a real-world migration of e-commerce platform's database from MySQL 8.0 to PostgreSQL 15. The study includes performance benchmarks before and after migration.</p>
+<h2>Project Overview</h2>
+<div class="table-responsive" style="border: none;">
+ <table style="width: auto; display: table;" width="auto">
+  <tbody>
+   <tr style="width: auto;" width="auto">
+    <td style="width: auto;" width="auto">Industry</td>
+    <td style="width: auto;" width="auto">E-commerce</td>
+   </tr>
+   <tr style="width: auto;" width="auto">
+    <td style="width: auto;" width="auto">Database Size</td>
+    <td style="width: auto;" width="auto">~120 GB</td>
+   </tr>
+   <tr style="width: auto;" width="auto">
+    <td style="width: auto;" width="auto">Number of Tables</td>
+    <td style="width: auto;" width="auto">200+</td>
+   </tr>
+   <tr style="width: auto;" width="auto">
+    <td style="width: auto;" width="auto">Queries per Second (QPS)</td>
+    <td style="width: auto;" width="auto">~350</td>
+   </tr>
+   <tr style="width: auto;" width="auto">
+    <td style="width: auto;" width="auto">Replication Setup</td>
+    <td style="width: auto;" width="auto">MySQL Master-Slave is switched to PostgreSQL Streaming Replication</td>
+   </tr>
+   <tr style="width: auto;" width="auto">
+    <td style="width: auto;" width="auto">Primary Use Case</td>
+    <td style="width: auto;" width="auto">OLTP (Online Transaction Processing)</td>
+   </tr>
+   <tr style="width: auto;" width="auto">
+    <td style="width: auto;" width="auto">Goal</td>
+    <td style="width: auto;" width="auto">Improve read-heavy performance, complex query execution and JSON processing</td>
+   </tr>
+  </tbody>
+ </table>
+</div>
+<h2>Pre-Migration Performance Benchmarks</h2>
+<p>Before migration, we collected key performance metrics on MySQL 8.0 using <code>sysbench</code> and <code>EXPLAIN ANALYZE</code>.</p><img height="1" src="https://feeds.dzone.com/link/23560/17030904.gif" width="1" />
+                ]]>
+            </content:encoded>
+        </item>
+        
+        <item>
+            <id>https://dzone.com/articles/3564931</id>
+            <title>A Simple, Convenience Package for the Azure Cosmos DB Go SDK</title>
+            <link>https://feeds.dzone.com/link/23560/17030704/azure-cosmos-db-go-sdk-helper</link>
+            <guid isPermaLink="false">https://dzone.com/articles/3564931</guid>
+            <pubDate></pubDate>
+            <updated>Wed, 14 May 2025 14:00:00 GMT</updated>
+                
+            <media:thumbnail url="https://dz2cdn1.dzone.com/thumbnail?fid=18399564&amp;w=600"/>
+                
+                
+            <content:encoded>
+                <![CDATA[
+                    
+                    <p>When using the Go SDK for the Azure Cosmos DB NoSQL API, I often find myself writing boilerplate code for various operations. This includes database/container operations, querying, and more. The cosmosdb-go-sdk-helper (I know, not a great name!) is a package with convenience functions for some of these tasks.</p>
+<p>In this blog post, I will go over the packages in the repository with examples on how (and when) you can use them. It's early days for this project, but I hope to keep adding to it gradually.</p><img height="1" src="https://feeds.dzone.com/link/23560/17030704.gif" width="1" />
+                ]]>
+            </content:encoded>
+        </item>
+        
+        <item>
+            <id>https://dzone.com/articles/3521654</id>
+            <title>Performing and Managing Incremental Backups Using pg_basebackup in PostgreSQL 17</title>
+            <link>https://feeds.dzone.com/link/23560/17030649/incremental-backups-pg-basebackup-postgresql</link>
+            <guid isPermaLink="false">https://dzone.com/articles/3521654</guid>
+            <pubDate></pubDate>
+            <updated>Wed, 14 May 2025 12:00:00 GMT</updated>
+                
+            <media:thumbnail url="https://dz2cdn1.dzone.com/thumbnail?fid=18398122&amp;w=600"/>
+                
+                
+            <content:encoded>
+                <![CDATA[
+                    
+                    <p>With the release of PostgreSQL 17, the introduction of <strong>incremental backups</strong> using the trusted <code>pg_basebackup</code> tool marks a significant leap forward in database backup and restoration processes. Traditionally, database backups often involved taking periodic full backups, which, while comprehensive, are time-consuming and storage-intensive.&nbsp;</p>
+<p><a href="https://dzone.com/articles/incremental-and-differential-backup-exchange">Incremental backups</a> offer a smarter alternative by capturing and storing only the changes made since the last backup, dramatically reducing both backup size and the time required to create backups.</p><img height="1" src="https://feeds.dzone.com/link/23560/17030649.gif" width="1" />
+                ]]>
+            </content:encoded>
+        </item>
+        
+        <item>
+            <id>https://dzone.com/articles/3550482</id>
+            <title>Unmasking Entity-Based Data Masking: Best Practices 2025</title>
+            <link>https://feeds.dzone.com/link/23560/17030078/unmasking-entity-based-data-masking-best-practices</link>
+            <guid isPermaLink="false">https://dzone.com/articles/3550482</guid>
+            <pubDate></pubDate>
+            <updated>Tue, 13 May 2025 16:00:00 GMT</updated>
+                
+            <media:thumbnail url="https://dz2cdn1.dzone.com/thumbnail?fid=18398786&amp;w=600"/>
+                
+                
+            <content:encoded>
+                <![CDATA[
+                    
+                    <p dir="ltr">Masking data to protect confidentiality has become a mandate more than ever before. As enterprises attempt to mitigate their workloads to multi-tenant cloud environments and data lakes etc., it makes perfect sense to revisit the masking strategies and be prepared for the future. That, too, when compliance regulations have tightened their grip over potential defaulters.&nbsp;</p>
+<p dir="ltr">That's exactly why entity-based masking is gaining acceptance across industry facets. It moves sensitive data across the landscape without exposing it. This enables organizations to comply with privacy regulations such as the GDPR, CCPA, and HIPPA.&nbsp;</p><img height="1" src="https://feeds.dzone.com/link/23560/17030078.gif" width="1" />
+                ]]>
+            </content:encoded>
+        </item>
+        
+        <item>
+            <id>https://dzone.com/articles/3550722</id>
+            <title>5 Subtle Indicators Your Development Environment Is Under Siege</title>
+            <link>https://feeds.dzone.com/link/23560/17029954/indicators-development-environment-under-siege</link>
+            <guid isPermaLink="false">https://dzone.com/articles/3550722</guid>
+            <pubDate></pubDate>
+            <updated>Tue, 13 May 2025 13:00:00 GMT</updated>
+                
+            <media:thumbnail url="https://dz2cdn1.dzone.com/thumbnail?fid=18288994&amp;w=600"/>
+                
+                
+            <content:encoded>
+                <![CDATA[
+                    
+                    <p>Think your organization is too small to be a target for threat actors? Think again. In 2025, attackers no longer distinguish between size or sector. Whether you’re a flashy tech giant, a mid-sized auto dealership software provider, or a small startup, if you store data someone is trying to access it.</p>
+<p>As security measures around production environments strengthen, which they have, attackers are shifting left—straight into the <a href="https://dzone.com/articles/the-role-of-devops-in-enhancing-the-software-devel">software development lifecycle (SDLC)</a>. These less-protected and complex environments have become prime targets, where gaps in security can expose sensitive data and derail operations if exploited. That’s why recognizing the warning signs of nefarious behavior is critical. But identification alone isn’t enough—security and development teams must work together to address these risks before attackers exploit them. From suspicious clone activity to overlooked code review changes, subtle indicators can reveal when bad actors are lurking in your development environment.</p><img height="1" src="https://feeds.dzone.com/link/23560/17029954.gif" width="1" />
+                ]]>
+            </content:encoded>
+        </item>
+        
+        <item>
+            <id>https://dzone.com/articles/3555190</id>
+            <title>DGS GraphQL and Spring Boot</title>
+            <link>https://feeds.dzone.com/link/23560/17029918/dgs-graphql-and-spring-boot</link>
+            <guid isPermaLink="false">https://dzone.com/articles/3555190</guid>
+            <pubDate></pubDate>
+            <updated>Tue, 13 May 2025 12:00:01 GMT</updated>
+                
+            <media:thumbnail url="https://dz2cdn1.dzone.com/thumbnail?fid=18393435&amp;w=600"/>
+                
+                
+            <content:encoded>
+                <![CDATA[
+                    
+                    <h2>Why GraphQL?</h2>
+<p>GraphQL provides a powerful layer to unify data from various backend sources, including databases, REST APIs, and microservices, into a single, consistent API. It enables the creation of flexible APIs that can evolve with changing client applications.</p>
+<h2>Introduction</h2>
+<p>This article will show you how to create an effective application that implements GraphQL using the Netflix DGS framework in the Spring Boot application.</p><img height="1" src="https://feeds.dzone.com/link/23560/17029918.gif" width="1" />
+                ]]>
+            </content:encoded>
+        </item>
+        
+        <item>
+            <id>https://dzone.com/articles/3557169</id>
+            <title>AI-Based Threat Detection in Cloud Security</title>
+            <link>https://feeds.dzone.com/link/23560/17029111/ai-based-threat-detection-in-cloud-security</link>
+            <guid isPermaLink="false">https://dzone.com/articles/3557169</guid>
+            <pubDate></pubDate>
+            <updated>Mon, 12 May 2025 18:00:00 GMT</updated>
+                
+            <media:thumbnail url="https://dz2cdn1.dzone.com/thumbnail?fid=18393365&amp;w=600"/>
+                
+                
+            <content:encoded>
+                <![CDATA[
+                    
+                    <h2 style="text-align: left;">Abstract</h2>
+<p style="text-align: left;">This article explores how artificial intelligence (AI) is enhancing threat detection in cloud certificate environments. It explicates how dissimilar AI modeling, such as supervised, unsupervised, and reinforcement learning, is used to describe and respond to security measures and threats in cloud environments.&nbsp;</p>
+<p style="text-align: left;">The article also wraps up the architecture of AI-powered security systems, including data compendium, model training, and feedback loops. It highlights real-world use cases like insider threat spotting and explains how emerging technologies like large language models (LLMs) and self-healing systems determine the future of cloud security. Technical, simple, and concise, the article offers deep insight into the practical deployment and limitations of AI in real-time cloud defense systems.</p><img height="1" src="https://feeds.dzone.com/link/23560/17029111.gif" width="1" />
+                ]]>
+            </content:encoded>
+        </item>
+        
+        <item>
+            <id>https://dzone.com/articles/3544328</id>
+            <title>Unlocking Data with Language: Real-World Applications of Text-to-SQL Interfaces</title>
+            <link>https://feeds.dzone.com/link/23560/17028995/text-to-sql-llm-based-database-interface</link>
+            <guid isPermaLink="false">https://dzone.com/articles/3544328</guid>
+            <pubDate></pubDate>
+            <updated>Mon, 12 May 2025 15:00:00 GMT</updated>
+                
+            <media:thumbnail url="https://dz2cdn1.dzone.com/thumbnail?fid=18391764&amp;w=600"/>
+                
+                
+            <content:encoded>
+                <![CDATA[
+                    
+                    <h2>Introduction</h2>
+<p>It has long been a difficult task to generate precise SQL queries from customers' natural language inquiries (text-to-SQL). Understanding user queries, appreciating the structure and semantics of a particular database schema, and accurately producing executable SQL statements are some of the elements that contribute to the complexity. &nbsp;</p>
+<p><a href="https://dzone.com/refcardz/getting-started-with-large-language-models">Large language models (LLMs)</a> have opened up new avenues for <a href="https://dzone.com/articles/unleashing-the-power-of-conversational-ai-for-text">text-to-SQL</a> research. Superior natural language understanding skills are demonstrated by LLMs, and their scalability offers special chances to improve SQL creation. &nbsp;</p><img height="1" src="https://feeds.dzone.com/link/23560/17028995.gif" width="1" />
+                ]]>
+            </content:encoded>
+        </item>
+        
+        <item>
+            <id>https://dzone.com/articles/3554315</id>
+            <title>How Trustworthy Is Big Data?</title>
+            <link>https://feeds.dzone.com/link/23560/17028957/how-trustworthy-is-big-data</link>
+            <guid isPermaLink="false">https://dzone.com/articles/3554315</guid>
+            <pubDate></pubDate>
+            <updated>Mon, 12 May 2025 14:00:00 GMT</updated>
+                
+            <media:thumbnail url="https://dz2cdn1.dzone.com/thumbnail?fid=18392639&amp;w=600"/>
+                
+                
+            <content:encoded>
+                <![CDATA[
+                    
+                    <p dir="ltr">Businesses and individual users now employ big data analysis to support decision-making, engineering innovation, and productivity levels. However, the surge in the reliance on big data leads to growing concerns regarding its accuracy and trustworthiness.</p>
+<p dir="ltr">Although big data provides unprecedented insights and opportunities across all industries, you should be aware of concerns, such as loss of trust in big data, and address them as well. This article explores the perils of bad big data, reasons for the lack of trust in big data, and strategies that can be adopted to combat it.</p><img height="1" src="https://feeds.dzone.com/link/23560/17028957.gif" width="1" />
+                ]]>
+            </content:encoded>
+        </item>
+        
+        <item>
+            <id>https://dzone.com/articles/3556423</id>
+            <title>Automating Data Pipelines: Generating PySpark and SQL Jobs With LLMs in Cloudera</title>
+            <link>https://feeds.dzone.com/link/23560/17028861/generating-pyspark-sql-jobs-llms-cloudera</link>
+            <guid isPermaLink="false">https://dzone.com/articles/3556423</guid>
+            <pubDate></pubDate>
+            <updated>Mon, 12 May 2025 11:00:00 GMT</updated>
+                
+            <media:thumbnail url="https://dz2cdn1.dzone.com/thumbnail?fid=18391525&amp;w=600"/>
+                
+                
+            <content:encoded>
+                <![CDATA[
+                    
+                    <p>With the rise of generative AI and large language models (LLMs), data engineers and analysts can now translate natural language directly into working PySpark or SQL jobs.&nbsp;</p>
+<p>By integrating LLMs into Cloudera Machine Learning (CML) and executing workloads on Cloudera Data Engineering (CDE) with Iceberg table formats, enterprises can accelerate data pipeline development, improve collaboration, and simplify access to large-scale analytics.</p><img height="1" src="https://feeds.dzone.com/link/23560/17028861.gif" width="1" />
+                ]]>
+            </content:encoded>
+        </item>
+        
+        <item>
+            <id>https://dzone.com/articles/3545404</id>
+            <title>Revolutionizing Financial Monitoring: Building a Team Dashboard With OpenObserve</title>
+            <link>https://feeds.dzone.com/link/23560/17026847/financial-monitoring-build-dashboard-openobserve</link>
+            <guid isPermaLink="false">https://dzone.com/articles/3545404</guid>
+            <pubDate></pubDate>
+            <updated>Fri, 09 May 2025 13:00:00 GMT</updated>
+                
+            <media:thumbnail url="https://dz2cdn1.dzone.com/thumbnail?fid=18385698&amp;w=600"/>
+                
+                
+            <content:encoded>
+                <![CDATA[
+                    
+                    <p>After a particularly grueling Thursday spent troubleshooting a publish API outage last year, I remember turning to my colleague and saying, "There has to be a better way." Four years into my software engineering career in fintech, and we were still piecing together information from disparate monitoring tools whenever something went wrong. That frustration kickstarted my two-month journey to build what's now become our team's most valuable asset: a comprehensive OpenObserve dashboard that's transformed how we monitor our services.</p>
+<h2><img alt="An image of an office setting." class="fr-fic fr-dib lazyload" style="width: 640px;" /></h2>
+<h2><br /></h2>
+<h2>Finding the Right Tool</h2>
+<p>After spending a few weekends researching options, I narrowed down our choices to three observability platforms. OpenObserve won out because it offered:</p><img height="1" src="https://feeds.dzone.com/link/23560/17026847.gif" width="1" />
+                ]]>
+            </content:encoded>
+        </item>
+        
+        <item>
+            <id>https://dzone.com/articles/3541901</id>
+            <title>Mastering Advanced Traffic Management in Multi-Cloud Kubernetes: Scaling With Multiple Istio Ingress Gateways</title>
+            <link>https://feeds.dzone.com/link/23560/17026488/scaling-multiple-istio-ingress-gateways</link>
+            <guid isPermaLink="false">https://dzone.com/articles/3541901</guid>
+            <pubDate></pubDate>
+            <updated>Thu, 08 May 2025 21:00:00 GMT</updated>
+                
+            <media:thumbnail url="https://dz2cdn1.dzone.com/thumbnail?fid=18392758&amp;w=600"/>
+                
+                
+            <content:encoded>
+                <![CDATA[
+                    
+                    <p>In my experience managing large-scale Kubernetes deployments across multi-cloud platforms, traffic control often becomes a critical bottleneck, especially when dealing with mixed workloads like APIs, UIs, and transactional systems. While Istio’s default ingress gateway does a decent job, I found that relying on a single gateway can introduce scaling and isolation challenges.</p>
+<p>That’s where configuring multiple Istio Ingress Gateways can make a real difference. In this article, I’ll walk you through how I approached this setup, what benefits it unlocked for our team, and the hands-on steps we used, along with best practices and YAML configurations that you can adapt in your own clusters.</p><img height="1" src="https://feeds.dzone.com/link/23560/17026488.gif" width="1" />
+                ]]>
+            </content:encoded>
+        </item>
+        
+        <item>
+            <id>https://dzone.com/articles/3546218</id>
+            <title>Cloud Cost Optimization for ML Workloads With NVIDIA DCGM</title>
+            <link>https://feeds.dzone.com/link/23560/17026291/cloud-cost-optimization-for-ml-workloads</link>
+            <guid isPermaLink="false">https://dzone.com/articles/3546218</guid>
+            <pubDate></pubDate>
+            <updated>Thu, 08 May 2025 17:00:00 GMT</updated>
+                
+            <media:thumbnail url="https://dz2cdn1.dzone.com/thumbnail?fid=18385622&amp;w=600"/>
+                
+                
+            <content:encoded>
+                <![CDATA[
+                    
+                    <h2>Introduction</h2>
+<p>Running <a href="https://dzone.com/ai-ml">machine learning</a> (ML) workloads in the cloud can become prohibitively expensive when teams overlook resource orchestration. Large-scale data ingestion, GPU-based inference, and ephemeral tasks often rack up unexpected fees. This article offers a detailed look at advanced strategies for cost management, including:</p>
+<ul>
+ <li>Dynamic Extract, Transfer, Load (ETL) schedules using <strong>SQL triggers&nbsp;</strong>and partitioning</li>
+ <li>Time-series modeling—Seasonal Autoregressive Integrated Moving Average<em>&nbsp;(</em>SARIMA) and Prophet—with hyperparameter tuning</li>
+ <li>GPU provisioning with <strong>NVIDIA DCGM</strong> and multi-instance GPU configurations</li>
+ <li>In-depth autoscaling examples for AI services</li>
+</ul>
+<p>Our team reduced expenses by 48% while maintaining performance for large ML pipelines. This guide outlines our process in code.</p><img height="1" src="https://feeds.dzone.com/link/23560/17026291.gif" width="1" />
+                ]]>
+            </content:encoded>
+        </item>
+        
+    </channel>
+</rss>

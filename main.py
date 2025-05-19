@@ -7,6 +7,7 @@ from concurrent.futures import ThreadPoolExecutor
 from typing import Any, Dict, List, Optional, Tuple
 
 import feedparser
+import requests
 import pandas as pd
 from dotenv import load_dotenv
 from jinja2 import Template
@@ -131,9 +132,15 @@ class RSSProcessorApp:
             feed = feedparser.parse(rss["url"])
             
             if feed.bozo and feed.get("bozo_exception"):
-                error = feed.get("bozo_exception", "")
-                logger.error(f"Feed parse error: {error}")
-                return None
+                if "document declared as us-ascii" in str(feed['bozo_exception']):
+                    return feed
+                
+                if "not well-formed" in str(feed['bozo_exception']):
+                    return feed
+
+                if feed.bozo and feed.get("bozo_exception"):
+                    logger.error(f"Feed parse error: {feed.get("bozo_exception", "")}")
+                    return None
                 
             if not feed.entries:
                 logger.warning(f"Feed has no entries: {rss.get('text', 'Unknown feed')}")

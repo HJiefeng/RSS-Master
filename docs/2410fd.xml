@@ -1,0 +1,421 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
+    <channel>
+        <title>DZone AI/ML Zone</title>
+        <link>https://dzone.com/ai-ml</link>
+        
+        <item>
+            <id>https://dzone.com/articles/3551898</id>
+            <title>The Full-Stack Developer's Blind Spot: Why Data Cleansing Shouldn't Be an Afterthought</title>
+            <link>https://feeds.dzone.com/link/23558/17032336/full-stack-developer-blind-spot-data-cleansing</link>
+            <guid isPermaLink="false">https://dzone.com/articles/3551898</guid>
+            <pubDate></pubDate>
+            <updated>Fri, 16 May 2025 17:00:00 GMT</updated>
+                
+            <media:thumbnail url="https://dz2cdn1.dzone.com/thumbnail?fid=18402449&amp;w=600"/>
+                
+                
+            <content:encoded>
+                <![CDATA[
+                    
+                    <p>My development team lead was three weeks into building a slick React dashboard for a client when everything fell apart. The app looked great in demos with test data. We were ready to connect it to our production database.&nbsp;</p>
+<p>Then all hell broke loose.&nbsp;</p><img height="1" src="https://feeds.dzone.com/link/23558/17032336.gif" width="1" />
+                ]]>
+            </content:encoded>
+        </item>
+        
+        <item>
+            <id>https://dzone.com/articles/3528785</id>
+            <title>How Can Developers Drive Innovation by Combining IoT and AI?</title>
+            <link>https://feeds.dzone.com/link/23558/17032155/developers-innovation-by-combining-IoT-and-AI</link>
+            <guid isPermaLink="false">https://dzone.com/articles/3528785</guid>
+            <pubDate></pubDate>
+            <updated>Fri, 16 May 2025 12:00:00 GMT</updated>
+                
+            <media:thumbnail url="https://dz2cdn1.dzone.com/thumbnail?fid=18401249&amp;w=600"/>
+                
+                
+            <content:encoded>
+                <![CDATA[
+                    
+                    <p><span lang="EN-US">In the contemporary era, the exponential growth of the </span><a href="https://dzone.com/articles/the-internet-of-things-development-and-examples"><span lang="EN-US">Internet of Things (IoT)</span></a><span lang="EN-US"> and artificial intelligence (AI) has shifted the digital terrain. As these two technologies improve further, their amalgamation offers remarkable opportunities for developers to create more innovative, efficient, and highly adaptive solutions across industries. However, the actual value is in working with IoT and AI purposefully — understanding their nuances, potential pitfalls, and best practices to benefit from their full potential.&nbsp;</span><span>&nbsp;</span></p>
+<p><span lang="EN-US">Let's dive into how the conscious combination of IoT and AI can be a game-changer for developers.</span><span>&nbsp;</span></p><img height="1" src="https://feeds.dzone.com/link/23558/17032155.gif" width="1" />
+                ]]>
+            </content:encoded>
+        </item>
+        
+        <item>
+            <id>https://dzone.com/articles/3550842</id>
+            <title>AI-Driven Root Cause Analysis in SRE: Enhancing Incident Resolution</title>
+            <link>https://feeds.dzone.com/link/23558/17032116/ai-driven-root-cause-analysis-in-sre</link>
+            <guid isPermaLink="false">https://dzone.com/articles/3550842</guid>
+            <pubDate></pubDate>
+            <updated>Fri, 16 May 2025 11:00:00 GMT</updated>
+                
+            <media:thumbnail url="https://dz2cdn1.dzone.com/thumbnail?fid=18400846&amp;w=600"/>
+                
+                
+            <content:encoded>
+                <![CDATA[
+                    
+                    <h2 dir="ltr" style="text-align: left;">Introduction</h2>
+<p dir="ltr" style="text-align: left;">Site Reliability Engineering (SRE) is one of the key pillars for organizations. SRE teams are responsible for maintaining the system's scalability and reliability. One of the key challenges SRE teams face is dealing with alert floods, parsing cryptic logs, and the pressure of SLA timers. These challenges make Root Cause Analysis (RCA) of an incident really tough. With the increasing complexity of distributed infrastructure, identifying RCA and resolving incidents become more difficult. Because conventional troubleshooting methods require manual log analysis and the review of multiple data sources, they are very time-consuming and demand a large employee workforce.</p>
+<p dir="ltr" style="text-align: left;">In this article, we will examine how Artificial Intelligence (AI) is benefiting <a href="https://dzone.com/articles/root-cause-analysis-in-software-development-teams">Root Cause Analysis</a> (RCA) in incident management by automating processes, reducing resolution time, and improving overall system reliability. This article delves into the techniques used and challenges faced.</p><img height="1" src="https://feeds.dzone.com/link/23558/17032116.gif" width="1" />
+                ]]>
+            </content:encoded>
+        </item>
+        
+        <item>
+            <id>https://dzone.com/articles/3564710</id>
+            <title>Developers Beware: Slopsquatting and Vibe Coding Can Increase Risk of AI-Powered Attacks</title>
+            <link>https://feeds.dzone.com/link/23558/17030990/slopsquatting-and-vibe-code-ai-risks</link>
+            <guid isPermaLink="false">https://dzone.com/articles/3564710</guid>
+            <pubDate></pubDate>
+            <updated>Wed, 14 May 2025 21:30:00 GMT</updated>
+                
+            <media:thumbnail url="https://dz2cdn1.dzone.com/thumbnail?fid=18402528&amp;w=600"/>
+                
+                
+            <content:encoded>
+                <![CDATA[
+                    
+                    <p>Security researchers and developers are raising alarms over “slopsquatting,” a new form of supply chain attack that leverages AI-generated misinformation commonly known as hallucinations. As developers increasingly rely on coding tools like GitHub Copilot, ChatGPT, and DeepSeek, attackers are exploiting AI’s tendency to invent software packages, tricking users into downloading malicious content.</p>
+<h2>What is Slopsquatting?</h2>
+<p>The term slopsquatting was originally coined by Seth Larson, a developer with the Python Software Foundation, and later popularized by tech security researcher Andrew Nesbitt. It refers to cases <a href="https://dzone.com/articles/how-artificial-intelligence-is-transforming-cybers">where attackers</a> register software packages that don’t actually exist, but are mistakenly suggested by AI tools; once live, these fake packages can contain harmful code.</p><img height="1" src="https://feeds.dzone.com/link/23558/17030990.gif" width="1" />
+                ]]>
+            </content:encoded>
+        </item>
+        
+        <item>
+            <id>https://dzone.com/articles/3564758</id>
+            <title>Unlocking AI Coding Assistants: Generate Unit Tests</title>
+            <link>https://feeds.dzone.com/link/23558/17030854/ai-coding-assistants-generate-unit-tests</link>
+            <guid isPermaLink="false">https://dzone.com/articles/3564758</guid>
+            <pubDate></pubDate>
+            <updated>Wed, 14 May 2025 17:00:00 GMT</updated>
+                
+            <media:thumbnail url="https://dz2cdn1.dzone.com/thumbnail?fid=18400696&amp;w=600"/>
+                
+                
+            <content:encoded>
+                <![CDATA[
+                    
+                    <div>
+ <p>In this part of this series, you will try to create unit tests for a Spring Boot application using an AI coding assistant. The goal is not merely to create working unit tests, but to create qualitative unit tests. Enjoy!</p>
+ <h2>Introduction</h2>
+ <p>You will try to generate unit tests for a basic Spring Boot application with the help of an AI coding assistant. The responses are evaluated, and different techniques are applied, which can be used to improve the responses when necessary. This blog is part of a series; the previous parts can be read here:</p><img height="1" src="https://feeds.dzone.com/link/23558/17030854.gif" width="1" />
+                ]]>
+            </content:encoded>
+        </item>
+        
+        <item>
+            <id>https://dzone.com/articles/3550714</id>
+            <title>Beyond Code Coverage: A Risk-Driven Revolution in Software Testing With Machine Learning</title>
+            <link>https://feeds.dzone.com/link/23558/17030773/software-testing-with-machine-learning</link>
+            <guid isPermaLink="false">https://dzone.com/articles/3550714</guid>
+            <pubDate></pubDate>
+            <updated>Wed, 14 May 2025 15:00:00 GMT</updated>
+                
+            <media:thumbnail url="https://dz2cdn1.dzone.com/thumbnail?fid=18400615&amp;w=600"/>
+                
+                
+            <content:encoded>
+                <![CDATA[
+                    
+                    <p dir="ltr">Modern systems require more than high code coverage because they are complex and interconnected. Through machine learning development, companies can create advanced tools that link risk-based planning methods to enhance their software testing outcomes.&nbsp;</p>
+<p dir="ltr">With the focus on the possibility of failure and its effects, risk-based testing provides both improved efficiency and better effectiveness. RBT selects its execution focus on core features and often modified code and components known for producing defects.&nbsp;</p><img height="1" src="https://feeds.dzone.com/link/23558/17030773.gif" width="1" />
+                ]]>
+            </content:encoded>
+        </item>
+        
+        <item>
+            <id>https://dzone.com/articles/3564666</id>
+            <title>Intro to RAG: Foundations of Retrieval Augmented Generation, Part 1</title>
+            <link>https://feeds.dzone.com/link/23558/17030673/intro-to-rag-retrieval-augmented-generation</link>
+            <guid isPermaLink="false">https://dzone.com/articles/3564666</guid>
+            <pubDate></pubDate>
+            <updated>Wed, 14 May 2025 13:00:00 GMT</updated>
+                
+            <media:thumbnail url="https://dz2cdn1.dzone.com/thumbnail?fid=18400656&amp;w=600"/>
+                
+                
+            <content:encoded>
+                <![CDATA[
+                    
+                    <p>Retrieval-augmented generation (RAG) may sound complex, but it accurately represents the process of the system. RAG is a method that enhances the capabilities of large language models (LLMs) by integrating them with external knowledge sources.</p>
+<p>Each term represents a piece of the puzzle:</p><img height="1" src="https://feeds.dzone.com/link/23558/17030673.gif" width="1" />
+                ]]>
+            </content:encoded>
+        </item>
+        
+        <item>
+            <id>https://dzone.com/articles/3564882</id>
+            <title>Ethical AI in Agile</title>
+            <link>https://feeds.dzone.com/link/23558/17030584/ethical-ai-in-agile</link>
+            <guid isPermaLink="false">https://dzone.com/articles/3564882</guid>
+            <pubDate></pubDate>
+            <updated>Wed, 14 May 2025 11:00:00 GMT</updated>
+                
+            <media:thumbnail url="https://dz2cdn1.dzone.com/thumbnail?fid=18398108&amp;w=600"/>
+                
+                
+            <content:encoded>
+                <![CDATA[
+                    
+                    <h2>TL; DR: Ethical AI in Agile</h2>
+<p>Agile teams face ethical challenges. However, there is a path to Ethical AI in Agile by establishing four pragmatic guardrails: Data Privacy (information classification), Human Value Preservation (defining AI vs. human roles), Output Validation (verification protocols), and Transparent Attribution (contribution tracking).&nbsp;</p>
+<p>This lightweight framework integrates with existing practices, protecting sensitive data and human expertise while enabling teams to confidently realize AI benefits without creating separate bureaucratic processes.</p><img height="1" src="https://feeds.dzone.com/link/23558/17030584.gif" width="1" />
+                ]]>
+            </content:encoded>
+        </item>
+        
+        <item>
+            <id>https://dzone.com/articles/3564693</id>
+            <title>Agentic AI for Automated Application Security and Vulnerability Management</title>
+            <link>https://feeds.dzone.com/link/23558/17030257/agentic-ai-security-vulnerability-management</link>
+            <guid isPermaLink="false">https://dzone.com/articles/3564693</guid>
+            <pubDate></pubDate>
+            <updated>Tue, 13 May 2025 21:00:00 GMT</updated>
+                
+            <media:thumbnail url="https://dz2cdn1.dzone.com/thumbnail?fid=18400548&amp;w=600"/>
+                
+                
+            <content:encoded>
+                <![CDATA[
+                    
+                    <p>It was not so long ago that I was having a much closer look at how AI is becoming embedded in our everyday developer work. I have watched more intelligent code suggestions, automated testing routines, and those ubiquitous chatbots become a normal part of the everyday toolkit. They are useful, naturally, but at their core, they are still fundamentally reactive, they still wait for you to inquire of them before taking action.</p>
+<p>What has really blown me away recently is the emergence of agentic AI. It is completely different, it does not just sit around and wait to be told what to do, but instead it takes charge itself. It can decide what should be done, strategize the steps, and even adjust if something unexpected happens. It's sort of like having a colleague who is always planning ahead, as opposed to merely carrying out orders.</p><img height="1" src="https://feeds.dzone.com/link/23558/17030257.gif" width="1" />
+                ]]>
+            </content:encoded>
+        </item>
+        
+        <item>
+            <id>https://dzone.com/articles/3547587</id>
+            <title>Fraud Detection Using Artificial Intelligence and Machine Learning</title>
+            <link>https://feeds.dzone.com/link/23558/17030181/fraud-detection-using-artificial-intelligence-ml</link>
+            <guid isPermaLink="false">https://dzone.com/articles/3547587</guid>
+            <pubDate></pubDate>
+            <updated>Tue, 13 May 2025 19:00:00 GMT</updated>
+                
+            <media:thumbnail url="https://dz2cdn1.dzone.com/thumbnail?fid=18398973&amp;w=600"/>
+                
+                
+            <content:encoded>
+                <![CDATA[
+                    
+                    <h2 dir="ltr" style="text-align: left;">Introduction&nbsp;</h2>
+<p dir="ltr" style="text-align: left;">For industries such as e-commerce, finance, and insurance where transactional security is paramount, fraud detection is a pressing challenge. Until a decade ago, organizations were relying on predefined rules and thresholds which are often not sufficient to detect fraudulent activities. &nbsp;With the advent of <a href="https://dzone.com/ai-ml">Artificial Intelligence (AI) and Machine Learning (ML)</a>, organizations are enabling automated, adaptive, and real time anomaly detection techniques for fraud detection.</p>
+<p dir="ltr" style="text-align: left;">In this article we will do a detailed review of AI and ML methodologies in fraud detection, including supervised, unsupervised, and deep learning techniques. Furthermore, this article also delves into the challenges of using AI in fraud detection.</p><img height="1" src="https://feeds.dzone.com/link/23558/17030181.gif" width="1" />
+                ]]>
+            </content:encoded>
+        </item>
+        
+        <item>
+            <id>https://dzone.com/articles/3550489</id>
+            <title>How AI Agents Are Transforming Enterprise Automation Architecture</title>
+            <link>https://feeds.dzone.com/link/23558/17030121/how-ai-agents-transform-automation-architecture</link>
+            <guid isPermaLink="false">https://dzone.com/articles/3550489</guid>
+            <pubDate></pubDate>
+            <updated>Tue, 13 May 2025 17:00:00 GMT</updated>
+                
+            <media:thumbnail url="https://dz2cdn1.dzone.com/thumbnail?fid=18398871&amp;w=600"/>
+                
+                
+            <content:encoded>
+                <![CDATA[
+                    
+                    <p dir="ltr">Imagine someone in the early 20s predicting that, in the future, intelligent autonomous systems would be capable of executing tasks and solving problems independently. Fast forward to today, and with the rise of machine learning and natural language processing, humans can now build intelligent agents that seamlessly blend both machine and human capabilities.</p>
+<p dir="ltr">&nbsp;With this exclusive guide, we will examine the nature of AI agents, how these AI Agents for enterprise automation function, and their revolutionary effects across various sectors.&nbsp;</p><img height="1" src="https://feeds.dzone.com/link/23558/17030121.gif" width="1" />
+                ]]>
+            </content:encoded>
+        </item>
+        
+        <item>
+            <id>https://dzone.com/articles/3544377</id>
+            <title>The Role of Retrieval Augmented Generation (RAG) in Development of AI-Infused Enterprise Applications</title>
+            <link>https://feeds.dzone.com/link/23558/17029999/rag-in-ai-enterprise-applications</link>
+            <guid isPermaLink="false">https://dzone.com/articles/3544377</guid>
+            <pubDate></pubDate>
+            <updated>Tue, 13 May 2025 14:00:00 GMT</updated>
+                
+            <media:thumbnail url="https://dz2cdn1.dzone.com/thumbnail?fid=18398995&amp;w=600"/>
+                
+                
+            <content:encoded>
+                <![CDATA[
+                    
+                    <h2>Introduction</h2>
+<p>Artificial Intelligence (AI) is transforming enterprise applications, enabling businesses to enhance efficiency, improve decision-making, and unlock new opportunities. However, AI adoption is not a one-size-fits-all approach—organizations integrate AI at different levels depending on their needs, existing infrastructure, and strategic goals.</p>
+<p>This article explores three categories of <strong>AI-infused applications</strong>, their <strong>enterprise use cases</strong>, and how <a href="https://dzone.com/articles/mastering-retrieval-augmented-generation"><strong>Retrieval-Augmented Generation (RAG)</strong> </a>is revolutionizing AI adoption by improving accuracy, relevance, and contextual understanding in AI-driven applications.</p><img height="1" src="https://feeds.dzone.com/link/23558/17029999.gif" width="1" />
+                ]]>
+            </content:encoded>
+        </item>
+        
+        <item>
+            <id>https://dzone.com/articles/3557169</id>
+            <title>AI-Based Threat Detection in Cloud Security</title>
+            <link>https://feeds.dzone.com/link/23558/17029136/ai-based-threat-detection-in-cloud-security</link>
+            <guid isPermaLink="false">https://dzone.com/articles/3557169</guid>
+            <pubDate></pubDate>
+            <updated>Mon, 12 May 2025 18:00:00 GMT</updated>
+                
+            <media:thumbnail url="https://dz2cdn1.dzone.com/thumbnail?fid=18393365&amp;w=600"/>
+                
+                
+            <content:encoded>
+                <![CDATA[
+                    
+                    <h2 style="text-align: left;">Abstract</h2>
+<p style="text-align: left;">This article explores how artificial intelligence (AI) is enhancing threat detection in cloud certificate environments. It explicates how dissimilar AI modeling, such as supervised, unsupervised, and reinforcement learning, is used to describe and respond to security measures and threats in cloud environments.&nbsp;</p>
+<p style="text-align: left;">The article also wraps up the architecture of AI-powered security systems, including data compendium, model training, and feedback loops. It highlights real-world use cases like insider threat spotting and explains how emerging technologies like large language models (LLMs) and self-healing systems determine the future of cloud security. Technical, simple, and concise, the article offers deep insight into the practical deployment and limitations of AI in real-time cloud defense systems.</p><img height="1" src="https://feeds.dzone.com/link/23558/17029136.gif" width="1" />
+                ]]>
+            </content:encoded>
+        </item>
+        
+        <item>
+            <id>https://dzone.com/articles/3544462</id>
+            <title>Blue Skies Ahead: An AI Case Study on LLM Use for a Graph Theory Related Application</title>
+            <link>https://feeds.dzone.com/link/23558/17029071/llm-use-graph-theory-case-study</link>
+            <guid isPermaLink="false">https://dzone.com/articles/3544462</guid>
+            <pubDate></pubDate>
+            <updated>Mon, 12 May 2025 16:00:00 GMT</updated>
+                
+            <media:thumbnail url="https://dz2cdn1.dzone.com/thumbnail?fid=18391826&amp;w=600"/>
+                
+                
+            <content:encoded>
+                <![CDATA[
+                    
+                    <p>Research activities necessitate the exploration of ideas which may involve significant software development, experimentation, and testing effort. The ability of <a href="https://dzone.com/refcardz/getting-started-with-large-language-models">Large Language Models (LLMs)</a> to generate executable software has been demonstrated in various use cases. This study highlights the positive outcomes of a use case involving a graph theory application. Through a series of successful prompts, functional software was produced within minutes, a task that would otherwise have taken several hours or days to complete. Rather than focusing solely on cost savings from reduced engineering effort, this study aims to highlight the substantial opportunity benefits provided by this technology, especially since research typically involves evaluating multiple ideas before selecting the optimal solution.</p>
+<h2>Introduction</h2>
+<p>When considering great systems thinking quotes, Donnella H. Meadows stands out: “Remember, always, that everything you know, and everything everyone knows, is only a model. Get your model out there where it can be viewed. Invite others to challenge your assumptions and add their own.”&nbsp;</p><img height="1" src="https://feeds.dzone.com/link/23558/17029071.gif" width="1" />
+                ]]>
+            </content:encoded>
+        </item>
+        
+        <item>
+            <id>https://dzone.com/articles/3544328</id>
+            <title>Unlocking Data with Language: Real-World Applications of Text-to-SQL Interfaces</title>
+            <link>https://feeds.dzone.com/link/23558/17029036/text-to-sql-llm-based-database-interface</link>
+            <guid isPermaLink="false">https://dzone.com/articles/3544328</guid>
+            <pubDate></pubDate>
+            <updated>Mon, 12 May 2025 15:00:00 GMT</updated>
+                
+            <media:thumbnail url="https://dz2cdn1.dzone.com/thumbnail?fid=18391764&amp;w=600"/>
+                
+                
+            <content:encoded>
+                <![CDATA[
+                    
+                    <h2>Introduction</h2>
+<p>It has long been a difficult task to generate precise SQL queries from customers' natural language inquiries (text-to-SQL). Understanding user queries, appreciating the structure and semantics of a particular database schema, and accurately producing executable SQL statements are some of the elements that contribute to the complexity. &nbsp;</p>
+<p><a href="https://dzone.com/refcardz/getting-started-with-large-language-models">Large language models (LLMs)</a> have opened up new avenues for <a href="https://dzone.com/articles/unleashing-the-power-of-conversational-ai-for-text">text-to-SQL</a> research. Superior natural language understanding skills are demonstrated by LLMs, and their scalability offers special chances to improve SQL creation. &nbsp;</p><img height="1" src="https://feeds.dzone.com/link/23558/17029036.gif" width="1" />
+                ]]>
+            </content:encoded>
+        </item>
+        
+        <item>
+            <id>https://dzone.com/articles/3540771</id>
+            <title>Why High-Performance AI/ML Is Essential in Modern Cybersecurity</title>
+            <link>https://feeds.dzone.com/link/23558/17028934/why-high-performance-aiml-is-essential-in-modern-c</link>
+            <guid isPermaLink="false">https://dzone.com/articles/3540771</guid>
+            <pubDate></pubDate>
+            <updated>Mon, 12 May 2025 13:00:00 GMT</updated>
+                
+            <media:thumbnail url="https://dz2cdn1.dzone.com/thumbnail?fid=18391557&amp;w=600"/>
+                
+                
+            <content:encoded>
+                <![CDATA[
+                    
+                    <p>Today, organizations thrive in a complex and evolving threat landscape, and cybersecurity has become pivotal for digital resilience. Various sophisticated attacks, such as supply chain breaches, ransomware, phishing via malicious email campaigns, and vulnerabilities in cloud and Internet of Things (IOT) environments, need advanced, performance-sensitive solutions that can detect in real time and also respond to and mitigate these attacks.&nbsp;</p>
+<p>Artificial intelligence and machine learning (ML) play a frontal role in these transformations, providing the necessary capabilities to secure digital systems effectively.</p><img height="1" src="https://feeds.dzone.com/link/23558/17028934.gif" width="1" />
+                ]]>
+            </content:encoded>
+        </item>
+        
+        <item>
+            <id>https://dzone.com/articles/3558387</id>
+            <title>From Zero to Production: Best Practices for Scaling LLMs in the Enterprise</title>
+            <link>https://feeds.dzone.com/link/23558/17028886/best-practices-scaling-llms</link>
+            <guid isPermaLink="false">https://dzone.com/articles/3558387</guid>
+            <pubDate></pubDate>
+            <updated>Mon, 12 May 2025 12:00:00 GMT</updated>
+                
+            <media:thumbnail url="https://dz2cdn1.dzone.com/thumbnail?fid=18385823&amp;w=600"/>
+                
+                
+            <content:encoded>
+                <![CDATA[
+                    
+                    <p dir="ltr">AI adoption is no longer a future trend—it's happening now. The <a href="https://www.microsoft.com/en-us/worklab/work-trend-index/ai-at-work-is-here-now-comes-the-hard-part" rel="noopener noreferrer" target="_blank">2024 Work Trend Index</a> reports that 75% of knowledge workers already use AI on the job. At the forefront of this revolution are <a href="https://dzone.com/refcardz/getting-started-with-large-language-models">Large Language Models (LLMs)</a> which are transforming the way businesses handle natural language tasks—from automating customer support and information retrieval to generating content. Foundational models are versatile, pre-trained architectures that form the backbone of the Generative AI movement. Trained on vast and diverse datasets—including text and multimodal content—they enable businesses to fine-tune AI capabilities for specific tasks like conversational agents, document summarization, and code generation.</p>
+<p dir="ltr">&nbsp;The <a href="https://dzone.com/articles/generative-ai-comprehensive-guide">Generative AI</a> landscape features several key players, each contributing unique strengths to foundational model development:</p><img height="1" src="https://feeds.dzone.com/link/23558/17028886.gif" width="1" />
+                ]]>
+            </content:encoded>
+        </item>
+        
+        <item>
+            <id>https://dzone.com/articles/3556423</id>
+            <title>Automating Data Pipelines: Generating PySpark and SQL Jobs With LLMs in Cloudera</title>
+            <link>https://feeds.dzone.com/link/23558/17028857/generating-pyspark-sql-jobs-llms-cloudera</link>
+            <guid isPermaLink="false">https://dzone.com/articles/3556423</guid>
+            <pubDate></pubDate>
+            <updated>Mon, 12 May 2025 11:00:00 GMT</updated>
+                
+            <media:thumbnail url="https://dz2cdn1.dzone.com/thumbnail?fid=18391525&amp;w=600"/>
+                
+                
+            <content:encoded>
+                <![CDATA[
+                    
+                    <p>With the rise of generative AI and large language models (LLMs), data engineers and analysts can now translate natural language directly into working PySpark or SQL jobs.&nbsp;</p>
+<p>By integrating LLMs into Cloudera Machine Learning (CML) and executing workloads on Cloudera Data Engineering (CDE) with Iceberg table formats, enterprises can accelerate data pipeline development, improve collaboration, and simplify access to large-scale analytics.</p><img height="1" src="https://feeds.dzone.com/link/23558/17028857.gif" width="1" />
+                ]]>
+            </content:encoded>
+        </item>
+        
+        <item>
+            <id>https://dzone.com/articles/3541949</id>
+            <title>Automatic Code Transformation With OpenRewrite</title>
+            <link>https://feeds.dzone.com/link/23558/17027607/automatic-code-transformation-with-openrewrite</link>
+            <guid isPermaLink="false">https://dzone.com/articles/3541949</guid>
+            <pubDate></pubDate>
+            <updated>Fri, 09 May 2025 20:00:00 GMT</updated>
+                
+            <media:thumbnail url="https://dz2cdn1.dzone.com/thumbnail?fid=18391831&amp;w=600"/>
+                
+                
+            <content:encoded>
+                <![CDATA[
+                    
+                    <h2>Code Maintenance/Refactoring Challenges</h2>
+<p><span>As with most problems in business, the challenge with maintaining code is to minimize cost and maximize benefit over some reasonable amount of time. For software maintenance, costs and benefits largely revolve around two things: the quantity and quality of both old and new code.</span></p>
+<h2>Quantity</h2>
+<p><a href="https://dzone.com/articles/quick-start-witj-sonarqube-for-static-code-analysi"><span>SonarQube</span></a><span>&nbsp;suggests our organization maintain <em>at least</em>&nbsp;</span><span>80 million lines of code</span><span>. That’s a lot, especially if we stay current with security patches and rapid library upgrades.</span></p><img height="1" src="https://feeds.dzone.com/link/23558/17027607.gif" width="1" />
+                ]]>
+            </content:encoded>
+        </item>
+        
+        <item>
+            <id>https://dzone.com/articles/3546216</id>
+            <title>Accelerating AI Inference With TensorRT</title>
+            <link>https://feeds.dzone.com/link/23558/17027571/accelerate-ai-interference-tensorrt</link>
+            <guid isPermaLink="false">https://dzone.com/articles/3546216</guid>
+            <pubDate></pubDate>
+            <updated>Fri, 09 May 2025 19:00:04 GMT</updated>
+                
+            <media:thumbnail url="https://dz2cdn1.dzone.com/thumbnail?fid=18388600&amp;w=600"/>
+                
+                
+            <content:encoded>
+                <![CDATA[
+                    
+                    <h2>Introduction</h2>
+<p>Deep learning models can be computationally expensive, especially when they're deployed in latency-sensitive scenarios like autonomous vehicles. Having a powerful GPU does not guarantee quick predictions if your model isn't optimized for inference. This is where <a href="https://dzone.com/articles/new-tools-and-platforms-to-accelerate-gen-ai"><strong>NVIDIA TensorRT</strong></a> comes into play, an SDK that refines, quantizes, and accelerates deep learning models so they run significantly faster.</p>
+<p>This article provides a deep technical overview of converting <a href="https://dzone.com/articles/deep-learning-frameworks-comparison">PyTorch models</a> to TensorRT, covering the tools, configurations, and best practices. We'll also examine how TensorRT reduced latency by more than 70% in an autonomous driving system.</p><img height="1" src="https://feeds.dzone.com/link/23558/17027571.gif" width="1" />
+                ]]>
+            </content:encoded>
+        </item>
+        
+    </channel>
+</rss>

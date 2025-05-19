@@ -1,0 +1,418 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
+    <channel>
+        <title>DZone Big Data Zone</title>
+        <link>https://dzone.com/big-data</link>
+        
+        <item>
+            <id>https://dzone.com/articles/3528785</id>
+            <title>How Can Developers Drive Innovation by Combining IoT and AI?</title>
+            <link>https://dzone.com/articles/developers-innovation-by-combining-IoT-and-AI</link>
+            <guid isPermaLink="false">https://dzone.com/articles/3528785</guid>
+            <pubDate></pubDate>
+            <updated>Fri, 16 May 2025 12:00:00 GMT</updated>
+                
+            <media:thumbnail url="https://dz2cdn1.dzone.com/thumbnail?fid=18401249&amp;w=600"/>
+                
+                
+            <content:encoded>
+                <![CDATA[
+                    
+                    <p><span lang="EN-US">In the contemporary era, the exponential growth of the </span><a href="https://dzone.com/articles/the-internet-of-things-development-and-examples"><span lang="EN-US">Internet of Things (IoT)</span></a><span lang="EN-US"> and artificial intelligence (AI) has shifted the digital terrain. As these two technologies improve further, their amalgamation offers remarkable opportunities for developers to create more innovative, efficient, and highly adaptive solutions across industries. However, the actual value is in working with IoT and AI purposefully — understanding their nuances, potential pitfalls, and best practices to benefit from their full potential.&nbsp;</span><span>&nbsp;</span></p>
+<p><span lang="EN-US">Let's dive into how the conscious combination of IoT and AI can be a game-changer for developers.</span><span>&nbsp;</span></p>
+                ]]>
+            </content:encoded>
+        </item>
+        
+        <item>
+            <id>https://dzone.com/articles/3544135</id>
+            <title>Integrating Google BigQuery With Amazon SageMaker</title>
+            <link>https://dzone.com/articles/integrating-bigquery-and-amazon-sagemaker</link>
+            <guid isPermaLink="false">https://dzone.com/articles/3544135</guid>
+            <pubDate></pubDate>
+            <updated>Thu, 15 May 2025 21:00:00 GMT</updated>
+                
+            <media:thumbnail url="https://dz2cdn1.dzone.com/thumbnail?fid=18402537&amp;w=600"/>
+                
+                
+            <content:encoded>
+                <![CDATA[
+                    
+                    <p>Today, organizations often need to leverage services across different cloud platforms to maximize their data science capabilities. One common scenario is analyzing data stored in Google BigQuery using Amazon SageMaker's advanced machine learning tools.</p>
+<p>This article presents a comprehensive guide to establishing a direct connection between Google BigQuery and Amazon SageMaker Studio through Data Wrangler, offering a cost-effective and secure solution that eliminates the need for data duplication and reduces data transfer overhead.</p>
+                ]]>
+            </content:encoded>
+        </item>
+        
+        <item>
+            <id>https://dzone.com/articles/3556157</id>
+            <title>Optimizing Integration Workflows With Spark Structured Streaming and Cloud Services</title>
+            <link>https://dzone.com/articles/streaming-integration-workflows-spark-cloud</link>
+            <guid isPermaLink="false">https://dzone.com/articles/3556157</guid>
+            <pubDate></pubDate>
+            <updated>Thu, 15 May 2025 18:00:00 GMT</updated>
+                
+            <media:thumbnail url="https://dz2cdn1.dzone.com/thumbnail?fid=18402472&amp;w=600"/>
+                
+                
+            <content:encoded>
+                <![CDATA[
+                    
+                    <p dir="ltr">Data is everywhere and moving faster than ever before. If you are processing logs from millions of IoT devices, tracking customer behavior on an e-commerce site, or monitoring stock market changes in real time, your ability to integrate and process this data quickly and efficiently can mean the difference between your business succeeding or failing.</p>
+<p><a href="https://dzone.com/articles/spark-structured-streaming-using-java">Spark Structured Streaming</a> comes in handy here. The combination of scalability offered by cloud services and the ability to handle real-time data streams makes it a powerful tool for optimizing integration workflows. Let's see how these two technologies can be used to design robust, high-performing data pipelines and how to deal with the actual world scenario of dealing with continuous data.</p>
+                ]]>
+            </content:encoded>
+        </item>
+        
+        <item>
+            <id>https://dzone.com/articles/3556506</id>
+            <title>Customer 360: Fraud Detection in Fintech With PySpark and ML</title>
+            <link>https://dzone.com/articles/fraud-detection-fintech-pyspark-ml</link>
+            <guid isPermaLink="false">https://dzone.com/articles/3556506</guid>
+            <pubDate></pubDate>
+            <updated>Thu, 15 May 2025 13:00:07 GMT</updated>
+                
+            <media:thumbnail url="https://dz2cdn1.dzone.com/thumbnail?fid=18409524&amp;w=600"/>
+                
+                
+            <content:encoded>
+                <![CDATA[
+                    
+                    <p>Every bank uses Customer 360 to maintain its customer records in a unified way, and it can also be used for fraud detection.</p>
+<h2 dir="auto">What Is Customer 360?</h2>
+<p dir="auto"><a href="https://dzone.com/articles/integrating-customer-360-systems-with-gpt-apis-a-t">Customer 360</a> is like creating a complete picture of a customer by pulling together all the data you have about them — think of it as a "comprehensive profile." Imagine a bank with data from accounts, transactions, and customer service calls. Instead of having &nbsp;different/diverse data of the same customer, Customer 360 links them to say, “ This data in various ways belongs to customer John Doe.” It helps businesses understand customers better, personalize services, and figure out customer data patterns.</p>
+                ]]>
+            </content:encoded>
+        </item>
+        
+        <item>
+            <id>https://dzone.com/articles/3553699</id>
+            <title>Mastering Advanced Aggregations in Spark SQL</title>
+            <link>https://dzone.com/articles/advanced-aggregations-in-apache-spark</link>
+            <guid isPermaLink="false">https://dzone.com/articles/3553699</guid>
+            <pubDate></pubDate>
+            <updated>Thu, 15 May 2025 11:00:00 GMT</updated>
+                
+            <media:thumbnail url="https://dz2cdn1.dzone.com/thumbnail?fid=18400770&amp;w=600"/>
+                
+                
+            <content:encoded>
+                <![CDATA[
+                    
+                    <p>In data analytics, efficiently aggregating large datasets is a basic need. For example, when working with retail inventory data, tracking products shipped to stores each month, the standard GROUP BY clause in SQL can handle basic aggregations.&nbsp;</p>
+<p>However, it falls short when you need multiple levels of aggregation in a single query. This is where <a href="https://dzone.com/articles/apache-spark-all-you-need-to-know">Spark SQL’s</a> advanced GROUP BY extensions, GROUPING SETS, ROLLUP, and CUBE, come into the picture to compute multiple groupings efficiently.</p>
+                ]]>
+            </content:encoded>
+        </item>
+        
+        <item>
+            <id>https://dzone.com/articles/3534281</id>
+            <title>A Deep Dive Into Firmware Over the Air for IoT Devices</title>
+            <link>https://dzone.com/articles/deep-dive-into-fota-for-iot</link>
+            <guid isPermaLink="false">https://dzone.com/articles/3534281</guid>
+            <pubDate></pubDate>
+            <updated>Tue, 13 May 2025 22:00:00 GMT</updated>
+                
+            <media:thumbnail url="https://dz2cdn1.dzone.com/thumbnail?fid=18401716&amp;w=600"/>
+                
+                
+            <content:encoded>
+                <![CDATA[
+                    
+                    <h2>An Overview of IoT Devices and FOTA</h2>
+<p>IoT devices are a combination of hardware and software which are programmed to collect and transmit the data over to the internet, other networks, or a variety of applications. There are various categories of IoT devices such as sensors, actuators, machines, gateways, and more. These IoT devices can be used independently, or can be attached to any other devices such as appliances, doors, industrial machinery, medical equipment, and other important assets. In today’s fast-paced environment, these devices offer the capability to provide all important sensory information without any manual intervention to their users via integrations with mobile apps or analytical platforms. These sensors solve various real-world problems such as asset tracking, infrastructure management, condition-based monitoring, industrial automation, and more.&nbsp;</p>
+<p>Companies that offer IoT solutions have to deploy and manage a large number of<a href="https://dzone.com/articles/iot-device-management-streamlining-connectivity-in"> IoT devices</a> in globally-dispersed locations. To make sure that all the devices are working and transmitting the telemetry data as expected without any failure, it is very important to monitor these devices and keep them updated with the latest version of their firmware or software. These new versions of the firmware may contain bug fixes, patches for security vulnerabilities, or new functionalities throughout the device’s lifecycle. Since IoT devices are low powered, low memory constrained devices, and deployed at distributed locations, it is crucial to do <strong>firmware upgrades over the air (FOTA)</strong> for these devices. FOTA happens remotely, and users do not need to be physically available at the same location. FOTA is an essential process for any IoT solution offerings as it enables IoT devices to provide uninterrupted flow of data to the users.</p>
+                ]]>
+            </content:encoded>
+        </item>
+        
+        <item>
+            <id>https://dzone.com/articles/3549495</id>
+            <title>Scalable, Resilient Data Orchestration: The Power of Intelligent Systems</title>
+            <link>https://dzone.com/articles/scalable-data-orchestration-intelligent-systems</link>
+            <guid isPermaLink="false">https://dzone.com/articles/3549495</guid>
+            <pubDate></pubDate>
+            <updated>Mon, 12 May 2025 20:00:00 GMT</updated>
+                
+            <media:thumbnail url="https://dz2cdn1.dzone.com/thumbnail?fid=18394388&amp;w=600"/>
+                
+                
+            <content:encoded>
+                <![CDATA[
+                    
+                    <p>Data is the key driver for any intelligent solution, including AI/ML. The accuracy and quality of any AI/ML model are directly proportional to the quality of data, regardless of whether it takes the form of input data, a prompt, or a pre-trained knowledge dataset. Often, the training datasets for AI/ML models originate from multiple sources and undergo various stages of data processing before being transformed into useful information that models can rely on for training. To achieve a reliable and continuous flow of data from diverse sources, transform data based on business rules, and extract insights and recommendations, we need a data orchestration solution.<br /><br />
+  This article discusses the unsung hero that orchestrates data flow across multiple components, including pipelines, to deliver the intended outcome. This article intentionally focuses on the characteristics and principles of a data orchestrator that are architecturally stable and resilient over time. The topics covered in this article are technology-agnostic and applicable to any industry-recognized data orchestration tools. As an engineer, the solution architecture is influenced by the capabilities or non-functional requirements, not purely by the tools available in the market. This article offers a refreshing take on the topic of data orchestration and shares my experience with the distinguished community of software professionals on designing large-scale data orchestration systems that ultimately bring insights and power intelligent systems.</p>
+<h2>What Is Data Orchestration?</h2>
+<p>Data orchestration is a set of related tasks executed in an order driven by specific use case needs. <a href="https://dzone.com/refcardz/data-orchestration-on-cloud-essentials">Data orchestration</a> can have many names, such as workflow or state machine. Essentially, they are represented as Directed Acyclic Graphs (DAG), composed of nodes and edges. The nodes are represented as individual tasks, while the edges are depicted as triggers. A DAG can compose multiple subsystems and connect them through events that trigger actions, share data payloads along with execution context, thereby making the orchestration well-informed to chart a course of action.</p>
+                ]]>
+            </content:encoded>
+        </item>
+        
+        <item>
+            <id>https://dzone.com/articles/3554315</id>
+            <title>How Trustworthy Is Big Data?</title>
+            <link>https://dzone.com/articles/how-trustworthy-is-big-data</link>
+            <guid isPermaLink="false">https://dzone.com/articles/3554315</guid>
+            <pubDate></pubDate>
+            <updated>Mon, 12 May 2025 14:00:00 GMT</updated>
+                
+            <media:thumbnail url="https://dz2cdn1.dzone.com/thumbnail?fid=18392639&amp;w=600"/>
+                
+                
+            <content:encoded>
+                <![CDATA[
+                    
+                    <p dir="ltr">Businesses and individual users now employ big data analysis to support decision-making, engineering innovation, and productivity levels. However, the surge in the reliance on big data leads to growing concerns regarding its accuracy and trustworthiness.</p>
+<p dir="ltr">Although big data provides unprecedented insights and opportunities across all industries, you should be aware of concerns, such as loss of trust in big data, and address them as well. This article explores the perils of bad big data, reasons for the lack of trust in big data, and strategies that can be adopted to combat it.</p>
+                ]]>
+            </content:encoded>
+        </item>
+        
+        <item>
+            <id>https://dzone.com/articles/3539626</id>
+            <title>Event-Driven Architectures: Designing Scalable and Resilient Cloud Solutions</title>
+            <link>https://dzone.com/articles/event-driven-architectures-cloud-solutions</link>
+            <guid isPermaLink="false">https://dzone.com/articles/3539626</guid>
+            <pubDate></pubDate>
+            <updated>Wed, 07 May 2025 20:00:00 GMT</updated>
+                
+            <media:thumbnail url="https://dz2cdn1.dzone.com/thumbnail?fid=18384007&amp;w=600"/>
+                
+                
+            <content:encoded>
+                <![CDATA[
+                    
+                    <p>Event-driven architectures (EDA) have been a cornerstone in designing cloud systems that are future-proofed, scalable, resilient, and sustainable in nature. EDA is interested in generation, capture, and response to events and nothing more, not even in traditional systems of request-response. The paradigm is most suitable to systems that require high decoupling, elasticity, and fault tolerance.&nbsp;</p>
+<p>In this article, I'll be discussing the technical details of event-driven architectures, along with snippets of code, patterns, and practical strategies of implementation. Let's get started!</p>
+                ]]>
+            </content:encoded>
+        </item>
+        
+        <item>
+            <id>https://dzone.com/articles/3545414</id>
+            <title>Unlocking the Potential of Apache Iceberg: A Comprehensive Analysis</title>
+            <link>https://dzone.com/articles/unlocking-the-potential-of-apache-iceberg</link>
+            <guid isPermaLink="false">https://dzone.com/articles/3545414</guid>
+            <pubDate></pubDate>
+            <updated>Tue, 06 May 2025 18:00:00 GMT</updated>
+                
+            <media:thumbnail url="https://dz2cdn1.dzone.com/thumbnail?fid=18381430&amp;w=600"/>
+                
+                
+            <content:encoded>
+                <![CDATA[
+                    
+                    <p dir="ltr">Apache Iceberg has emerged as a pioneering open table format, &nbsp;revolutionising data management by addressing big challenges. In this article, we'll delve into Iceberg's capabilities, discuss its limitations, and explore the implications for data architects.</p>
+<h2 dir="ltr">A Brief History Lesson: Hadoop's Legacy</h2>
+<p dir="ltr"><a href="https://dzone.com/articles/hadoop-ecosystem-hadoop-tools-for-crunching-big-da">Hadoop</a>, once hailed as a groundbreaking solution, ultimately failed to live up to its expectations due to its inherent complexity. Many organizations struggled to navigate distributed clusters, fine-tune configurations, and mitigate issues like data fragmentation. Iceberg aims to learn from Hadoop's mistakes and provide a more streamlined and efficient solution.</p>
+                ]]>
+            </content:encoded>
+        </item>
+        
+        <item>
+            <id>https://dzone.com/articles/3533011</id>
+            <title>AI, ML, and Data Science: Shaping the Future of Automation</title>
+            <link>https://dzone.com/articles/ai-ml-and-data-science</link>
+            <guid isPermaLink="false">https://dzone.com/articles/3533011</guid>
+            <pubDate></pubDate>
+            <updated>Tue, 06 May 2025 11:00:00 GMT</updated>
+                
+            <media:thumbnail url="https://dz2cdn1.dzone.com/thumbnail?fid=18381092&amp;w=600"/>
+                
+                
+            <content:encoded>
+                <![CDATA[
+                    
+                    <p dir="ltr">Imagine a not-too-distant future where machines can predict future events with unbelievable precision. This vision isn't science fiction anymore — it's being shaped by breakthroughs in artificial intelligence (AI), machine learning (ML), and data science.&nbsp;</p>
+<p dir="ltr">These fields have shifted from theoretical ideas to practical innovations powering change across sectors like healthcare, finance, transportation, and more. But what does the future have in store for these rising technologies, and how are they remodeling automation and data analysis? In this piece, we'll check out the key concepts behind AI, ML, and data science.&nbsp;</p>
+                ]]>
+            </content:encoded>
+        </item>
+        
+        <item>
+            <id>https://dzone.com/articles/3555645</id>
+            <title>Doris: Unifying SQL Dialects for a Seamless Data Query Ecosystem</title>
+            <link>https://dzone.com/articles/doris-sql-dialects-unified-data-query</link>
+            <guid isPermaLink="false">https://dzone.com/articles/3555645</guid>
+            <pubDate></pubDate>
+            <updated>Mon, 28 Apr 2025 19:00:00 GMT</updated>
+                
+            <media:thumbnail url="https://dz2cdn1.dzone.com/thumbnail?fid=18365944&amp;w=600"/>
+                
+                
+            <content:encoded>
+                <![CDATA[
+                    
+                    <p>In the field of big data, different database systems often use different SQL dialects. This is similar to people from different regions speaking different languages, which brings great trouble to data analysts and developers. When an enterprise needs to integrate multiple data sources for analysis, it may have to spend a great deal of time and effort switching between different SQL syntaxes.&nbsp;</p>
+<p>However, <a href="https://dzone.com/articles/introduction-to-apache-doris-a-next-generation-rea">Apache Doris</a> breaks this barrier with its powerful SQL dialect compatibility and builds a unified data query ecosystem for users.</p>
+                ]]>
+            </content:encoded>
+        </item>
+        
+        <item>
+            <id>https://dzone.com/articles/3550778</id>
+            <title>Apache Doris vs Elasticsearch: An In-Depth Comparative Analysis</title>
+            <link>https://dzone.com/articles/apache-doris-vs-elasticsearch</link>
+            <guid isPermaLink="false">https://dzone.com/articles/3550778</guid>
+            <pubDate></pubDate>
+            <updated>Wed, 23 Apr 2025 19:00:00 GMT</updated>
+                
+            <media:thumbnail url="https://dz2cdn1.dzone.com/thumbnail?fid=18358665&amp;w=600"/>
+                
+                
+            <content:encoded>
+                <![CDATA[
+                    
+                    <div dir="ltr">
+ In the field of big data analytics, Apache Doris and Elasticsearch (ES) are frequently utilized for real-time analytics and retrieval tasks. However, their design philosophies and technical focuses differ significantly.
+ <p>This article offers a detailed comparison across six dimensions: core architecture, query language, real-time capabilities, application scenarios, performance, and enterprise practices.</p>
+</div>
+<h2 dir="ltr">1. Core Design Philosophy: MPP Architecture vs. Search Engine Architecture</h2>
+<p><a href="https://dzone.com/articles/introduction-to-apache-doris-a-next-generation-rea">Apache Doris</a> employs a typical MPP (Massively Parallel Processing) distributed architecture, tailored for high-concurrency, low-latency real-time online analytical processing (OLAP) scenarios. It comprises front-end and back-end components, leveraging multi-node parallel computing and columnar storage to efficiently manage massive datasets. This design enables Doris to deliver query results in sub-seconds, making it ideal for complex aggregations and analytical queries on large datasets.</p>
+                ]]>
+            </content:encoded>
+        </item>
+        
+        <item>
+            <id>https://dzone.com/articles/3554948</id>
+            <title>A Modern Stack for Building Scalable Systems</title>
+            <link>https://dzone.com/articles/modern-stack</link>
+            <guid isPermaLink="false">https://dzone.com/articles/3554948</guid>
+            <pubDate></pubDate>
+            <updated>Wed, 23 Apr 2025 12:45:00 GMT</updated>
+                
+            <media:thumbnail url="https://dz2cdn1.dzone.com/thumbnail?fid=18344553&amp;w=600"/>
+                
+                
+            <content:encoded>
+                <![CDATA[
+                    
+                    <p>In software engineering, we have a lot of tools—tens or hundreds of different tools, products, and platforms. We have SQL DBs, we have NoSQL DBs with multiple subtypes, we have queues, data streaming platforms, caches, orchestrators, cloud, cloud versions of all the previous. We have enough ....</p>
+<p>In this article, I want to describe a “basic” modern stack that will allow you to build robust and scalable systems. They are language agnostic and can be easily integrated into most of the modern day programming languages.</p>
+                ]]>
+            </content:encoded>
+        </item>
+        
+        <item>
+            <id>https://dzone.com/articles/3544506</id>
+            <title>Stateless vs Stateful Stream Processing With Kafka Streams and Apache Flink</title>
+            <link>https://dzone.com/articles/stateless-vs-stateful-stream-processing-with-kafka</link>
+            <guid isPermaLink="false">https://dzone.com/articles/3544506</guid>
+            <pubDate></pubDate>
+            <updated>Mon, 21 Apr 2025 21:00:00 GMT</updated>
+                
+            <media:thumbnail url="https://dz2cdn1.dzone.com/thumbnail?fid=18352202&amp;w=600"/>
+                
+                
+            <content:encoded>
+                <![CDATA[
+                    
+                    <p>In data-driven applications, the rise of stream processing has changed how we handle and act on data. While traditional databases, data lakes, and warehouses are effective for many batch-based use cases, they fall short in scenarios demanding low latency, scalability, and real-time decision-making.&nbsp;</p>
+<p>This post explores the key concepts of <strong>stateless</strong> and <strong>stateful stream processing</strong>, using <strong>Kafka Streams</strong> and <strong>Apache Flink</strong> as examples. These principles apply to any stream processing engine, whether open-source or a cloud service.&nbsp;</p>
+                ]]>
+            </content:encoded>
+        </item>
+        
+        <item>
+            <id>https://dzone.com/articles/3555151</id>
+            <title>Enhancing Avro With Semantic Metadata Using Logical Types</title>
+            <link>https://dzone.com/articles/enhancing-avro-semantic-metadata-logical-types</link>
+            <guid isPermaLink="false">https://dzone.com/articles/3555151</guid>
+            <pubDate></pubDate>
+            <updated>Wed, 16 Apr 2025 13:00:00 GMT</updated>
+                
+            <media:thumbnail url="https://dz2cdn1.dzone.com/thumbnail?fid=18338972&amp;w=600"/>
+                
+                
+            <content:encoded>
+                <![CDATA[
+                    
+                    <p>Apache Avro is a widely used data format that keeps things compact and efficient while making it easy to evolve schemas over time. By default, it comes with basic data types like <strong>int</strong>,<strong>&nbsp;long</strong>,<strong>&nbsp;string</strong>,<strong> and bytes</strong>. But what if you need to store something more specific, like a date or a decimal number? That’s where <strong>logical types</strong> come in.</p>
+<p>Logical types let you add semantic meaning to your data. They ensure that values like timestamps or IP addresses are interpreted correctly while still benefiting from <a href="https://avro.apache.org">Avro’s optimized encoding</a>. We’ll also take a deep dive into a specific use case and how logical types can enhance data security by enforcing structured storage and interpretation of sensitive information.</p>
+                ]]>
+            </content:encoded>
+        </item>
+        
+        <item>
+            <id>https://dzone.com/articles/3556319</id>
+            <title>Securing Parquet Files: Vulnerabilities, Mitigations, and Validation</title>
+            <link>https://dzone.com/articles/securing-parquet-files-vulnerabilities-mitigations</link>
+            <guid isPermaLink="false">https://dzone.com/articles/3556319</guid>
+            <pubDate></pubDate>
+            <updated>Tue, 15 Apr 2025 19:00:00 GMT</updated>
+                
+            <media:thumbnail url="https://dz2cdn1.dzone.com/thumbnail?fid=18338967&amp;w=600"/>
+                
+                
+            <content:encoded>
+                <![CDATA[
+                    
+                    <h2 style="text-align: left;">Apache Parquet in Data Warehousing</h2>
+<p style="text-align: left;">Parquet files are becoming the de facto standard for columnar data storage in big data ecosystems. This file format is widely used by both sophisticated in-memory data processing frameworks like Apache Spark and more conventional distributed data processing frameworks like Hadoop due to its high-performance compression and effective data storage and retrieval.</p>
+<p style="text-align: left;">Major companies like Netflix, Uber, LinkedIn, and Airbnb rely on Parquet as their data storage file format for large-scale data processing.</p>
+                ]]>
+            </content:encoded>
+        </item>
+        
+        <item>
+            <id>https://dzone.com/articles/3555506</id>
+            <title>Emerging Data Architectures: The Future of Data Management</title>
+            <link>https://dzone.com/articles/data-architectures-future-of-data-management</link>
+            <guid isPermaLink="false">https://dzone.com/articles/3555506</guid>
+            <pubDate></pubDate>
+            <updated>Tue, 15 Apr 2025 11:00:00 GMT</updated>
+                
+            <media:thumbnail url="https://dz2cdn1.dzone.com/thumbnail?fid=18338931&amp;w=600"/>
+                
+                
+            <content:encoded>
+                <![CDATA[
+                    
+                    <p>In my last article about data architectures, you learned about emerging data architectures like data mesh, Generative AI, and Quantum-based, along with existing architectures like Data Fabric. In this article, you will continue to learn about emerging data architectures like LakeDB and Zero ETL, aligning with the future trends of Data Management and architecture.&nbsp;</p>
+<p>The landscape of <a href="https://dzone.com/articles/data-architectures-emphasis-on-emerging-trends">data architecture</a> is evolving rapidly, driven by the increasing complexity of managing vast amounts of data and the growing adoption of advanced technologies such as generative AI, edge computing, and decentralized systems. As businesses strive to stay competitive in a data-centric world, emerging data architectures are reshaping how organizations store, process, and utilize their data.&nbsp;</p>
+                ]]>
+            </content:encoded>
+        </item>
+        
+        <item>
+            <id>https://dzone.com/articles/3556093</id>
+            <title>A Deep Dive into Apache Doris Indexes</title>
+            <link>https://dzone.com/articles/a-deep-dive-into-apache-doris-indexes</link>
+            <guid isPermaLink="false">https://dzone.com/articles/3556093</guid>
+            <pubDate></pubDate>
+            <updated>Mon, 14 Apr 2025 21:00:00 GMT</updated>
+                
+            <media:thumbnail url="https://dz2cdn1.dzone.com/thumbnail?fid=18338561&amp;w=600"/>
+                
+                
+            <content:encoded>
+                <![CDATA[
+                    
+                    <p>Developers in the big data field know that quickly retrieving data from a vast amount of information is like searching for a specific star in the constellations — extremely challenging. But don't worry! Database indexes are our “positioning magic tools,” capable of significantly boosting query efficiency.</p>
+<p>Take <a href="https://dzone.com/articles/introduction-to-apache-doris-a-next-generation-rea">Apache Doris</a>, a popular analytical database, for example. It supports several types of indexes, each with its own unique features, enabling it to excel in various query scenarios. Today, let's explore Apache Doris indexes in detail and uncover the secrets behind their remarkable performance.</p>
+                ]]>
+            </content:encoded>
+        </item>
+        
+        <item>
+            <id>https://dzone.com/articles/3550605</id>
+            <title>How Doris + Hudi Turned the Impossible Into the Everyday</title>
+            <link>https://dzone.com/articles/doris-hudi-making-impossible-possible</link>
+            <guid isPermaLink="false">https://dzone.com/articles/3550605</guid>
+            <pubDate></pubDate>
+            <updated>Mon, 14 Apr 2025 19:00:00 GMT</updated>
+                
+            <media:thumbnail url="https://dz2cdn1.dzone.com/thumbnail?fid=18370566&amp;w=600"/>
+                
+                
+            <content:encoded>
+                <![CDATA[
+                    
+                    <p>In the world of big data, there's a legend that goes like this: A data scientist, constantly worried about query performance and working late every night to optimize SQL, suddenly discovered the "perfect match" of Doris and Hudi, and immediately kicked into "supersonic" mode — query speeds so fast that even the boss couldn't believe it!</p>
+<p>Today, this legend is widely circulated in the data community. Many data engineers jokingly say that processing data used to be like crossing a river in a canoe — slow and risky. Now, with the "giant ship" of <a href="https://dzone.com/articles/integrate-apache-doris-hudi-data-querying-migration">Doris + Hudi</a>, they can not only sail smoothly but also elegantly travel through time to view every exciting moment of historical data.</p>
+                ]]>
+            </content:encoded>
+        </item>
+        
+    </channel>
+</rss>

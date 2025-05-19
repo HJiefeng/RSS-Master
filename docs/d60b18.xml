@@ -1,0 +1,263 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
+    <channel>
+        <title>InfoQ - AI, ML &amp; Data Engineering</title>
+        <link>https://www.infoq.com</link>
+        
+        <item>
+            <id>https://www.infoq.com/news/2025/05/stargate-openai-for-countries/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering</id>
+            <title>OpenAI’s Stargate Project Aims to Build AI Infrastructure in Partner Countries Worldwide</title>
+            <link>https://www.infoq.com/news/2025/05/stargate-openai-for-countries/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=AI%2C+ML+%26+Data+Engineering</link>
+            <guid isPermaLink="false">https://www.infoq.com/news/2025/05/stargate-openai-for-countries/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering</guid>
+            <pubDate></pubDate>
+            <updated>2025-05-18T21:10:00Z</updated>
+                
+                
+            <content:encoded>
+                <![CDATA[
+                    
+                    <img src="https://res.infoq.com/news/2025/05/stargate-openai-for-countries/en/headerimage/generatedHeaderImage-1747593978139.jpg" /><p>OpenAI has announced a new initiative called "OpenAI for Countries" as part of its Stargate project, aiming to help nations develop AI infrastructure based on democratic principles. This expansion follows the company's initial $500 billion investment plan for AI infrastructure in the United States.</p> <i>By Vinod Goje</i>
+                ]]>
+            </content:encoded>
+        </item>
+        
+        <item>
+            <id>https://www.infoq.com/news/2025/05/llama-4-aws-bedrock-sagemaker/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering</id>
+            <title>Llama 4 Scout and Maverick Now Available on Amazon Bedrock and SageMaker JumpStart</title>
+            <link>https://www.infoq.com/news/2025/05/llama-4-aws-bedrock-sagemaker/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=AI%2C+ML+%26+Data+Engineering</link>
+            <guid isPermaLink="false">https://www.infoq.com/news/2025/05/llama-4-aws-bedrock-sagemaker/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering</guid>
+            <pubDate></pubDate>
+            <updated>2025-05-18T16:00:00Z</updated>
+                
+                
+            <content:encoded>
+                <![CDATA[
+                    
+                    <img src="https://res.infoq.com/news/2025/05/llama-4-aws-bedrock-sagemaker/en/headerimage/llama-4-aws-bedrock-1747583695819.jpeg" /><p>AWS recently announced the availability of Meta's latest foundation models, Llama 4 Scout and Llama 4 Maverick, in Amazon Bedrock and AWS SageMaker JumpStart. Both models provide multimodal capabilities and follow the mixture-of-experts architecture.</p> <i>By Sergio De Simone</i>
+                ]]>
+            </content:encoded>
+        </item>
+        
+        <item>
+            <id>https://www.infoq.com/news/2025/05/mistral-ai-medium/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering</id>
+            <title>Mistral Unveils Medium 3: Enterprise-Ready Language Model</title>
+            <link>https://www.infoq.com/news/2025/05/mistral-ai-medium/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=AI%2C+ML+%26+Data+Engineering</link>
+            <guid isPermaLink="false">https://www.infoq.com/news/2025/05/mistral-ai-medium/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering</guid>
+            <pubDate></pubDate>
+            <updated>2025-05-16T06:10:00Z</updated>
+                
+                
+            <content:encoded>
+                <![CDATA[
+                    
+                    <img src="https://res.infoq.com/news/2025/05/mistral-ai-medium/en/headerimage/generatedHeaderImage-1747336511524.jpg" /><p>Mistral AI has unveiled Mistral Medium 3, a mid-sized language model aimed at enterprises seeking a balance between cost-efficiency, strong performance, and flexible deployment options. The model is now available through Mistral’s platform and Amazon SageMaker, with further releases planned for IBM WatsonX, Azure AI Foundry, Google Cloud Vertex AI, and NVIDIA NIM.</p> <i>By Robert Krzaczyński</i>
+                ]]>
+            </content:encoded>
+        </item>
+        
+        <item>
+            <id>https://www.infoq.com/articles/practical-design-patterns-modern-ai-systems/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering</id>
+            <title>Article: Beyond the Gang of Four: Practical Design Patterns for Modern AI Systems</title>
+            <link>https://www.infoq.com/articles/practical-design-patterns-modern-ai-systems/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=AI%2C+ML+%26+Data+Engineering</link>
+            <guid isPermaLink="false">https://www.infoq.com/articles/practical-design-patterns-modern-ai-systems/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering</guid>
+            <pubDate></pubDate>
+            <updated>2025-05-15T09:00:00Z</updated>
+                
+                
+            <content:encoded>
+                <![CDATA[
+                    
+                    <img src="https://res.infoq.com/articles/practical-design-patterns-modern-ai-systems/en/headerimage/practical-design-patterns-modern-ai-systems-header-1747122253617.jpg" /><p>In this article, author Rahul Suresh discusses emerging AI patterns in the areas of prompting, responsible AI, user experience, AI-Ops, and optimization, with code examples for each design pattern.</p> <i>By Rahul Suresh</i>
+                ]]>
+            </content:encoded>
+        </item>
+        
+        <item>
+            <id>https://www.infoq.com/news/2025/05/legogpt-text-prompts/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering</id>
+            <title>CMU Researchers Introduce LegoGPT: Building Stable LEGO Structures from Text Prompts</title>
+            <link>https://www.infoq.com/news/2025/05/legogpt-text-prompts/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=AI%2C+ML+%26+Data+Engineering</link>
+            <guid isPermaLink="false">https://www.infoq.com/news/2025/05/legogpt-text-prompts/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering</guid>
+            <pubDate></pubDate>
+            <updated>2025-05-14T19:40:00Z</updated>
+                
+                
+            <content:encoded>
+                <![CDATA[
+                    
+                    <img src="https://res.infoq.com/news/2025/05/legogpt-text-prompts/en/headerimage/generatedHeaderImage-1747250491148.jpg" /><p>Researchers at Carnegie Mellon University have introduced LegoGPT, a system that generates physically stable and buildable LEGO® structures from natural language descriptions. The project combines large language models with engineering constraints to produce designs that can be assembled manually or by robotic systems.</p> <i>By Robert Krzaczyński</i>
+                ]]>
+            </content:encoded>
+        </item>
+        
+        <item>
+            <id>https://www.infoq.com/presentations/eclipse-store/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering</id>
+            <title>Presentation: Ultra-Fast In-Memory Database Applications with Java</title>
+            <link>https://www.infoq.com/presentations/eclipse-store/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=AI%2C+ML+%26+Data+Engineering</link>
+            <guid isPermaLink="false">https://www.infoq.com/presentations/eclipse-store/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering</guid>
+            <pubDate></pubDate>
+            <updated>2025-05-14T14:20:00Z</updated>
+                
+                
+            <content:encoded>
+                <![CDATA[
+                    
+                    <img src="https://res.infoq.com/presentations/eclipse-store/en/mediumimage/markus-kett-medium-1744788360662.jpg" /><p>Markus Kett shares a compelling alternative to traditional database systems for Java-based applications. Discover how EclipseStore, an in-memory micro-persistence engine, unlocks extreme performance gains (up to 1000x faster) and drastically reduces cloud database expenses (over 90%).</p> <i>By Markus Kett</i>
+                ]]>
+            </content:encoded>
+        </item>
+        
+        <item>
+            <id>https://www.infoq.com/news/2025/05/google-cloud-ai-workflow/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering</id>
+            <title>Google Cloud Enhances AI/ML Workflows with Hierarchical Namespace in Cloud Storage</title>
+            <link>https://www.infoq.com/news/2025/05/google-cloud-ai-workflow/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=AI%2C+ML+%26+Data+Engineering</link>
+            <guid isPermaLink="false">https://www.infoq.com/news/2025/05/google-cloud-ai-workflow/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering</guid>
+            <pubDate></pubDate>
+            <updated>2025-05-14T12:00:00Z</updated>
+                
+                
+            <content:encoded>
+                <![CDATA[
+                    
+                    <img src="https://res.infoq.com/news/2025/05/google-cloud-ai-workflow/en/headerimage/cloud+storage-1746877477627.jpeg" /><p>On March 17, 2025, Google Cloud introduced a hierarchical namespace (HNS) feature in Cloud Storage, aiming to optimize AI and machine learning (ML) workloads by improving data organization, performance, and reliability.​</p> <i>By Craig Risi</i>
+                ]]>
+            </content:encoded>
+        </item>
+        
+        <item>
+            <id>https://www.infoq.com/news/2025/05/anthropic-web-search/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering</id>
+            <title>Anthropic Introduces Web Search Functionality for Claude Models</title>
+            <link>https://www.infoq.com/news/2025/05/anthropic-web-search/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=AI%2C+ML+%26+Data+Engineering</link>
+            <guid isPermaLink="false">https://www.infoq.com/news/2025/05/anthropic-web-search/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering</guid>
+            <pubDate></pubDate>
+            <updated>2025-05-14T10:20:00Z</updated>
+                
+                
+            <content:encoded>
+                <![CDATA[
+                    
+                    <img src="https://res.infoq.com/news/2025/05/anthropic-web-search/en/headerimage/generatedHeaderImage-1747146264104.jpg" /><p>Anthropic has announced the addition of web search capabilities to its Claude models, available via the Anthropic API. This update enables Claude to access current information from the web, allowing developers to create applications and AI agents that provide up-to-date insights.</p> <i>By Daniel Dominguez</i>
+                ]]>
+            </content:encoded>
+        </item>
+        
+        <item>
+            <id>https://www.infoq.com/articles/lcm-paradigm-shift-ai-reasoning/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering</id>
+            <title>Article: Large Concept Models:  a Paradigm Shift in AI Reasoning</title>
+            <link>https://www.infoq.com/articles/lcm-paradigm-shift-ai-reasoning/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=AI%2C+ML+%26+Data+Engineering</link>
+            <guid isPermaLink="false">https://www.infoq.com/articles/lcm-paradigm-shift-ai-reasoning/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering</guid>
+            <pubDate></pubDate>
+            <updated>2025-05-14T09:00:00Z</updated>
+                
+                
+            <content:encoded>
+                <![CDATA[
+                    
+                    <img src="https://res.infoq.com/articles/lcm-paradigm-shift-ai-reasoning/en/headerimage/lcm-paradigm-shift-ai-reasoning-header-1747043782723.jpg" /><p>Differently from LLMs, Large Concept Models (LCMs) use structured knowledge to grasp relationships between concepts, enhancing the decision-making process and providing a transparent reasoning audit trail. Using LCMs with LLMs can facilitate building AI systems that can analyze complex scenarios and effectively communicate insights, driving towards developing more reliable and explainable AI.</p> <i>By Anidhya Bhatnagar</i>
+                ]]>
+            </content:encoded>
+        </item>
+        
+        <item>
+            <id>https://www.infoq.com/news/2025/05/llamafirewall-agent-protection/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering</id>
+            <title>Meta Open Sources LlamaFirewall for AI Agent Combined Protection</title>
+            <link>https://www.infoq.com/news/2025/05/llamafirewall-agent-protection/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=AI%2C+ML+%26+Data+Engineering</link>
+            <guid isPermaLink="false">https://www.infoq.com/news/2025/05/llamafirewall-agent-protection/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering</guid>
+            <pubDate></pubDate>
+            <updated>2025-05-13T19:00:00Z</updated>
+                
+                
+            <content:encoded>
+                <![CDATA[
+                    
+                    <img src="https://res.infoq.com/news/2025/05/llamafirewall-agent-protection/en/headerimage/llamafirewall-1747159740466.jpeg" /><p>LlamaFirewall is a security framework aimed at safeguarding AI agents against prompt injection, goal misalignment, and insecure code generation. It achieved over 90% efficacy in reducing attack success rates when evaluated on the AgentDojo benchmark. Additionally, developers can update its behavior by adding new security guardrails.</p> <i>By Sergio De Simone</i>
+                ]]>
+            </content:encoded>
+        </item>
+        
+        <item>
+            <id>https://www.infoq.com/news/2025/05/meta-llamacon-announcements/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering</id>
+            <title>Meta Announces API and Protection Tools at First LlamaCon Event</title>
+            <link>https://www.infoq.com/news/2025/05/meta-llamacon-announcements/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=AI%2C+ML+%26+Data+Engineering</link>
+            <guid isPermaLink="false">https://www.infoq.com/news/2025/05/meta-llamacon-announcements/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering</guid>
+            <pubDate></pubDate>
+            <updated>2025-05-13T13:00:00Z</updated>
+                
+                
+            <content:encoded>
+                <![CDATA[
+                    
+                    <img src="https://res.infoq.com/news/2025/05/meta-llamacon-announcements/en/headerimage/generatedHeaderImage-1746357175866.jpg" /><p>At Meta's first-ever LlamaCon event, the company announced several new tools for building with their Llama AI models: a limited preview of the Llama API that allows developers to experiment with different models, and new Llama Protection Tools for securing AI applications.</p> <i>By Anthony Alford</i>
+                ]]>
+            </content:encoded>
+        </item>
+        
+        <item>
+            <id>https://www.infoq.com/news/2025/05/dolphin-gemma-google/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering</id>
+            <title>Google Introduces DolphinGemma to Support Dolphin Communication Research</title>
+            <link>https://www.infoq.com/news/2025/05/dolphin-gemma-google/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=AI%2C+ML+%26+Data+Engineering</link>
+            <guid isPermaLink="false">https://www.infoq.com/news/2025/05/dolphin-gemma-google/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering</guid>
+            <pubDate></pubDate>
+            <updated>2025-05-13T12:00:00Z</updated>
+                
+                
+            <content:encoded>
+                <![CDATA[
+                    
+                    <img src="https://res.infoq.com/news/2025/05/dolphin-gemma-google/en/headerimage/generatedHeaderImage-1747073032154.jpg" /><p>Google has released a new AI model called DolphinGemma, which has been developed to assist researchers in analyzing and interpreting dolphin vocalizations. The project is part of an ongoing collaboration with the Wild Dolphin Project (WDP) and researchers at Georgia Tech, and it focuses on identifying patterns in the natural communication of Atlantic spotted dolphins.</p> <i>By Robert Krzaczyński</i>
+                ]]>
+            </content:encoded>
+        </item>
+        
+        <item>
+            <id>https://www.infoq.com/news/2025/05/openai-gpt-4-1/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering</id>
+            <title>OpenAI Introduces GPT‑4.1 Family with Enhanced Performance and Long-Context Support</title>
+            <link>https://www.infoq.com/news/2025/05/openai-gpt-4-1/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=AI%2C+ML+%26+Data+Engineering</link>
+            <guid isPermaLink="false">https://www.infoq.com/news/2025/05/openai-gpt-4-1/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering</guid>
+            <pubDate></pubDate>
+            <updated>2025-05-12T17:40:00Z</updated>
+                
+                
+            <content:encoded>
+                <![CDATA[
+                    
+                    <img src="https://res.infoq.com/news/2025/05/openai-gpt-4-1/en/headerimage/generatedHeaderImage-1747069893415.jpg" /><p>OpenAI has released a new family of language models—GPT‑4.1, GPT‑4.1 mini, and GPT‑4.1 nano—available via its API. The models improve on GPT‑4o and GPT‑4.5 across several technical benchmarks and introduce support for up to 1 million tokens of context.</p> <i>By Robert Krzaczyński</i>
+                ]]>
+            </content:encoded>
+        </item>
+        
+        <item>
+            <id>https://www.infoq.com/podcasts/build-effective-llms-infrastructure-data/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering</id>
+            <title>Podcast: How to Build Effective LLMs When Both Basic Infrastructure and Model Training Data Are Lacking</title>
+            <link>https://www.infoq.com/podcasts/build-effective-llms-infrastructure-data/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=AI%2C+ML+%26+Data+Engineering</link>
+            <guid isPermaLink="false">https://www.infoq.com/podcasts/build-effective-llms-infrastructure-data/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering</guid>
+            <pubDate></pubDate>
+            <updated>2025-05-12T11:00:00Z</updated>
+                
+                
+            <content:encoded>
+                <![CDATA[
+                    
+                    <img src="https://res.infoq.com/podcasts/build-effective-llms-infrastructure-data/en/smallimage/the-infoq-podcast-logo-thumbnail-1746514066863.jpg" /><p>Olimpiu Pop discusses with Jade Abbott, CTO and co-founder of Lelapa AI, how basic infrastructure scarcities found on the African continent can ignite innovation and help push forward the AI space. Particularly when dealing with never-written languages, you need to be innovative to generate proper data and divide the problem into minor problems that can be solved with fewer intensive resources.</p> <i>By Jade Abbott</i>
+                ]]>
+            </content:encoded>
+        </item>
+        
+        <item>
+            <id>https://www.infoq.com/news/2025/05/deepseek-prover-v2-formal-proof/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering</id>
+            <title>DeepSeek Launches Prover-V2 Open-Source LLM for Formal Math Proofs</title>
+            <link>https://www.infoq.com/news/2025/05/deepseek-prover-v2-formal-proof/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=AI%2C+ML+%26+Data+Engineering</link>
+            <guid isPermaLink="false">https://www.infoq.com/news/2025/05/deepseek-prover-v2-formal-proof/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=AI%2C+ML+%26+Data+Engineering</guid>
+            <pubDate></pubDate>
+            <updated>2025-05-12T01:36:00Z</updated>
+                
+                
+            <content:encoded>
+                <![CDATA[
+                    
+                    <img src="https://res.infoq.com/news/2025/05/deepseek-prover-v2-formal-proof/en/headerimage/generatedHeaderImage-1746998083329.jpg" /><p>DeepSeek has released DeepSeek-Prover-V2, a new open-source large language model specifically designed for formal theorem proving in Lean 4. The model builds on a recursive theorem proving pipeline powered by the company's DeepSeek-V3 foundation model.</p> <i>By Vinod Goje</i>
+                ]]>
+            </content:encoded>
+        </item>
+        
+    </channel>
+</rss>

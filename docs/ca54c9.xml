@@ -1,0 +1,416 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
+    <channel>
+        <title>DZone Microservices Zone</title>
+        <link>https://dzone.com/microservices</link>
+        
+        <item>
+            <id>https://dzone.com/articles/3565943</id>
+            <title>Endpoint Security Controls: Designing a Secure Endpoint Architecture, Part 2</title>
+            <link>https://feeds.dzone.com/link/18931/17032429/endpoint-security-controls-part-two</link>
+            <guid isPermaLink="false">https://dzone.com/articles/3565943</guid>
+            <pubDate></pubDate>
+            <updated>Fri, 16 May 2025 20:00:00 GMT</updated>
+                
+            <media:thumbnail url="https://dz2cdn1.dzone.com/thumbnail?fid=18402550&amp;w=600"/>
+                
+                
+            <content:encoded>
+                <![CDATA[
+                    
+                    <p>As we understood the foundational principles for designing and reviewing endpoint security controls in <a href="https://dzone.com/articles/endpoint-security-controls">Part 1</a>, we also covered key topics such as standardizing and enrolling approved devices and operating systems, enforcing strong authentication and centralized identity management, and validating trusted network access.&nbsp;</p>
+<p>We explored endpoint configuration hardening — including secure boot, BIOS/UEFI settings, app whitelisting, and drift monitoring — as well as privilege management <a href="https://dzone.com/articles/what-is-roles-based-access-control-rbac">using RBAC</a> and <a href="https://dzone.com/articles/just-in-time-jit-compilation-advantages-disadvanta">Just-in-Time</a> access. Additionally, we discussed patch and vulnerability management, malware protection through EDR, software installation controls, restrictions on removable media, secure local data storage practices, and enforcing encryption across devices and media — all supported by strong auditing, compliance, and user awareness measures.</p><img height="1" src="https://feeds.dzone.com/link/18931/17032429.gif" width="1" />
+                ]]>
+            </content:encoded>
+        </item>
+        
+        <item>
+            <id>https://dzone.com/articles/3561329</id>
+            <title>Endpoint Security Controls: Designing a Secure Endpoint Architecture, Part 1</title>
+            <link>https://feeds.dzone.com/link/18931/17031723/endpoint-security-controls</link>
+            <guid isPermaLink="false">https://dzone.com/articles/3561329</guid>
+            <pubDate></pubDate>
+            <updated>Thu, 15 May 2025 20:00:00 GMT</updated>
+                
+            <media:thumbnail url="https://dz2cdn1.dzone.com/thumbnail?fid=18402501&amp;w=600"/>
+                
+                
+            <content:encoded>
+                <![CDATA[
+                    
+                    <p>As organizations embrace digital transformation and hybrid work, the endpoint becomes both a critical productivity enabler and a significant security liability. Laptops, desktops, smartphones, and even IoT devices form the frontline in the battle for data integrity and organizational resilience. To secure this diverse landscape, endpoint security must be viewed not as a single product, but as a multi-layered architectural discipline.</p>
+<p>This article is structured in two parts:</p><img height="1" src="https://feeds.dzone.com/link/18931/17031723.gif" width="1" />
+                ]]>
+            </content:encoded>
+        </item>
+        
+        <item>
+            <id>https://dzone.com/articles/3557265</id>
+            <title>Vibe Coding With GitHub Copilot: Optimizing API Performance in Fintech Microservices</title>
+            <link>https://feeds.dzone.com/link/18931/17031544/vibe-coding-github-copilot-fintech-apis</link>
+            <guid isPermaLink="false">https://dzone.com/articles/3557265</guid>
+            <pubDate></pubDate>
+            <updated>Thu, 15 May 2025 15:00:00 GMT</updated>
+                
+            <media:thumbnail url="https://dz2cdn1.dzone.com/thumbnail?fid=18402427&amp;w=600"/>
+                
+                
+            <content:encoded>
+                <![CDATA[
+                    
+                    <p style="text-align: left;">In fintech, APIs power everything. Starting from payments to trading to real-time customer experiences, the API takes care of everything. Performance isn't optional, but it's critical for user trust and business success.&nbsp;</p>
+<p style="text-align: left;">As a fintech API and cloud optimization expert, I constantly face the challenge of balancing quick development with high performance. When Microsoft announced GitHub Copilot for free, I asked myself a real-world question:<em>&nbsp;Can GitHub Copilot go beyond writing boilerplate code and help optimize fintech Microservice APIs?</em></p><img height="1" src="https://feeds.dzone.com/link/18931/17031544.gif" width="1" />
+                ]]>
+            </content:encoded>
+        </item>
+        
+        <item>
+            <id>https://dzone.com/articles/3564758</id>
+            <title>Unlocking AI Coding Assistants: Generate Unit Tests</title>
+            <link>https://feeds.dzone.com/link/18931/17030849/ai-coding-assistants-generate-unit-tests</link>
+            <guid isPermaLink="false">https://dzone.com/articles/3564758</guid>
+            <pubDate></pubDate>
+            <updated>Wed, 14 May 2025 17:00:00 GMT</updated>
+                
+            <media:thumbnail url="https://dz2cdn1.dzone.com/thumbnail?fid=18400696&amp;w=600"/>
+                
+                
+            <content:encoded>
+                <![CDATA[
+                    
+                    <div>
+ <p>In this part of this series, you will try to create unit tests for a Spring Boot application using an AI coding assistant. The goal is not merely to create working unit tests, but to create qualitative unit tests. Enjoy!</p>
+ <h2>Introduction</h2>
+ <p>You will try to generate unit tests for a basic Spring Boot application with the help of an AI coding assistant. The responses are evaluated, and different techniques are applied, which can be used to improve the responses when necessary. This blog is part of a series; the previous parts can be read here:</p><img height="1" src="https://feeds.dzone.com/link/18931/17030849.gif" width="1" />
+                ]]>
+            </content:encoded>
+        </item>
+        
+        <item>
+            <id>https://dzone.com/articles/3550489</id>
+            <title>How AI Agents Are Transforming Enterprise Automation Architecture</title>
+            <link>https://feeds.dzone.com/link/18931/17030096/how-ai-agents-transform-automation-architecture</link>
+            <guid isPermaLink="false">https://dzone.com/articles/3550489</guid>
+            <pubDate></pubDate>
+            <updated>Tue, 13 May 2025 17:00:00 GMT</updated>
+                
+            <media:thumbnail url="https://dz2cdn1.dzone.com/thumbnail?fid=18398871&amp;w=600"/>
+                
+                
+            <content:encoded>
+                <![CDATA[
+                    
+                    <p dir="ltr">Imagine someone in the early 20s predicting that, in the future, intelligent autonomous systems would be capable of executing tasks and solving problems independently. Fast forward to today, and with the rise of machine learning and natural language processing, humans can now build intelligent agents that seamlessly blend both machine and human capabilities.</p>
+<p dir="ltr">&nbsp;With this exclusive guide, we will examine the nature of AI agents, how these AI Agents for enterprise automation function, and their revolutionary effects across various sectors.&nbsp;</p><img height="1" src="https://feeds.dzone.com/link/18931/17030096.gif" width="1" />
+                ]]>
+            </content:encoded>
+        </item>
+        
+        <item>
+            <id>https://dzone.com/articles/3555190</id>
+            <title>DGS GraphQL and Spring Boot</title>
+            <link>https://feeds.dzone.com/link/18931/17029941/dgs-graphql-and-spring-boot</link>
+            <guid isPermaLink="false">https://dzone.com/articles/3555190</guid>
+            <pubDate></pubDate>
+            <updated>Tue, 13 May 2025 12:00:01 GMT</updated>
+                
+            <media:thumbnail url="https://dz2cdn1.dzone.com/thumbnail?fid=18393435&amp;w=600"/>
+                
+                
+            <content:encoded>
+                <![CDATA[
+                    
+                    <h2>Why GraphQL?</h2>
+<p>GraphQL provides a powerful layer to unify data from various backend sources, including databases, REST APIs, and microservices, into a single, consistent API. It enables the creation of flexible APIs that can evolve with changing client applications.</p>
+<h2>Introduction</h2>
+<p>This article will show you how to create an effective application that implements GraphQL using the Netflix DGS framework in the Spring Boot application.</p><img height="1" src="https://feeds.dzone.com/link/18931/17029941.gif" width="1" />
+                ]]>
+            </content:encoded>
+        </item>
+        
+        <item>
+            <id>https://dzone.com/articles/3545412</id>
+            <title>Immutable Secrets Management: A Zero-Trust Approach to Sensitive Data in Containers</title>
+            <link>https://feeds.dzone.com/link/18931/17026919/immutable-secrets-management-zero-trust-approach</link>
+            <guid isPermaLink="false">https://dzone.com/articles/3545412</guid>
+            <pubDate></pubDate>
+            <updated>Fri, 09 May 2025 15:00:00 GMT</updated>
+                
+            <media:thumbnail url="https://dz2cdn1.dzone.com/thumbnail?fid=18385792&amp;w=600"/>
+                
+                
+            <content:encoded>
+                <![CDATA[
+                    
+                    <h2><strong>Abstract</strong></h2>
+<p>This paper presents a comprehensive approach to securing sensitive data in containerized environments using the principle of immutable secrets management, grounded in a Zero-Trust security model. We detail the inherent risks of traditional secrets management, demonstrate how immutability and Zero-Trust principles mitigate these risks, and provide a practical, step-by-step guide to implementation. A real-world case study using AWS services and common DevOps tools illustrates the tangible benefits of this approach, aligning with the criteria for the Global Tech Awards in the DevOps Technology category. The focus is on achieving continuous delivery, security, and resilience through a novel concept we term "ChaosSecOps."</p>
+<h2><strong>Executive Summary</strong></h2>
+<p>This paper details a robust, innovative approach to securing sensitive data within containerized environments: Immutable Secrets Management with a Zero-Trust approach. We address the critical vulnerabilities inherent in traditional secrets management practices, which often rely on mutable secrets and implicit trust. Our solution, grounded in the principles of Zero-Trust security, immutability, and DevSecOps, ensures that secrets are inextricably linked to container images, minimizing the risk of exposure and unauthorized access.</p><img height="1" src="https://feeds.dzone.com/link/18931/17026919.gif" width="1" />
+                ]]>
+            </content:encoded>
+        </item>
+        
+        <item>
+            <id>https://dzone.com/articles/3541901</id>
+            <title>Mastering Advanced Traffic Management in Multi-Cloud Kubernetes: Scaling With Multiple Istio Ingress Gateways</title>
+            <link>https://feeds.dzone.com/link/18931/17026496/scaling-multiple-istio-ingress-gateways</link>
+            <guid isPermaLink="false">https://dzone.com/articles/3541901</guid>
+            <pubDate></pubDate>
+            <updated>Thu, 08 May 2025 21:00:00 GMT</updated>
+                
+            <media:thumbnail url="https://dz2cdn1.dzone.com/thumbnail?fid=18392758&amp;w=600"/>
+                
+                
+            <content:encoded>
+                <![CDATA[
+                    
+                    <p>In my experience managing large-scale Kubernetes deployments across multi-cloud platforms, traffic control often becomes a critical bottleneck, especially when dealing with mixed workloads like APIs, UIs, and transactional systems. While Istio’s default ingress gateway does a decent job, I found that relying on a single gateway can introduce scaling and isolation challenges.</p>
+<p>That’s where configuring multiple Istio Ingress Gateways can make a real difference. In this article, I’ll walk you through how I approached this setup, what benefits it unlocked for our team, and the hands-on steps we used, along with best practices and YAML configurations that you can adapt in your own clusters.</p><img height="1" src="https://feeds.dzone.com/link/18931/17026496.gif" width="1" />
+                ]]>
+            </content:encoded>
+        </item>
+        
+        <item>
+            <id>https://dzone.com/articles/3539626</id>
+            <title>Event-Driven Architectures: Designing Scalable and Resilient Cloud Solutions</title>
+            <link>https://feeds.dzone.com/link/18931/17025566/event-driven-architectures-cloud-solutions</link>
+            <guid isPermaLink="false">https://dzone.com/articles/3539626</guid>
+            <pubDate></pubDate>
+            <updated>Wed, 07 May 2025 20:00:00 GMT</updated>
+                
+            <media:thumbnail url="https://dz2cdn1.dzone.com/thumbnail?fid=18384007&amp;w=600"/>
+                
+                
+            <content:encoded>
+                <![CDATA[
+                    
+                    <p>Event-driven architectures (EDA) have been a cornerstone in designing cloud systems that are future-proofed, scalable, resilient, and sustainable in nature. EDA is interested in generation, capture, and response to events and nothing more, not even in traditional systems of request-response. The paradigm is most suitable to systems that require high decoupling, elasticity, and fault tolerance.&nbsp;</p>
+<p>In this article, I'll be discussing the technical details of event-driven architectures, along with snippets of code, patterns, and practical strategies of implementation. Let's get started!</p><img height="1" src="https://feeds.dzone.com/link/18931/17025566.gif" width="1" />
+                ]]>
+            </content:encoded>
+        </item>
+        
+        <item>
+            <id>https://dzone.com/articles/3536393</id>
+            <title>Medallion Architecture: Why You Need It and How To Implement It With ClickHouse</title>
+            <link>https://feeds.dzone.com/link/18931/17023826/why-you-need-medallion-architecture-clickhouse</link>
+            <guid isPermaLink="false">https://dzone.com/articles/3536393</guid>
+            <pubDate></pubDate>
+            <updated>Wed, 07 May 2025 13:00:00 GMT</updated>
+                
+            <media:thumbnail url="https://dz2cdn1.dzone.com/thumbnail?fid=18382294&amp;w=600"/>
+                
+                
+            <content:encoded>
+                <![CDATA[
+                    
+                    <p dir="ltr">In today’s fast-paced, data-driven world, businesses aren’t struggling with a lack of data—they’re drowning in it. The challenge lies in managing, processing, and extracting value from this massive influx of information. Without a clear structure, data pipelines become tangled, unreliable, and hard to scale.</p>
+<p dir="ltr">This is where <a href="https://dzone.com/articles/medallion-architecture-efficient-batch-and-stream">medallion architecture</a> steps in.</p><img height="1" src="https://feeds.dzone.com/link/18931/17023826.gif" width="1" />
+                ]]>
+            </content:encoded>
+        </item>
+        
+        <item>
+            <id>https://dzone.com/articles/3556334</id>
+            <title>It’s Not About Control — It’s About Collaboration Between Architecture and Security</title>
+            <link>https://feeds.dzone.com/link/18931/17023368/collaboration-between-architecture-and-security</link>
+            <guid isPermaLink="false">https://dzone.com/articles/3556334</guid>
+            <pubDate></pubDate>
+            <updated>Tue, 06 May 2025 21:00:00 GMT</updated>
+                
+            <media:thumbnail url="https://dz2cdn1.dzone.com/thumbnail?fid=18383504&amp;w=600"/>
+                
+                
+            <content:encoded>
+                <![CDATA[
+                    
+                    <p style="text-align: left;">In the day-to-day operations of companies, solution architecture and information security are two areas that inevitably intersect. Both play a key role in building robust, scalable, and reliable technology environments. However, one question lingers — though rarely openly discussed: what should the relationship between these two areas look like? Should architecture report to security? Or the other way around? Or should each follow its own path independently?</p>
+<p style="text-align: left;">This reflection is not just theoretical. It directly impacts decision-making, the success of strategic projects, and even the digital maturity of organizations.&nbsp;</p><img height="1" src="https://feeds.dzone.com/link/18931/17023368.gif" width="1" />
+                ]]>
+            </content:encoded>
+        </item>
+        
+        <item>
+            <id>https://dzone.com/articles/3529997</id>
+            <title>Beyond Linguistics: Real-Time Domain Event Mapping with WebSocket and Spring Boot</title>
+            <link>https://feeds.dzone.com/link/18931/17023000/domain-event-mapping-bridge-websocket-spring-boot</link>
+            <guid isPermaLink="false">https://dzone.com/articles/3529997</guid>
+            <pubDate></pubDate>
+            <updated>Tue, 06 May 2025 13:00:00 GMT</updated>
+                
+            <media:thumbnail url="https://dz2cdn1.dzone.com/thumbnail?fid=18381130&amp;w=600"/>
+                
+                
+            <content:encoded>
+                <![CDATA[
+                    
+                    <p>By <a href="http://a%20markup%20language%20is%20a%20system%20used%20for%20annotating%20a%20document%20in%20a%20way%20that%20is%20syntactically%20distinguishable%20from%20the%20text" rel="noopener noreferrer" target="_blank">definition</a>, <em>a&nbsp;</em><a href="https://dzone.com/articles/programming-languages-1"><em>markup language</em></a><em>&nbsp;is a system used for annotating a document in a way that is syntactically distinguishable from the text. Essentially, it provides a way to structure and format text using tags or symbols that are embedded within the content. Markup languages are used to define elements within a document, such as headings, paragraphs, lists, links, and images</em>. <strong>H</strong>ype <strong>T</strong>ext <strong>M</strong>arkup <strong>L</strong>anguage (HTML) is the most common of them. There are many other such as XML, SGML, Markdown, MathML, BBCode, to name a few.</p>
+<p>This article articulates the need of and presents a minimally working version to what the term “domain markup event mapping” is conferred. Lest an unfamiliar terminology introduced abruptly make the audience assume otherwise, let us illustrate the experience as a real-time commentary of an event, say a cricket match on popular online news media. ESPN, Yahoo cricket, Cricbuzz.com, Star Sports, and BBC are among the top players in this area. I remember how they used to be 15 years ago and and now, they've evolved to cater real-time updates. With advanced backend systems, communication protocols, better design approach and of course, modern browser technologies, they have always been on the top to provide their users the best intuitive updates compensating the absence of audio and video. &nbsp;</p><img height="1" src="https://feeds.dzone.com/link/18931/17023000.gif" width="1" />
+                ]]>
+            </content:encoded>
+        </item>
+        
+        <item>
+            <id>https://dzone.com/articles/3562303</id>
+            <title>Issue and Present Verifiable Credentials With Spring Boot and Android</title>
+            <link>https://feeds.dzone.com/link/18931/17022529/verifiable-credentials-spring-boot-android</link>
+            <guid isPermaLink="false">https://dzone.com/articles/3562303</guid>
+            <pubDate></pubDate>
+            <updated>Mon, 05 May 2025 20:00:00 GMT</updated>
+                
+            <media:thumbnail url="https://dz2cdn1.dzone.com/thumbnail?fid=18382207&amp;w=600"/>
+                
+                
+            <content:encoded>
+                <![CDATA[
+                    
+                    <p>As digital identity ecosystems evolve, the ability to issue and verify digital credentials in a secure, privacy-preserving, and interoperable manner has become increasingly important. Verifiable Credentials (VCs) offer a W3C-standardized way to present claims about a subject, such as identity attributes or qualifications, in a tamper-evident and cryptographically verifiable format. Among the emerging formats, <strong>Selective Disclosure JSON Web Tokens (SD-JWTs)</strong> stand out for enabling holders to share only selected parts of a credential, while ensuring its authenticity can still be verified.</p>
+<p>In this article, we demonstrate the issuance and presentation of Verifiable Credentials using the <strong>SD-JWT format</strong>, leveraging <a href="https://dzone.com/articles/spring-boot-best-practices-for-microservices">Spring Boot microservices</a> on the backend and a <strong>Kotlin-based Android application</strong> acting as the wallet on the client side.</p><img height="1" src="https://feeds.dzone.com/link/18931/17022529.gif" width="1" />
+                ]]>
+            </content:encoded>
+        </item>
+        
+        <item>
+            <id>https://dzone.com/articles/3562311</id>
+            <title>Mastering Fluent Bit: Installing and Configuring Fluent Bit on Kubernetes (Part 3)</title>
+            <link>https://feeds.dzone.com/link/18931/17022211/installing-configuring-fluent-bit-kubernetes</link>
+            <guid isPermaLink="false">https://dzone.com/articles/3562311</guid>
+            <pubDate></pubDate>
+            <updated>Mon, 05 May 2025 13:00:00 GMT</updated>
+                
+            <media:thumbnail url="https://dz2cdn1.dzone.com/thumbnail?fid=18377778&amp;w=600"/>
+                
+                
+            <content:encoded>
+                <![CDATA[
+                    
+                    <p>This series is a general-purpose getting-started guide for those of us who want to learn about the Cloud Native Computing Foundation (CNCF) project Fluent Bit.&nbsp;</p>
+<p>Each article in this series addresses a single topic by providing insights into <em>what</em> the topic is, <em>why</em> we are interested in exploring that topic, <em>where</em> to get started with the topic, and <em>how&nbsp;</em>to get hands-on with learning about the topic as it relates to the Fluent Bit project.</p><img height="1" src="https://feeds.dzone.com/link/18931/17022211.gif" width="1" />
+                ]]>
+            </content:encoded>
+        </item>
+        
+        <item>
+            <id>https://dzone.com/articles/3555509</id>
+            <title>Docker Base Images Demystified: A Practical Guide</title>
+            <link>https://feeds.dzone.com/link/18931/17020846/docker-base-images-demystified</link>
+            <guid isPermaLink="false">https://dzone.com/articles/3555509</guid>
+            <pubDate></pubDate>
+            <updated>Fri, 02 May 2025 16:00:07 GMT</updated>
+                
+            <media:thumbnail url="https://dz2cdn1.dzone.com/thumbnail?fid=18377693&amp;w=600"/>
+                
+                
+            <content:encoded>
+                <![CDATA[
+                    
+                    <h2>What Is a Docker Base Image?</h2>
+<p>A Docker base image is the foundational layer from which containers are built. Think of it as the “starting point” for your application’s environment. It’s a minimal, preconfigured template containing an operating system, runtime tools, libraries, and dependencies. When you write a Dockerfile, the <code>FROM</code> command defines this base image, setting the stage for all subsequent layers.&nbsp;</p>
+<p>For example, you might start with a lightweight Linux distribution like Alpine, a language-specific image like <a href="https://dzone.com/articles/python-tutorial-for-beginners-a-comprehensive-guid">Python</a> or <a href="https://dzone.com/articles/watch-a-writer-learn-nodejs-part-1">Node.js</a>, or even an empty "scratch" image for ultimate customization. These base images abstract away the underlying infrastructure, ensuring consistency across development, testing, and production environments. Choosing the right base image is critical, as it directly impacts your container’s security, size, performance, and maintainability. Whether optimizing for speed or ensuring compatibility, your base image shapes everything that follows.</p><img height="1" src="https://feeds.dzone.com/link/18931/17020846.gif" width="1" />
+                ]]>
+            </content:encoded>
+        </item>
+        
+        <item>
+            <id>https://dzone.com/articles/3554502</id>
+            <title>Unlocking AI Coding Assistants Part 4: Generate Spring Boot Application</title>
+            <link>https://feeds.dzone.com/link/18931/17020725/ai-coding-assistants-generate-spring-boot-application</link>
+            <guid isPermaLink="false">https://dzone.com/articles/3554502</guid>
+            <pubDate></pubDate>
+            <updated>Fri, 02 May 2025 13:00:00 GMT</updated>
+                
+            <media:thumbnail url="https://dz2cdn1.dzone.com/thumbnail?fid=18381158&amp;w=600"/>
+                
+                
+            <content:encoded>
+                <![CDATA[
+                    
+                    <p>In this final installment of our <em>Unlocking AI Assistants</em> series, we will create a Spring Boot application from scratch using an AI coding assistant. The goal is not to just merely create a working application, but to create production-grade code. Enjoy!</p>
+<h2>Introduction</h2>
+<p>Some tasks are executed with the help of an AI coding assistant. The responses are evaluated and different techniques are applied, which can be used to improve the responses when necessary.&nbsp;</p><img height="1" src="https://feeds.dzone.com/link/18931/17020725.gif" width="1" />
+                ]]>
+            </content:encoded>
+        </item>
+        
+        <item>
+            <id>https://dzone.com/articles/3556922</id>
+            <title>Docker Model Runner: Streamlining AI Deployment for Developers</title>
+            <link>https://feeds.dzone.com/link/18931/17019459/docker-model-runner-ai-deployment</link>
+            <guid isPermaLink="false">https://dzone.com/articles/3556922</guid>
+            <pubDate></pubDate>
+            <updated>Wed, 30 Apr 2025 19:00:00 GMT</updated>
+                
+            <media:thumbnail url="https://dz2cdn1.dzone.com/thumbnail?fid=18371704&amp;w=600"/>
+                
+                
+            <content:encoded>
+                <![CDATA[
+                    
+                    <p>Development teams working in the fast-evolving AI development environment must tackle efficient model deployment as their primary operational challenge. Docker Model Runner represents a transformative containerization solution that drives changes in how developers create, deploy, and expand their applications that use AI technology.&nbsp;</p>
+<p>This article will cover how this technology bridges the gap between data science testing phases and the deployment of ready-to-use AI systems.</p><img height="1" src="https://feeds.dzone.com/link/18931/17019459.gif" width="1" />
+                ]]>
+            </content:encoded>
+        </item>
+        
+        <item>
+            <id>https://dzone.com/articles/3559119</id>
+            <title>A Guide to Container Runtimes</title>
+            <link>https://feeds.dzone.com/link/18931/17019394/a-guide-to-container-runtimes</link>
+            <guid isPermaLink="false">https://dzone.com/articles/3559119</guid>
+            <pubDate></pubDate>
+            <updated>Wed, 30 Apr 2025 18:00:00 GMT</updated>
+                
+            <media:thumbnail url="https://dz2cdn1.dzone.com/thumbnail?fid=18370530&amp;w=600"/>
+                
+                
+            <content:encoded>
+                <![CDATA[
+                    
+                    <p>Kubernetes, also known as K8S, is an open-source container orchestration system that is used for automating the deployment, scaling, and management of containerized workloads.&nbsp;</p>
+<p>Containers are at the heart of the <a href="https://github.com/kubernetes/kubernetes" rel="noopener noreferrer" target="_blank">Kubernetes ecosystem</a> and are the building blocks of the services built and managed by K8S. Understanding how containers are run is key to optimizing your Kubernetes environment.</p><img height="1" src="https://feeds.dzone.com/link/18931/17019394.gif" width="1" />
+                ]]>
+            </content:encoded>
+        </item>
+        
+        <item>
+            <id>https://dzone.com/articles/3555545</id>
+            <title>Filtering Messages With Azure Content Safety and Spring AI</title>
+            <link>https://feeds.dzone.com/link/18931/17017979/filtering-messages-azure-content-safety-spring-ai</link>
+            <guid isPermaLink="false">https://dzone.com/articles/3555545</guid>
+            <pubDate></pubDate>
+            <updated>Mon, 28 Apr 2025 21:00:00 GMT</updated>
+                
+            <media:thumbnail url="https://dz2cdn1.dzone.com/thumbnail?fid=18365994&amp;w=600"/>
+                
+                
+            <content:encoded>
+                <![CDATA[
+                    
+                    <p>As AI-powered applications like chatbots and virtual assistants become increasingly integrated into our daily lives, ensuring that they interact with users in a safe, respectful, and responsible manner is more important than ever.</p>
+<p>Unchecked user input or AI-generated content can lead to the spread of harmful language, including hate speech, sexually explicit content, or content promoting violence or self-harm. This can negatively affect the user experience and may also lead to legal or ethical problems.<br /><img alt="AI-generated content can lead to the spread of harmful language" class="fr-fic fr-dib lazyload" style="width: 384px;" /></p><img height="1" src="https://feeds.dzone.com/link/18931/17017979.gif" width="1" />
+                ]]>
+            </content:encoded>
+        </item>
+        
+        <item>
+            <id>https://dzone.com/articles/3556018</id>
+            <title>Java's Quiet Revolution: Thriving in the Serverless Kubernetes Era</title>
+            <link>https://feeds.dzone.com/link/18931/17014807/javas-quiet-revolution-thriving-in-the-serverless</link>
+            <guid isPermaLink="false">https://dzone.com/articles/3556018</guid>
+            <pubDate></pubDate>
+            <updated>Fri, 25 Apr 2025 13:00:16 GMT</updated>
+                
+            <media:thumbnail url="https://dz2cdn1.dzone.com/thumbnail?fid=18359913&amp;w=600"/>
+                
+                
+            <content:encoded>
+                <![CDATA[
+                    
+                    <p>Along with the rise of Kubernetes, there is another shift that is happening under the hood - the rise of serverless architecture, which is quietly rewriting the way we deploy and scale applications, with Java taking a lead. Java, which is usually associated with legacy code and monolithic enterprise applications, has been slowly but steadily evolving into a microservices architecture and is now evolving into a leaner, serverless-ready world.&nbsp;</p>
+<p>With the availability of tools like Knative and frameworks like Quarkus, Java has been transforming from a heavyweight language into a zero-management, Kubernetes-ready ready. In this article, we will reflect on this promising transformation in Java and where it can take us in 2025 and beyond.</p><img height="1" src="https://feeds.dzone.com/link/18931/17014807.gif" width="1" />
+                ]]>
+            </content:encoded>
+        </item>
+        
+    </channel>
+</rss>

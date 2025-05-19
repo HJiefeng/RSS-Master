@@ -1,0 +1,348 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
+    <channel>
+        <title>AWS Database Blog</title>
+        <link>https://aws.amazon.com/blogs/database/</link>
+        
+        <item>
+            <id>f23772f6db6fd9eb226d3c3943ac9884bbef6eb8</id>
+            <title>Amazon DynamoDB data modeling for Multi-tenancy – Part 3</title>
+            <link>https://aws.amazon.com/blogs/database/amazon-dynamodb-data-modeling-for-multi-tenancy-part-3/</link>
+            <guid isPermaLink="false">f23772f6db6fd9eb226d3c3943ac9884bbef6eb8</guid>
+            <pubDate></pubDate>
+            <updated>Fri, 16 May 2025 18:23:14 +0000</updated>
+                
+                
+            <content:encoded>
+                <![CDATA[
+                    
+                    In this series of posts, we walk through the process of creating a DynamoDB data model using an example multi-tenant application, a customer issue tracking service. The goal of this series is to explore areas that are important for decision-making and provide insights into the influences to help you plan your data model for a multi-tenant application. In this last part of the series, we explore how to validate the chosen data model from both a performance and a security perspective. Additionally, we cover how to extend the data model as new access patterns and requirements arise.
+                ]]>
+            </content:encoded>
+        </item>
+        
+        <item>
+            <id>c9965fc8c6abc46bd2ca354f27d5b9ef63e0819e</id>
+            <title>Amazon DynamoDB data modeling for Multi-Tenancy – Part 2</title>
+            <link>https://aws.amazon.com/blogs/database/amazon-dynamodb-data-modeling-for-multi-tenancy-part-2/</link>
+            <guid isPermaLink="false">c9965fc8c6abc46bd2ca354f27d5b9ef63e0819e</guid>
+            <pubDate></pubDate>
+            <updated>Fri, 16 May 2025 18:22:50 +0000</updated>
+                
+                
+            <content:encoded>
+                <![CDATA[
+                    
+                    In this series of posts, we walk through the process of creating a DynamoDB data model using an example multi-tenant application, a customer issue tracking service. The goal of this series is to explore areas that are important for decision-making and provide insights into the influences to help you plan your data model for a multi-tenant application. In this post, we continue the design process, selecting a partition key design and creating our data schema. We also show how to implement the access patterns using the AWS Command Line Interface (AWS CLI).
+                ]]>
+            </content:encoded>
+        </item>
+        
+        <item>
+            <id>ce980f71ccdc77f697545234d5d25b839137e606</id>
+            <title>Amazon DynamoDB data modeling for Multi-Tenancy – Part 1</title>
+            <link>https://aws.amazon.com/blogs/database/amazon-dynamodb-data-modeling-for-multi-tenancy-part-1/</link>
+            <guid isPermaLink="false">ce980f71ccdc77f697545234d5d25b839137e606</guid>
+            <pubDate></pubDate>
+            <updated>Fri, 16 May 2025 18:22:16 +0000</updated>
+                
+                
+            <content:encoded>
+                <![CDATA[
+                    
+                    In this series of posts, we walk through the process of creating a DynamoDB data model using an example multi-tenant application, a customer issue tracking service. The goal of this series is to explore areas that are important for decision-making and provide insights into the influences to help you plan your data model for a multi-tenant application. In this post, we define the access patterns and decide on the table design.
+                ]]>
+            </content:encoded>
+        </item>
+        
+        <item>
+            <id>9652c66ef156ee7fb4c64c1b32d5b52f73b2622f</id>
+            <title>Create a unit testing framework for PostgreSQL using the pgTAP extension</title>
+            <link>https://aws.amazon.com/blogs/database/create-a-unit-testing-framework-for-postgresql-using-the-pgtap-extension/</link>
+            <guid isPermaLink="false">9652c66ef156ee7fb4c64c1b32d5b52f73b2622f</guid>
+            <pubDate></pubDate>
+            <updated>Wed, 14 May 2025 19:42:26 +0000</updated>
+                
+                
+            <content:encoded>
+                <![CDATA[
+                    
+                    pgTAP (PostgreSQL Test Anything Protocol) is a unit testing framework that empowers developers to write and run tests directly within the database. In this post, we explore how to leverage the pgTAP extension for unit testing on Amazon RDS for PostgreSQL and Amazon Aurora PostgreSQL-Compatible Edition database, helping you build robust and reliable database applications.
+                ]]>
+            </content:encoded>
+        </item>
+        
+        <item>
+            <id>717e59cdc4dbf4cf88dfdcad5e15ca650a3bb13f</id>
+            <title>Scaling Amazon RDS for MySQL performance for Careem’s digital platform on AWS</title>
+            <link>https://aws.amazon.com/blogs/database/scaling-amazon-rds-for-mysql-performance-for-careems-digital-platform-on-aws/</link>
+            <guid isPermaLink="false">717e59cdc4dbf4cf88dfdcad5e15ca650a3bb13f</guid>
+            <pubDate></pubDate>
+            <updated>Tue, 13 May 2025 23:14:56 +0000</updated>
+                
+                
+            <content:encoded>
+                <![CDATA[
+                    
+                    Careem powers rides, deliveries, and payments across the Middle East, North Africa and South Asia. As Careem grew, so did its data infrastructure challenges. Their monolithic 270 TB Amazon RDS for MySQL database consisting of one writer and five read replicas— experienced performance issues due to increased storage utilization, slow queries, high replica lag, and increased Amazon RDS cost. In this post, we provide a step-by-step breakdown of how Careem successfully implemented a phased data purging strategy, improving DB performance while addressing key technical challenges.
+                ]]>
+            </content:encoded>
+        </item>
+        
+        <item>
+            <id>2f2ac5415454f4674e1ffb8ba254dbb58486ab18</id>
+            <title>Amazon CloudWatch Database Insights applied in real scenarios</title>
+            <link>https://aws.amazon.com/blogs/database/amazon-cloudwatch-database-insights-applied-in-real-scenarios/</link>
+            <guid isPermaLink="false">2f2ac5415454f4674e1ffb8ba254dbb58486ab18</guid>
+            <pubDate></pubDate>
+            <updated>Tue, 13 May 2025 17:26:43 +0000</updated>
+                
+                
+            <content:encoded>
+                <![CDATA[
+                    
+                    In this post, we show how you can use Amazon CloudWatch Database Insights for troubleshooting your Amazon RDS and Amazon Aurora resources. CloudWatch Database Insights serves as a database observability solution offering a tailored experience for DevOps engineers, application developers, and database administrators. This tool is designed to accelerate database troubleshooting processes and address issues across entire database fleets, enhancing overall operational efficiency.
+                ]]>
+            </content:encoded>
+        </item>
+        
+        <item>
+            <id>ce2436d050146f713aea9007d808f195b484143b</id>
+            <title>Ingest CSV data to Amazon DynamoDB using AWS Lambda</title>
+            <link>https://aws.amazon.com/blogs/database/ingest-csv-data-to-amazon-dynamodb-using-aws-lambda/</link>
+            <guid isPermaLink="false">ce2436d050146f713aea9007d808f195b484143b</guid>
+            <pubDate></pubDate>
+            <updated>Mon, 12 May 2025 17:05:37 +0000</updated>
+                
+                
+            <content:encoded>
+                <![CDATA[
+                    
+                    In this post, we explore a streamlined solution that uses AWS Lambda and Python to read and ingest CSV data into an existing Amazon DynamoDB table. This approach adheres to organizational security restrictions, supports infrastructure as code (IaC) for table management, and provides an event-driven process for ingesting CSV datasets into DynamoDB.
+                ]]>
+            </content:encoded>
+        </item>
+        
+        <item>
+            <id>51e482cdc8f33e84585602b04973bd2af503c853</id>
+            <title>Perform OS upgrades for Amazon RDS Custom for SQL Server CEV with Multi-AZ</title>
+            <link>https://aws.amazon.com/blogs/database/perform-os-upgrades-for-amazon-rds-custom-for-sql-server-cev-with-multi-az/</link>
+            <guid isPermaLink="false">51e482cdc8f33e84585602b04973bd2af503c853</guid>
+            <pubDate></pubDate>
+            <updated>Fri, 09 May 2025 16:49:03 +0000</updated>
+                
+                
+            <content:encoded>
+                <![CDATA[
+                    
+                    Amazon Relational Database Service (Amazon RDS) Custom for SQL Server gives you enhanced control through OS shell-level access and database administrator privileges. With this control comes the shared responsibility model, which requires you to manage your own OS and database patching. Operating system (OS) changes made after instance creation aren’t persistent. To maintain OS-level customizations, […]
+                ]]>
+            </content:encoded>
+        </item>
+        
+        <item>
+            <id>b2084883c385e925560b9ace46da9870044c1841</id>
+            <title>Extract and migrate data from nested tables with user-defined nested types from Oracle to PostgreSQL</title>
+            <link>https://aws.amazon.com/blogs/database/extract-and-migrate-data-from-nested-tables-with-user-defined-nested-types-from-oracle-to-postgresql/</link>
+            <guid isPermaLink="false">b2084883c385e925560b9ace46da9870044c1841</guid>
+            <pubDate></pubDate>
+            <updated>Fri, 09 May 2025 16:31:42 +0000</updated>
+                
+                
+            <content:encoded>
+                <![CDATA[
+                    
+                    In Oracle, UDTs can have member functions written in PL/SQL that are integrated directly into the UDT. In contrast, PostgreSQL currently doesn’t allow member functions within UDTs. In this post, we dive deep into these differences and provide guidance for a smooth migration, helping ensure that the integrity of your data models is maintained throughout the process. We will also walk you through the details of converting complex member type functions in the multi-nested UDT from Oracle to PostgreSQL.
+                ]]>
+            </content:encoded>
+        </item>
+        
+        <item>
+            <id>5f7be82c140dc55bc7bb0e82da99f851e52298f5</id>
+            <title>AWS DMS implementation guide: Building resilient database migrations through testing, monitoring, and SOPs</title>
+            <link>https://aws.amazon.com/blogs/database/aws-dms-implementation-guide-building-resilient-database-migrations-through-testing-monitoring-and-sops/</link>
+            <guid isPermaLink="false">5f7be82c140dc55bc7bb0e82da99f851e52298f5</guid>
+            <pubDate></pubDate>
+            <updated>Mon, 05 May 2025 16:12:41 +0000</updated>
+                
+                
+            <content:encoded>
+                <![CDATA[
+                    
+                    In this post, we present proactive measures for optimizing AWS DMS implementations from the initial setup phase. By using strategic planning and architectural foresight, organizations can enhance their replication system’s reliability, improve performance, and avoid common pitfalls.
+                ]]>
+            </content:encoded>
+        </item>
+        
+        <item>
+            <id>60b4defaf4437cb5a74255a81159414a69b2cfbe</id>
+            <title>Understanding transaction visibility in PostgreSQL clusters with read replicas</title>
+            <link>https://aws.amazon.com/blogs/database/understanding-transaction-visibility-in-postgresql-clusters-with-read-replicas/</link>
+            <guid isPermaLink="false">60b4defaf4437cb5a74255a81159414a69b2cfbe</guid>
+            <pubDate></pubDate>
+            <updated>Sat, 03 May 2025 02:50:28 +0000</updated>
+                
+                
+            <content:encoded>
+                <![CDATA[
+                    
+                    On April 29, 2025, Jepsen published a report about transaction visibility behavior in Amazon RDS for PostgreSQL Multi-AZ clusters. We appreciate Jepsen’s thorough analysis and would like to provide additional context about this behavior, which exists both in Amazon RDS and community PostgreSQL. In this post, we dive into the specifics of the issue to provide further clarity, discuss what classes of architectures it might affect, share workarounds, and highlight our ongoing commitment to improving community PostgreSQL in all areas, including correctness.
+                ]]>
+            </content:encoded>
+        </item>
+        
+        <item>
+            <id>6808f044639662b9e4be581ed7b7607e472a70c8</id>
+            <title>Graph-powered authorization: Relationship based access control for access management</title>
+            <link>https://aws.amazon.com/blogs/database/graph-powered-authorization-relationship-based-access-control-for-access-management/</link>
+            <guid isPermaLink="false">6808f044639662b9e4be581ed7b7607e472a70c8</guid>
+            <pubDate></pubDate>
+            <updated>Fri, 02 May 2025 16:12:54 +0000</updated>
+                
+                
+            <content:encoded>
+                <![CDATA[
+                    
+                    Authorization systems are a critical component of modern applications, yet traditional approaches like role-based access control (RBAC) and attribute-based access control (ABAC) struggle to meet the complex access control requirements of today’s enterprises. In this post, we introduce a relationship-based access control (ReBAC) as an alternative for enterprise scale authorization. We explore how the proposed […]
+                ]]>
+            </content:encoded>
+        </item>
+        
+        <item>
+            <id>edd53f0ad2011ce0c275cdaa713e91bcfd68bd0d</id>
+            <title>Data masking and performance improvements in AWS DMS 3.5.4</title>
+            <link>https://aws.amazon.com/blogs/database/data-masking-and-performance-improvements-in-aws-dms-3-5-4/</link>
+            <guid isPermaLink="false">edd53f0ad2011ce0c275cdaa713e91bcfd68bd0d</guid>
+            <pubDate></pubDate>
+            <updated>Wed, 30 Apr 2025 18:57:05 +0000</updated>
+                
+                
+            <content:encoded>
+                <![CDATA[
+                    
+                    We are excited to announce the availability of new features in AWS Database Migration Service (AWS DMS) replication engine version 3.5.4. This release includes two major enhancements: data masking for enhanced security and improved data validation performance. In this post, we deep dive into these two features. Refer to the release notes to see a list of all the new features available in this version.
+                ]]>
+            </content:encoded>
+        </item>
+        
+        <item>
+            <id>b95235bbd738a24907bbe383fd5a4c132ebd68a0</id>
+            <title>Zupee implements Amazon Neptune to detect Wallet transaction anomalies in real time</title>
+            <link>https://aws.amazon.com/blogs/database/zupee-implements-amazon-neptune-to-detect-wallet-transaction-anomalies-in-real-time/</link>
+            <guid isPermaLink="false">b95235bbd738a24907bbe383fd5a4c132ebd68a0</guid>
+            <pubDate></pubDate>
+            <updated>Mon, 28 Apr 2025 16:01:23 +0000</updated>
+                
+                
+            <content:encoded>
+                <![CDATA[
+                    
+                    Zupee is a leading skill-based gaming platform offering casual and board games and is one of the fastest growing real money gaming platforms in India. Users can play multiple skill-based games online and win prizes. In this post, we show you how Zupee integrated Amazon Neptune Database to detect anomalies in real time for wallet transactions by creating a system for tracing the complex relationships between users, devices, and wallet transactions metadata.
+                ]]>
+            </content:encoded>
+        </item>
+        
+        <item>
+            <id>0dd8003688a25e0d6a093e50321118125ff75823</id>
+            <title>How Habby enhanced resiliency and system robustness using Valkey GLIDE and Amazon ElastiCache</title>
+            <link>https://aws.amazon.com/blogs/database/how-habby-enhanced-resiliency-and-system-robustness-using-valkey-glide-and-amazon-elasticache/</link>
+            <guid isPermaLink="false">0dd8003688a25e0d6a093e50321118125ff75823</guid>
+            <pubDate></pubDate>
+            <updated>Mon, 28 Apr 2025 15:50:57 +0000</updated>
+                
+                
+            <content:encoded>
+                <![CDATA[
+                    
+                    Habby is a game studio that creates interactive entertainment to connect players worldwide. We adopted Valkey GLIDE, a client library for Amazon ElastiCache for Valkey and Redis OSS, to address our system challenges. Our system uses the Amazon ElastiCache for Redis OSS publish/subscribe (Pub/Sub) functionality for the chat message sending. However, we faced challenges with connection stability during infrastructure changes, such as instance scaling, Redis OSS version upgrades, and hardware failures. This post describes our messaging system architecture and explains how we improved system reliability by using Valkey GLIDE as the client communicating with Amazon ElastiCache.
+                ]]>
+            </content:encoded>
+        </item>
+        
+        <item>
+            <id>55ba273eadf6bcfda3340815833ca16751bae80e</id>
+            <title>Migrate SQL Server user databases from Amazon EC2 to Amazon RDS Custom using Amazon EBS snapshots</title>
+            <link>https://aws.amazon.com/blogs/database/migrate-sql-server-user-databases-from-amazon-ec2-to-amazon-rds-custom-using-amazon-ebs-snapshots/</link>
+            <guid isPermaLink="false">55ba273eadf6bcfda3340815833ca16751bae80e</guid>
+            <pubDate></pubDate>
+            <updated>Mon, 21 Apr 2025 19:25:25 +0000</updated>
+                
+                
+            <content:encoded>
+                <![CDATA[
+                    
+                    In this post, we present a practical approach to one of the most significant challenges organizations face when adopting Amazon RDS Custom for SQL Server: migrating large datasets from SQL Server on Amazon EC2 to Amazon RDS Custom for SQL Server efficiently and cost-effectively. By using SQL Server’s native detach and attach method combined with EBS snapshots, you can migrate your databases without requiring Amazon S3 or AWS DMS.
+                ]]>
+            </content:encoded>
+        </item>
+        
+        <item>
+            <id>593120af06b446ea2f733973f7e8c6c3ac573f08</id>
+            <title>Choose the right throughput strategy for Amazon DynamoDB applications</title>
+            <link>https://aws.amazon.com/blogs/database/choose-the-right-throughput-strategy-for-amazon-dynamodb-applications/</link>
+            <guid isPermaLink="false">593120af06b446ea2f733973f7e8c6c3ac573f08</guid>
+            <pubDate></pubDate>
+            <updated>Mon, 21 Apr 2025 19:19:13 +0000</updated>
+                
+                
+            <content:encoded>
+                <![CDATA[
+                    
+                    When getting started with DynamoDB, one of the first decisions you will make is choosing between two throughput modes: on-demand and provisioned. On-demand mode is the default and recommended throughput option because it simplifies building modern, serverless applications that can start small and scale to millions of requests per second. However, choosing the right throughput strategy requires evaluating your operational needs, development velocity, and application characteristics, with cost being a key consideration. In this post, we examine both throughput modes in detail, exploring their characteristics, strengths, and ideal use cases.
+                ]]>
+            </content:encoded>
+        </item>
+        
+        <item>
+            <id>092d727da751b3485b285a8d29f7e103d73d02c5</id>
+            <title>Best practices to handle AWS DMS tasks during PostgreSQL upgrades</title>
+            <link>https://aws.amazon.com/blogs/database/best-practices-to-handle-aws-dms-tasks-during-postgresql-upgrades/</link>
+            <guid isPermaLink="false">092d727da751b3485b285a8d29f7e103d73d02c5</guid>
+            <pubDate></pubDate>
+            <updated>Mon, 21 Apr 2025 19:13:27 +0000</updated>
+                
+                
+            <content:encoded>
+                <![CDATA[
+                    
+                    When you decide to upgrade your PostgreSQL database which is configured as source or target for an ongoing AWS DMS task, it’s important to factor this into your upgrade planning. In this post, we discuss the best practices to handle the AWS DMS tasks during PostgreSQL upgrades to minor or major versions.
+                ]]>
+            </content:encoded>
+        </item>
+        
+        <item>
+            <id>2dea5d2e22f9853414ccc56710009a1943a67950</id>
+            <title>Integrate your Spring Boot application with Amazon ElastiCache</title>
+            <link>https://aws.amazon.com/blogs/database/integrate-your-spring-boot-application-with-amazon-elasticache/</link>
+            <guid isPermaLink="false">2dea5d2e22f9853414ccc56710009a1943a67950</guid>
+            <pubDate></pubDate>
+            <updated>Wed, 16 Apr 2025 18:20:15 +0000</updated>
+                
+                
+            <content:encoded>
+                <![CDATA[
+                    
+                    In this post, we explore the basics of integrating a Spring Boot application with ElastiCache to enable caching. Amazon ElastiCache is a fully managed, Valkey-, Memcached-, and Redis OSS-compatible service that delivers real-time, cost-optimized performance for modern applications with 99.99% SLA availability. ElastiCache speeds up application performance, scaling to millions of operations per second with microsecond response time.
+                ]]>
+            </content:encoded>
+        </item>
+        
+        <item>
+            <id>0dbad8209cca9d0aa7daf66d08aa52333ac1c0b0</id>
+            <title>How Amazon Finance Automation built an operational data store with AWS purpose built databases to power critical finance applications</title>
+            <link>https://aws.amazon.com/blogs/database/how-amazon-finance-automation-built-an-operational-data-store-with-aws-purpose-built-databases-to-power-critical-finance-applications/</link>
+            <guid isPermaLink="false">0dbad8209cca9d0aa7daf66d08aa52333ac1c0b0</guid>
+            <pubDate></pubDate>
+            <updated>Tue, 15 Apr 2025 15:00:43 +0000</updated>
+                
+                
+            <content:encoded>
+                <![CDATA[
+                    
+                    In this post, we discuss how the Amazon Finance Automation team used AWS purpose built databases, such as Amazon DynamoDB, Amazon OpenSearch Service, and Amazon Neptune together coupled with serverless compute like AWS Lambda to build an Operational Data Store (ODS) to store financial transactional data and support FinOps applications with millisecond latency. This data is the key enabler for FinOps business.
+                ]]>
+            </content:encoded>
+        </item>
+        
+    </channel>
+</rss>

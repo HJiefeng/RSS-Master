@@ -1,0 +1,348 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
+    <channel>
+        <title>ScyllaDB</title>
+        <link>https://www.scylladb.com/</link>
+        
+        <item>
+            <id>https://www.scylladb.com/?p=71419</id>
+            <title>Efficient Full Table Scans with ScyllaDB Tablets</title>
+            <link>https://www.scylladb.com/2025/05/13/efficient-full-table-scans-with-scylladb-tablets/</link>
+            <guid isPermaLink="false">https://www.scylladb.com/?p=71419</guid>
+            <pubDate></pubDate>
+            <updated>Tue, 13 May 2025 12:30:00 +0000</updated>
+                
+                
+            <content:encoded>
+                <![CDATA[
+                    
+                    "Tablets" data distribution makes full table scans on ScyllaDB more performant than ever
+                ]]>
+            </content:encoded>
+        </item>
+        
+        <item>
+            <id>https://www.scylladb.com/?p=71870</id>
+            <title>From Raw Performance to Price Performance: A Decade of Evolution at  ScyllaDB</title>
+            <link>https://www.scylladb.com/2025/05/05/from-raw-performance-to-price-performance/</link>
+            <guid isPermaLink="false">https://www.scylladb.com/?p=71870</guid>
+            <pubDate></pubDate>
+            <updated>Mon, 05 May 2025 12:30:18 +0000</updated>
+                
+                
+            <content:encoded>
+                <![CDATA[
+                    
+                    This is a guest post authored by tech journalist George Anadiotis. It&#8217;s a follow-up to articles that he published in 2023 and 2022.  In business, they say it takes ten years to become an overnight success. In technology, they say it takes ten years to build a file system. ScyllaDB is in the technology business, offering a distributed NoSQL database that is monstrously fast and scalable. It turns out that it also takes ten years or more to build a successful database. This is something that Felipe Mendes and Guilherme Nogueira know well. Mendes and Nogueira are Technical Directors at [&#8230;]
+                ]]>
+            </content:encoded>
+        </item>
+        
+        <item>
+            <id>https://www.scylladb.com/?p=71877</id>
+            <title>How to Use Testcontainers with ScyllaDB</title>
+            <link>https://www.scylladb.com/2025/04/30/how-to-use-testcontainers-with-scylladb/</link>
+            <guid isPermaLink="false">https://www.scylladb.com/?p=71877</guid>
+            <pubDate></pubDate>
+            <updated>Wed, 30 Apr 2025 13:30:51 +0000</updated>
+                
+                
+            <content:encoded>
+                <![CDATA[
+                    
+                    Learn how to use Testcontainers to create lightweight, throwaway instances of ScyllaDB for testing
+                ]]>
+            </content:encoded>
+        </item>
+        
+        <item>
+            <id>https://www.scylladb.com/?p=71502</id>
+            <title>Why Teams Are Ditching DynamoDB</title>
+            <link>https://www.scylladb.com/2025/04/22/why-teams-are-ditching-dynamodb/</link>
+            <guid isPermaLink="false">https://www.scylladb.com/?p=71502</guid>
+            <pubDate></pubDate>
+            <updated>Tue, 22 Apr 2025 12:30:40 +0000</updated>
+                
+                
+            <content:encoded>
+                <![CDATA[
+                    
+                    Teams sometimes need lower latency, lower costs (especially as they scale) or the ability to run their applications somewhere other than AWS
+                ]]>
+            </content:encoded>
+        </item>
+        
+        <item>
+            <id>https://www.scylladb.com/?p=71473</id>
+            <title>Database Performance Questions from Google Cloud Next</title>
+            <link>https://www.scylladb.com/2025/04/17/database-performance-gcn/</link>
+            <guid isPermaLink="false">https://www.scylladb.com/?p=71473</guid>
+            <pubDate></pubDate>
+            <updated>Thu, 17 Apr 2025 17:52:20 +0000</updated>
+                
+                
+            <content:encoded>
+                <![CDATA[
+                    
+                    Spiraling cache costs, tombstone nightmares, old Cassandra pains, and more — what people were asking about at Google Cloud Next
+                ]]>
+            </content:encoded>
+        </item>
+        
+        <item>
+            <id>https://www.scylladb.com/?p=71450</id>
+            <title>How to Reduce DynamoDB Costs: Expert Tips from Alex DeBrie</title>
+            <link>https://www.scylladb.com/2025/04/15/dynamodb-costs-alex-debrie/</link>
+            <guid isPermaLink="false">https://www.scylladb.com/?p=71450</guid>
+            <pubDate></pubDate>
+            <updated>Tue, 15 Apr 2025 13:10:04 +0000</updated>
+                
+                
+            <content:encoded>
+                <![CDATA[
+                    
+                    DynamoDB consultant Alex DeBrie shares where teams tend to get into trouble
+                ]]>
+            </content:encoded>
+        </item>
+        
+        <item>
+            <id>https://www.scylladb.com/?p=71280</id>
+            <title>Announcing ScyllaDB 2025.1, Our First Source-Available Release</title>
+            <link>https://www.scylladb.com/2025/04/08/announcing-scylladb-2025-1/</link>
+            <guid isPermaLink="false">https://www.scylladb.com/?p=71280</guid>
+            <pubDate></pubDate>
+            <updated>Tue, 08 Apr 2025 12:52:48 +0000</updated>
+                
+                
+            <content:encoded>
+                <![CDATA[
+                    
+                    Tablets are now enabled by default and we're introducing support for mixed clusters
+                ]]>
+            </content:encoded>
+        </item>
+        
+        <item>
+            <id>https://www.scylladb.com/?p=71089</id>
+            <title>Inside ScyllaDB Rust Driver 1.0: A Fully Async Shard-Aware CQL Driver Using Tokio</title>
+            <link>https://www.scylladb.com/2025/03/31/inside-scylladb-rust-driver-1-0/</link>
+            <guid isPermaLink="false">https://www.scylladb.com/?p=71089</guid>
+            <pubDate></pubDate>
+            <updated>Mon, 31 Mar 2025 15:31:56 +0000</updated>
+                
+                
+            <content:encoded>
+                <![CDATA[
+                    
+                    The engineering challenges and design decisions that led to the 1.0 release of ScyllaDB Rust Driver
+                ]]>
+            </content:encoded>
+        </item>
+        
+        <item>
+            <id>https://www.scylladb.com/?p=71015</id>
+            <title>ScyllaDB Rust Driver 1.0 is Officially Released</title>
+            <link>https://www.scylladb.com/2025/03/26/scylladb-rust-driver-1-0/</link>
+            <guid isPermaLink="false">https://www.scylladb.com/?p=71015</guid>
+            <pubDate></pubDate>
+            <updated>Wed, 26 Mar 2025 15:33:17 +0000</updated>
+                
+                
+            <content:encoded>
+                <![CDATA[
+                    
+                    The long-awaited ScyllaDB Rust Driver 1.0 is finally released. This open source project was designed to bring a stable, high-performance, and production-ready CQL driver to the Rust ecosystem.
+                ]]>
+            </content:encoded>
+        </item>
+        
+        <item>
+            <id>https://www.scylladb.com/?p=70949</id>
+            <title>Upcoming ScyllaDB University LIVE and Community Forum Updates</title>
+            <link>https://www.scylladb.com/2025/03/25/scylladb-university-live-and-community-forum-updates/</link>
+            <guid isPermaLink="false">https://www.scylladb.com/?p=70949</guid>
+            <pubDate></pubDate>
+            <updated>Tue, 25 Mar 2025 13:52:05 +0000</updated>
+                
+                
+            <content:encoded>
+                <![CDATA[
+                    
+                    What to expect at the upcoming ScyllaDB University Live training event – and what's trending on the community forum
+                ]]>
+            </content:encoded>
+        </item>
+        
+        <item>
+            <id>https://www.scylladb.com/?p=70775</id>
+            <title>Monster Scale Summit Recap: Scaling Systems, Databases, and Engineering Leadership</title>
+            <link>https://www.scylladb.com/2025/03/17/monster-scale-summit-recap/</link>
+            <guid isPermaLink="false">https://www.scylladb.com/?p=70775</guid>
+            <pubDate></pubDate>
+            <updated>Mon, 17 Mar 2025 12:32:04 +0000</updated>
+                
+                
+            <content:encoded>
+                <![CDATA[
+                    
+                    Monster Scale Summit brought together some of the sharpest minds in distributed systems, data infrastructure, and engineering leadership — all focused on one thing: what it really takes to build and operate systems at scale.
+                ]]>
+            </content:encoded>
+        </item>
+        
+        <item>
+            <id>https://www.scylladb.com/?p=70093</id>
+            <title>High Performance on a Low Budget: Gwen Shapira’s Tips for Startups</title>
+            <link>https://www.scylladb.com/2025/03/05/high-performance-on-a-low-budget/</link>
+            <guid isPermaLink="false">https://www.scylladb.com/?p=70093</guid>
+            <pubDate></pubDate>
+            <updated>Wed, 05 Mar 2025 14:08:22 +0000</updated>
+                
+                
+            <content:encoded>
+                <![CDATA[
+                    
+                    How even a scrappy early-stage startup can deliver outstanding performance
+                ]]>
+            </content:encoded>
+        </item>
+        
+        <item>
+            <id>https://www.scylladb.com/?p=70078</id>
+            <title>Why TRACTIAN Migrated from MongoDB to ScyllaDB for Real-Time ML</title>
+            <link>https://www.scylladb.com/2025/03/04/tractian-migrate-mongodb-scylladb/</link>
+            <guid isPermaLink="false">https://www.scylladb.com/?p=70078</guid>
+            <pubDate></pubDate>
+            <updated>Tue, 04 Mar 2025 15:52:01 +0000</updated>
+                
+                
+            <content:encoded>
+                <![CDATA[
+                    
+                    TRACTIAN’s ML model workloads increased over 2X in a year. Here’s why they changed databases and their lessons learned
+                ]]>
+            </content:encoded>
+        </item>
+        
+        <item>
+            <id>https://www.scylladb.com/?p=69744</id>
+            <title>Build an RPG Using the Bluesky Jetstream, ScyllaDB, and Rust</title>
+            <link>https://www.scylladb.com/2025/02/27/rpg-bluesky-jetstream/</link>
+            <guid isPermaLink="false">https://www.scylladb.com/?p=69744</guid>
+            <pubDate></pubDate>
+            <updated>Thu, 27 Feb 2025 13:51:51 +0000</updated>
+                
+                
+            <content:encoded>
+                <![CDATA[
+                    
+                    Learn how to build a Rust application that tracks Bluesky user experiences and events.
+                ]]>
+            </content:encoded>
+        </item>
+        
+        <item>
+            <id>https://www.scylladb.com/?p=69729</id>
+            <title>How JioCinema Uses ScyllaDB Bloom Filters for Personalization</title>
+            <link>https://www.scylladb.com/2025/02/25/how-jiocinema-uses-scylladb-bloom-filters-for-personalization/</link>
+            <guid isPermaLink="false">https://www.scylladb.com/?p=69729</guid>
+            <pubDate></pubDate>
+            <updated>Tue, 25 Feb 2025 13:06:16 +0000</updated>
+                
+                
+            <content:encoded>
+                <![CDATA[
+                    
+                    Why they used ScyllaDB Bloom Filters instead of building their own using common solutions like Redis Bloom filters
+                ]]>
+            </content:encoded>
+        </item>
+        
+        <item>
+            <id>https://www.scylladb.com/?p=69612</id>
+            <title>Charybdis: Building High-Performance Distributed Rust Backends with ScyllaDB</title>
+            <link>https://www.scylladb.com/2025/02/20/charybdis-rust/</link>
+            <guid isPermaLink="false">https://www.scylladb.com/?p=69612</guid>
+            <pubDate></pubDate>
+            <updated>Thu, 20 Feb 2025 16:13:26 +0000</updated>
+                
+                
+            <content:encoded>
+                <![CDATA[
+                    
+                    Build a high-performance distributed Rust backend—without losing the expressiveness and ease of use of Ruby on Rails and  SQL
+                ]]>
+            </content:encoded>
+        </item>
+        
+        <item>
+            <id>https://www.scylladb.com/?p=69299</id>
+            <title>Books by Monster SCALE Summit 25 Speakers: Distributed Data Systems &amp; Beyond</title>
+            <link>https://www.scylladb.com/2025/02/18/speaker-books/</link>
+            <guid isPermaLink="false">https://www.scylladb.com/?p=69299</guid>
+            <pubDate></pubDate>
+            <updated>Tue, 18 Feb 2025 13:39:38 +0000</updated>
+                
+                
+            <content:encoded>
+                <![CDATA[
+                    
+                    Monster SCALE Summit speakers have amassed a rather impressive list of publications, including quite a few books. This blog highlights 10+ of them.
+                ]]>
+            </content:encoded>
+        </item>
+        
+        <item>
+            <id>https://www.scylladb.com/?p=69208</id>
+            <title>Tracking Millions of Heartbeats on ZEE’s Streaming Platform</title>
+            <link>https://www.scylladb.com/2025/02/13/zee-heartbeats/</link>
+            <guid isPermaLink="false">https://www.scylladb.com/?p=69208</guid>
+            <pubDate></pubDate>
+            <updated>Thu, 13 Feb 2025 16:55:37 +0000</updated>
+                
+                
+            <content:encoded>
+                <![CDATA[
+                    
+                    How strategic database migration + data (re)modeling improved latencies and cut database costs 5X
+                ]]>
+            </content:encoded>
+        </item>
+        
+        <item>
+            <id>https://www.scylladb.com/?p=69287</id>
+            <title>First Look at the Monster SCALE Summit Agenda</title>
+            <link>https://www.scylladb.com/2025/02/12/monser-scale-agenda/</link>
+            <guid isPermaLink="false">https://www.scylladb.com/?p=69287</guid>
+            <pubDate></pubDate>
+            <updated>Wed, 12 Feb 2025 19:18:43 +0000</updated>
+                
+                
+            <content:encoded>
+                <![CDATA[
+                    
+                    The agenda for the 2-day Monster SCALE Summit (free + virtual) is now live! Take a look, register, and start choosing your own adventure across the 60+ tech talks.  Here’s a peek at what you can expect...
+                ]]>
+            </content:encoded>
+        </item>
+        
+        <item>
+            <id>https://www.scylladb.com/?p=68232</id>
+            <title>Real-Time Write Heavy Database Workloads: Considerations &amp; Tips</title>
+            <link>https://www.scylladb.com/2025/02/04/real-time-write-heavy-workloads-considerations-tips/</link>
+            <guid isPermaLink="false">https://www.scylladb.com/?p=68232</guid>
+            <pubDate></pubDate>
+            <updated>Tue, 04 Feb 2025 13:19:53 +0000</updated>
+                
+                
+            <content:encoded>
+                <![CDATA[
+                    
+                    Let's look at the performance-related complexities that teams commonly face with write-heavy workloads and discuss your options for tackling them
+                ]]>
+            </content:encoded>
+        </item>
+        
+    </channel>
+</rss>

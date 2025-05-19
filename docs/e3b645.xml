@@ -1,0 +1,348 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
+    <channel>
+        <title>Google Developers Blog</title>
+        <link>https://developers.googleblog.com/rss/</link>
+        
+        <item>
+            <id>https://developers.googleblog.com/en/build-train-recommender-system-keras-jax/</id>
+            <title>Build and train a recommender system in 10 minutes using Keras and JAX</title>
+            <link>https://developers.googleblog.com/en/build-train-recommender-system-keras-jax/</link>
+            <guid isPermaLink="false">https://developers.googleblog.com/en/build-train-recommender-system-keras-jax/</guid>
+            <pubDate></pubDate>
+            <updated></updated>
+                
+                
+            <content:encoded>
+                <![CDATA[
+                    
+                    Keras Recommenders (KerasRS) is a new library announced to help developers build recommendation systems using APIs with building blocks for ranking and retrieval, and it can be installed via pip with support for JAX, TensorFlow, or PyTorch backends.
+                ]]>
+            </content:encoded>
+        </item>
+        
+        <item>
+            <id>https://developers.googleblog.com/en/google-cloud-announces-apim-operator-for-apigee-general-availability/</id>
+            <title>Google Cloud announces general availability of APIM Operator for Apigee</title>
+            <link>https://developers.googleblog.com/en/google-cloud-announces-apim-operator-for-apigee-general-availability/</link>
+            <guid isPermaLink="false">https://developers.googleblog.com/en/google-cloud-announces-apim-operator-for-apigee-general-availability/</guid>
+            <pubDate></pubDate>
+            <updated></updated>
+                
+                
+            <content:encoded>
+                <![CDATA[
+                    
+                    The Apigee APIM Operator is now generally available, bringing API Management and Gateway capabilities to GKE environments using Kubernetes-like YAML configuration, providing developer-native tooling, reducing friction, and offering policy management comparable to Apigee Hybrid.
+                ]]>
+            </content:encoded>
+        </item>
+        
+        <item>
+            <id>https://developers.googleblog.com/en/gemini-2-5-video-understanding/</id>
+            <title>Advancing the frontier of video understanding with Gemini 2.5</title>
+            <link>https://developers.googleblog.com/en/gemini-2-5-video-understanding/</link>
+            <guid isPermaLink="false">https://developers.googleblog.com/en/gemini-2-5-video-understanding/</guid>
+            <pubDate></pubDate>
+            <updated></updated>
+                
+                
+            <content:encoded>
+                <![CDATA[
+                    
+                    Gemini 2.5 marks a major leap in video understanding, achieving state-of-the-art performance on key video understanding benchmarks and being able to seamlessly use audio-visual information with code and other data formats.
+                ]]>
+            </content:encoded>
+        </item>
+        
+        <item>
+            <id>https://developers.googleblog.com/en/google-ai-for-game-developers/</id>
+            <title>Google AI for game developers</title>
+            <link>https://developers.googleblog.com/en/google-ai-for-game-developers/</link>
+            <guid isPermaLink="false">https://developers.googleblog.com/en/google-ai-for-game-developers/</guid>
+            <pubDate></pubDate>
+            <updated></updated>
+                
+                
+            <content:encoded>
+                <![CDATA[
+                    
+                    Revisit announcements from this year's Games Developer Conference (GDC). Explore how Gemma and Gemini models can aid in building AI experiences in games with the launch of Gemma 3, the Unity plugin, its application in a sample game, and scaling games with generative AI in Google Cloud.
+                ]]>
+            </content:encoded>
+        </item>
+        
+        <item>
+            <id>https://developers.googleblog.com/en/gemini-2-5-models-now-support-implicit-caching/</id>
+            <title>Gemini 2.5 Models now support implicit caching</title>
+            <link>https://developers.googleblog.com/en/gemini-2-5-models-now-support-implicit-caching/</link>
+            <guid isPermaLink="false">https://developers.googleblog.com/en/gemini-2-5-models-now-support-implicit-caching/</guid>
+            <pubDate></pubDate>
+            <updated></updated>
+                
+                
+            <content:encoded>
+                <![CDATA[
+                    
+                    The rollout of implicit caching in the Gemini API expands on the existing explicit caching API, providing an "always on" caching system which offers automatic cost savings to developers using Gemini 2.5 models and continued availability of the explicit caching API for guaranteed savings.
+                ]]>
+            </content:encoded>
+        </item>
+        
+        <item>
+            <id>https://developers.googleblog.com/en/generate-images-gemini-2-0-flash-preview/</id>
+            <title>Create and edit images with Gemini 2.0 in preview</title>
+            <link>https://developers.googleblog.com/en/generate-images-gemini-2-0-flash-preview/</link>
+            <guid isPermaLink="false">https://developers.googleblog.com/en/generate-images-gemini-2-0-flash-preview/</guid>
+            <pubDate></pubDate>
+            <updated></updated>
+                
+                
+            <content:encoded>
+                <![CDATA[
+                    
+                    Gemini 2.0 Flash's image generation capabilities, now available in preview in Google AI Studio and Vertex AI, feature higher rate limits, enhanced visual quality, more precise text rendering, and more, allowing developers to create applications for product recontextualization, collaborative image editing, and dynamic SKU generation.
+                ]]>
+            </content:encoded>
+        </item>
+        
+        <item>
+            <id>https://developers.googleblog.com/en/gemini-2-5-pro-io-improved-coding-performance/</id>
+            <title>Gemini 2.5 Pro Preview: even better coding performance</title>
+            <link>https://developers.googleblog.com/en/gemini-2-5-pro-io-improved-coding-performance/</link>
+            <guid isPermaLink="false">https://developers.googleblog.com/en/gemini-2-5-pro-io-improved-coding-performance/</guid>
+            <pubDate></pubDate>
+            <updated></updated>
+                
+                
+            <content:encoded>
+                <![CDATA[
+                    
+                    An updated I/O edition preview of Gemini 2.5 Pro is being released for developers, featuring best-in-class front-end and UI development performance, ranking #1 on the WebDev Arena leaderboard, and showcasing applications like video to code and easier feature development through starter apps.
+                ]]>
+            </content:encoded>
+        </item>
+        
+        <item>
+            <id>https://developers.googleblog.com/en/gemma-explained-whats-new-in-gemma-3/</id>
+            <title>Gemma explained: What’s new in Gemma 3</title>
+            <link>https://developers.googleblog.com/en/gemma-explained-whats-new-in-gemma-3/</link>
+            <guid isPermaLink="false">https://developers.googleblog.com/en/gemma-explained-whats-new-in-gemma-3/</guid>
+            <pubDate></pubDate>
+            <updated></updated>
+                
+                
+            <content:encoded>
+                <![CDATA[
+                    
+                    Gemma 3's new features include vision-language capabilities and architectural changes for improved memory efficiency and longer context handling compared to previous Gemma models.
+                ]]>
+            </content:encoded>
+        </item>
+        
+        <item>
+            <id>https://developers.googleblog.com/en/llama-4-ga-maas-vertex-ai/</id>
+            <title>Announcing the general availability of Llama 4 MaaS on Vertex AI</title>
+            <link>https://developers.googleblog.com/en/llama-4-ga-maas-vertex-ai/</link>
+            <guid isPermaLink="false">https://developers.googleblog.com/en/llama-4-ga-maas-vertex-ai/</guid>
+            <pubDate></pubDate>
+            <updated></updated>
+                
+                
+            <content:encoded>
+                <![CDATA[
+                    
+                    Llama 4, Meta's advanced large language model, is now generally available as a fully managed API on Vertex AI, simplifying deployment and management. The Llama 3.3 70B managed API is also generally available, offering users greater flexibility.
+                ]]>
+            </content:encoded>
+        </item>
+        
+        <item>
+            <id>https://developers.googleblog.com/en/how-its-made-little-language-lessons-to-personalize-learning/</id>
+            <title>How It’s Made: Little Language Lessons uses Gemini’s multilingual capabilities to personalize language learning</title>
+            <link>https://developers.googleblog.com/en/how-its-made-little-language-lessons-to-personalize-learning/</link>
+            <guid isPermaLink="false">https://developers.googleblog.com/en/how-its-made-little-language-lessons-to-personalize-learning/</guid>
+            <pubDate></pubDate>
+            <updated></updated>
+                
+                
+            <content:encoded>
+                <![CDATA[
+                    
+                    Little Language Lessons, a project leveraging Gemini's API and Cloud services to generate content, translate, and provide text-to-speech functionalities, includes vocabulary lessons, slang practice, and object recognition for language learning.
+                ]]>
+            </content:encoded>
+        </item>
+        
+        <item>
+            <id>https://developers.googleblog.com/en/usability-and-safety-updates-to-google-auth-platform/</id>
+            <title>Usability and safety updates to Google Auth Platform</title>
+            <link>https://developers.googleblog.com/en/usability-and-safety-updates-to-google-auth-platform/</link>
+            <guid isPermaLink="false">https://developers.googleblog.com/en/usability-and-safety-updates-to-google-auth-platform/</guid>
+            <pubDate></pubDate>
+            <updated></updated>
+                
+                
+            <content:encoded>
+                <![CDATA[
+                    
+                    Updates to the Google Auth Platform include changes to OAuth configuration, client secrets display, and automatic deletion of unused clients, making the platform more secure and easier to use.
+                ]]>
+            </content:encoded>
+        </item>
+        
+        <item>
+            <id>https://developers.googleblog.com/en/achieve-real-time-interaction-build-with-the-live-api/</id>
+            <title>Achieve real-time interaction: Build with the Live API</title>
+            <link>https://developers.googleblog.com/en/achieve-real-time-interaction-build-with-the-live-api/</link>
+            <guid isPermaLink="false">https://developers.googleblog.com/en/achieve-real-time-interaction-build-with-the-live-api/</guid>
+            <pubDate></pubDate>
+            <updated></updated>
+                
+                
+            <content:encoded>
+                <![CDATA[
+                    
+                    Explore real world applications for the Live API for Gemini models, now updated to include enhanced features for real-time audio, video, and text processing, improved session management, control over interactions, and richer output options.
+                ]]>
+            </content:encoded>
+        </item>
+        
+        <item>
+            <id>https://developers.googleblog.com/en/google-io-program-lineup-revealed/</id>
+            <title>Get ready for Google I/O: Program lineup revealed</title>
+            <link>https://developers.googleblog.com/en/google-io-program-lineup-revealed/</link>
+            <guid isPermaLink="false">https://developers.googleblog.com/en/google-io-program-lineup-revealed/</guid>
+            <pubDate></pubDate>
+            <updated></updated>
+                
+                
+            <content:encoded>
+                <![CDATA[
+                    
+                    Google I/O's agenda is live, with keynotes and sessions scheduled for May 20-21, focusing on AI advancements, Android development, and web technologies. Register now to explore the full program, join us during the event for livestreams, on-demand sessions, and codelabs.
+                ]]>
+            </content:encoded>
+        </item>
+        
+        <item>
+            <id>https://developers.googleblog.com/en/gemma-3-quantized-aware-trained-state-of-the-art-ai-to-consumer-gpus/</id>
+            <title>Gemma 3 QAT Models: Bringing state-of-the-Art AI to consumer GPUs</title>
+            <link>https://developers.googleblog.com/en/gemma-3-quantized-aware-trained-state-of-the-art-ai-to-consumer-gpus/</link>
+            <guid isPermaLink="false">https://developers.googleblog.com/en/gemma-3-quantized-aware-trained-state-of-the-art-ai-to-consumer-gpus/</guid>
+            <pubDate></pubDate>
+            <updated></updated>
+                
+                
+            <content:encoded>
+                <![CDATA[
+                    
+                    The release of int4 quantized versions of Gemma 3 models, optimized with Quantization Aware Training (QAT) brings significantly reduced memory requirements, allowing users to run powerful models like Gemma 3 27B on consumer-grade GPUs such as the NVIDIA RTX 3090.
+                ]]>
+            </content:encoded>
+        </item>
+        
+        <item>
+            <id>https://developers.googleblog.com/en/start-building-with-gemini-25-flash/</id>
+            <title>Start building with Gemini 2.5 Flash</title>
+            <link>https://developers.googleblog.com/en/start-building-with-gemini-25-flash/</link>
+            <guid isPermaLink="false">https://developers.googleblog.com/en/start-building-with-gemini-25-flash/</guid>
+            <pubDate></pubDate>
+            <updated></updated>
+                
+                
+            <content:encoded>
+                <![CDATA[
+                    
+                    Gemini 2.5 Flash is in preview, offering improved reasoning capabilities through a "thinking" process that developers can control for cost and latency tradeoffs. This updated version aims to provide a cost-effective solution for complex tasks, balancing performance and price.
+                ]]>
+            </content:encoded>
+        </item>
+        
+        <item>
+            <id>https://developers.googleblog.com/en/making-it-easier-to-build-with-the-gemini-api-in-google-ai-studio/</id>
+            <title>Making it easier to build with the Gemini API in Google AI Studio</title>
+            <link>https://developers.googleblog.com/en/making-it-easier-to-build-with-the-gemini-api-in-google-ai-studio/</link>
+            <guid isPermaLink="false">https://developers.googleblog.com/en/making-it-easier-to-build-with-the-gemini-api-in-google-ai-studio/</guid>
+            <pubDate></pubDate>
+            <updated></updated>
+                
+                
+            <content:encoded>
+                <![CDATA[
+                    
+                    Google AI Studio now has an expanded gallery of starter apps, and other updates including more intuitive prompting experience, native code editing, and various interactive examples demonstrating Gemini model capabilities, plus a refreshed UI – so you can continue building with the Gemini API.
+                ]]>
+            </content:encoded>
+        </item>
+        
+        <item>
+            <id>https://developers.googleblog.com/en/google-martech-solutions-putting-generative-ai-in-marketing/</id>
+            <title>Three MarTech solutions putting generative AI in marketing</title>
+            <link>https://developers.googleblog.com/en/google-martech-solutions-putting-generative-ai-in-marketing/</link>
+            <guid isPermaLink="false">https://developers.googleblog.com/en/google-martech-solutions-putting-generative-ai-in-marketing/</guid>
+            <pubDate></pubDate>
+            <updated></updated>
+                
+                
+            <content:encoded>
+                <![CDATA[
+                    
+                    Three generative AI-powered MarTech solutions from Google designed to help developers streamline marketing material creation, personalize campaigns, and enhance ad performance. Discover ViGenAiR for video ad creation, Adios for image asset management and generation, and Copycat for on-brand ad copy generation.
+                ]]>
+            </content:encoded>
+        </item>
+        
+        <item>
+            <id>https://developers.googleblog.com/en/veo-2-video-generation-now-generally-available/</id>
+            <title>Bring your ideas to life: Veo 2 video generation available for developers</title>
+            <link>https://developers.googleblog.com/en/veo-2-video-generation-now-generally-available/</link>
+            <guid isPermaLink="false">https://developers.googleblog.com/en/veo-2-video-generation-now-generally-available/</guid>
+            <pubDate></pubDate>
+            <updated></updated>
+                
+                
+            <content:encoded>
+                <![CDATA[
+                    
+                    Generate high-quality videos from text and image prompts with Veo 2, a video generation model, now generally available in the Gemini API and Google AI Studio to enhance your content creation and marketing efforts.
+                ]]>
+            </content:encoded>
+        </item>
+        
+        <item>
+            <id>https://developers.googleblog.com/en/apigee-announces-general-availability-of-apim-extension-processor/</id>
+            <title>Apigee announces general availability of APIM Extension Processor</title>
+            <link>https://developers.googleblog.com/en/apigee-announces-general-availability-of-apim-extension-processor/</link>
+            <guid isPermaLink="false">https://developers.googleblog.com/en/apigee-announces-general-availability-of-apim-extension-processor/</guid>
+            <pubDate></pubDate>
+            <updated></updated>
+                
+                
+            <content:encoded>
+                <![CDATA[
+                    
+                    The Apigee Extension Processor enhances Apigee's capabilities by enabling it to manage gRPC streaming and integrate with Google Cloud services through Cloud Load Balancing, allowing for applying Apigee policies to a wider range of backend services, and improving secure access to Google Cloud infrastructure.
+                ]]>
+            </content:encoded>
+        </item>
+        
+        <item>
+            <id>https://developers.googleblog.com/en/agent-development-kit-easy-to-build-multi-agent-applications/</id>
+            <title>Agent Development Kit: Making it easy to build multi-agent applications</title>
+            <link>https://developers.googleblog.com/en/agent-development-kit-easy-to-build-multi-agent-applications/</link>
+            <guid isPermaLink="false">https://developers.googleblog.com/en/agent-development-kit-easy-to-build-multi-agent-applications/</guid>
+            <pubDate></pubDate>
+            <updated></updated>
+                
+                
+            <content:encoded>
+                <![CDATA[
+                    
+                    The Agent Development Kit (ADK), an open-source framework from Google designed to simplify the development of multi-agent systems, providing tools for building, interacting, evaluating, and deploying agents.
+                ]]>
+            </content:encoded>
+        </item>
+        
+    </channel>
+</rss>

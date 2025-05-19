@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
+    <channel>
+        <title>Huffington Post</title>
+        <link>https://www.huffpost.com/news/front-page</link>
+        
+        <item>
+            <id>https://www.huffpost.com/entry/huffpost-helps-day-2025_n_682136bbe4b01f11850104d7</id>
+            <title>HuffPost Helps Day 2025: HuffPost Staff Volunteer To Mark 20th Anniversary</title>
+            <link>https://www.huffpost.com/entry/huffpost-helps-day-2025_n_682136bbe4b01f11850104d7</link>
+            <guid isPermaLink="false">https://www.huffpost.com/entry/huffpost-helps-day-2025_n_682136bbe4b01f11850104d7</guid>
+            <pubDate></pubDate>
+            <updated>Wed, 14 May 2025 13:20:03 -0400</updated>
+                
+                
+            <content:encoded>
+                <![CDATA[
+                    
+                    It's our 20th birthday! To celebrate, HuffPost staffers volunteered in cities across the country.
+                ]]>
+            </content:encoded>
+        </item>
+        
+    </channel>
+</rss>

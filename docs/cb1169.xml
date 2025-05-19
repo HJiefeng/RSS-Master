@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
+    <channel>
+        <title>阮一峰的网络日志</title>
+        <link>http://www.ruanyifeng.com/blog/</link>
+        
+        <item>
+            <id>tag:www.ruanyifeng.com,2025:/blog//1.2475</id>
+            <title>科技爱好者周刊（第 348 期）：李飞飞，从移民到 AI 明星</title>
+            <link>http://www.ruanyifeng.com/blog/2025/05/weekly-issue-348.html</link>
+            <guid isPermaLink="false">tag:www.ruanyifeng.com,2025:/blog//1.2475</guid>
+            <pubDate></pubDate>
+            <updated>2025-05-19T00:48:07Z</updated>
+                
+                
+            <content:encoded>
+                <![CDATA[
+                    
+                    这里记录每周值得分享的科技内容，周五发布。...
+                ]]>
+            </content:encoded>
+        </item>
+        
+        <item>
+            <id>tag:www.ruanyifeng.com,2025:/blog//1.2474</id>
+            <title>科技爱好者周刊（第 347 期）：冷启动的破解之道</title>
+            <link>http://www.ruanyifeng.com/blog/2025/05/weekly-issue-347.html</link>
+            <guid isPermaLink="false">tag:www.ruanyifeng.com,2025:/blog//1.2474</guid>
+            <pubDate></pubDate>
+            <updated>2025-05-17T14:46:11Z</updated>
+                
+                
+            <content:encoded>
+                <![CDATA[
+                    
+                    这里记录每周值得分享的科技内容，周五发布。...
+                ]]>
+            </content:encoded>
+        </item>
+        
+        <item>
+            <id>tag:www.ruanyifeng.com,2025:/blog//1.2473</id>
+            <title>谷歌的 NotebookLM 能生成中文播客了</title>
+            <link>http://www.ruanyifeng.com/blog/2025/05/notebooklm.html</link>
+            <guid isPermaLink="false">tag:www.ruanyifeng.com,2025:/blog//1.2473</guid>
+            <pubDate></pubDate>
+            <updated>2025-05-19T03:19:50Z</updated>
+                
+                
+            <content:encoded>
+                <![CDATA[
+                    
+                    两天前，谷歌发了一个公告。...
+                ]]>
+            </content:encoded>
+        </item>
+        
+    </channel>
+</rss>

@@ -1,0 +1,178 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
+    <channel>
+        <title>Facebook Developers</title>
+        <link>https://developers.facebook.com/blog/</link>
+        
+        <item>
+            <id>tag:developers.facebook.com,2025-05-07:blog:p10233882910671037</id>
+            <title>All Advertisers Delivering Ads to Audiences in Singapore Required to Complete Verification and Transparency Processes</title>
+            <link>https://developers.facebook.com/blog/post/2025/05/07/all-advertisers-delivering-ads-to-audiences-in-singapore-required-to-complete-verification-and-transparency-processes/</link>
+            <guid isPermaLink="false">tag:developers.facebook.com,2025-05-07:blog:p10233882910671037</guid>
+            <pubDate></pubDate>
+            <updated>2025-05-02T21:31:29+00:00</updated>
+                
+                
+            <content:encoded>
+                <![CDATA[
+                    
+                    Meta is updating its verification and transparency requirements for ads delivering to Singapore. As a part of these efforts, all advertisers targeting audiences in Singapore (including global campaigns) will need to verify the identities of the people and/or organizations who are benefitting from and paying for these ads, and subsequently designate which verified beneficiary and payer will be disclosed alongside their ads.
+                ]]>
+            </content:encoded>
+        </item>
+        
+        <item>
+            <id>tag:developers.facebook.com,2025-04-08:blog:p10116420902022511</id>
+            <title>oEmbed Updates</title>
+            <link>https://developers.facebook.com/blog/post/2025/04/08/oembed-updates/</link>
+            <guid isPermaLink="false">tag:developers.facebook.com,2025-04-08:blog:p10116420902022511</guid>
+            <pubDate></pubDate>
+            <updated>2025-03-21T13:46:31+00:00</updated>
+                
+                
+            <content:encoded>
+                <![CDATA[
+                    
+                    The oEmbed feature allows your app to embed HTML and basic metadata for public Facebook and Instagram pages, posts, and videos. The oEmbed feature and associated endpoints are designed to help people share posts, including on blogs, websites, and messaging apps.
+                ]]>
+            </content:encoded>
+        </item>
+        
+        <item>
+            <id>tag:developers.facebook.com,2025-03-25:blog:p9770832932940058</id>
+            <title>Instagram Partnership Ads</title>
+            <link>https://developers.facebook.com/blog/post/2025/03/25/instagram-partnership-ads/</link>
+            <guid isPermaLink="false">tag:developers.facebook.com,2025-03-25:blog:p9770832932940058</guid>
+            <pubDate></pubDate>
+            <updated>2025-03-25T04:44:00+00:00</updated>
+                
+                
+            <content:encoded>
+                <![CDATA[
+                    
+                    Partnership ads allow advertisers to run ads with creators, brands, and other businesses. The advertiser and partner accounts are featured in the ad’s header and the ads leverage signals from both accounts for improved ranking and incremental performance.
+                ]]>
+            </content:encoded>
+        </item>
+        
+        <item>
+            <id>tag:developers.facebook.com,2025-03-19:blog:p10105029251860764</id>
+            <title>Introducing API Solutions for WhatsApp Business Users Launched</title>
+            <link>https://developers.facebook.com/blog/post/2025/03/19/introducing-api-solutions-for-whatsapp-business-users-launched/</link>
+            <guid isPermaLink="false">tag:developers.facebook.com,2025-03-19:blog:p10105029251860764</guid>
+            <pubDate></pubDate>
+            <updated>2025-03-18T00:01:24+00:00</updated>
+                
+                
+            <content:encoded>
+                <![CDATA[
+                    
+                    We are excited to announce the new launch of API solutions for WhatsApp Business App users, a much requested feature that allows businesses to use both the WhatsApp Business App and the Cloud API with the same phone number.
+                ]]>
+            </content:encoded>
+        </item>
+        
+        <item>
+            <id>tag:developers.facebook.com,2025-01-21:blog:p869528269612</id>
+            <title>Removal of Detailed Targeting Exclusions</title>
+            <link>https://developers.facebook.com/blog/post/2025/01/21/removal-of-detailed-targeting-exclusions/</link>
+            <guid isPermaLink="false">tag:developers.facebook.com,2025-01-21:blog:p869528269612</guid>
+            <pubDate></pubDate>
+            <updated>2025-01-15T19:26:03+00:00</updated>
+                
+                
+            <content:encoded>
+                <![CDATA[
+                    
+                    As part of our continued efforts to help advertisers drive performance, we are removing Detailed Targeting exclusions. As part of this process, we will continue to support the ability to exclude your employers within Audience controls at the account level.
+                ]]>
+            </content:encoded>
+        </item>
+        
+        <item>
+            <id>tag:developers.facebook.com,2025-01-17:blog:p10236399902006967</id>
+            <title>Marketing API v22.0 Impacts to Advantage+ Creative Enhancements</title>
+            <link>https://developers.facebook.com/blog/post/2025/01/17/marketing-api-v22-impacts-to-advantage-plus-creative-enhancements/</link>
+            <guid isPermaLink="false">tag:developers.facebook.com,2025-01-17:blog:p10236399902006967</guid>
+            <pubDate></pubDate>
+            <updated>2025-01-16T20:22:33+00:00</updated>
+                
+                
+            <content:encoded>
+                <![CDATA[
+                    
+                    V22.0 of the Marketing API will be released on January 21, 2025. In this new version we will deprecate the Advantage+Creative Standard Enhancements bundle, replacing it with individual creative enhancements opt-in.
+                ]]>
+            </content:encoded>
+        </item>
+        
+        <item>
+            <id>tag:developers.facebook.com,2025-01-22:blog:p9444139495597244</id>
+            <title>Introducing Graph API v22.0 and Marketing API v22.0</title>
+            <link>https://developers.facebook.com/blog/post/2025/01/21/introducing-graph-api-v22-and-marketing-api-v22/</link>
+            <guid isPermaLink="false">tag:developers.facebook.com,2025-01-22:blog:p9444139495597244</guid>
+            <pubDate></pubDate>
+            <updated>2025-01-16T23:55:57+00:00</updated>
+                
+                
+            <content:encoded>
+                <![CDATA[
+                    
+                    我們今天隆重推出 Graph API v22.0 和推廣 API v22.0。為配合本次的發佈版本，我們於下方重點列出了我們認為與部分開發人員社群相關的變更。
+                ]]>
+            </content:encoded>
+        </item>
+        
+        <item>
+            <id>tag:developers.facebook.com,2025-01-21:blog:p9365168106839878</id>
+            <title>Making it easier to build integrations across the Instagram API and Marketing API</title>
+            <link>https://developers.facebook.com/blog/post/2025/01/21/making-it-easier-to-build-integrations-across-the-instagram-api-and-marketing-api/</link>
+            <guid isPermaLink="false">tag:developers.facebook.com,2025-01-21:blog:p9365168106839878</guid>
+            <pubDate></pubDate>
+            <updated>2025-01-16T19:22:41+00:00</updated>
+                
+                
+            <content:encoded>
+                <![CDATA[
+                    
+                    我們現宣佈在 Instagram Graph API 和推廣 API 推出幾項變動，幫助大家更輕鬆地為企業構建解決方案。
+                ]]>
+            </content:encoded>
+        </item>
+        
+        <item>
+            <id>tag:developers.facebook.com,2025-03-24:blog:p9318239891532700</id>
+            <title>User and Media Insights on Instagram API with Instagram Login</title>
+            <link>https://developers.facebook.com/blog/post/2025/03/24/user-and-media-insights-on-instagram-api-with-instagram-login/</link>
+            <guid isPermaLink="false">tag:developers.facebook.com,2025-03-24:blog:p9318239891532700</guid>
+            <pubDate></pubDate>
+            <updated>2025-01-06T19:30:58+00:00</updated>
+                
+                
+            <content:encoded>
+                <![CDATA[
+                    
+                    In July 2024, we introduced the Instagram API with Instagram Login to make it easier for businesses and creators to onboard onto third-party partner solutions. With the Instagram API with Instagram Login, all Instagram accounts can use third-party apps, even if they haven’t linked their Instagram account to a Facebook Page.
+                ]]>
+            </content:encoded>
+        </item>
+        
+        <item>
+            <id>tag:developers.facebook.com,2024-12-19:blog:p10229201564887253</id>
+            <title>Announcing the Python version of Project Robyn</title>
+            <link>https://developers.facebook.com/blog/post/2024/12/19/announcing-the-python-version-of-project-robyn/</link>
+            <guid isPermaLink="false">tag:developers.facebook.com,2024-12-19:blog:p10229201564887253</guid>
+            <pubDate></pubDate>
+            <updated>2024-12-17T17:38:58+00:00</updated>
+                
+                
+            <content:encoded>
+                <![CDATA[
+                    
+                    In June, we launched the Threads API to enable developers to build their own unique integrations, and help creators and brands manage their Threads presence at scale, easily sharing inspiring content with their communities.
+                ]]>
+            </content:encoded>
+        </item>
+        
+    </channel>
+</rss>

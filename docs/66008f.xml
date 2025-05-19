@@ -1,0 +1,859 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
+    <channel>
+        <title>DizKaz - Best</title>
+        <link>https://dizkaz.com/articles?sort=list_best</link>
+        
+        <item>
+            <id>article:1212</id>
+            <title>CSS中如何让浏览器选择对比度</title>
+            <link>https://dizkaz.com/articles/1212</link>
+            <guid isPermaLink="false">article:1212</guid>
+            <pubDate></pubDate>
+            <updated>2025-05-18T04:45:49Z</updated>
+                
+                
+            <content:encoded>
+                <![CDATA[
+                    
+                    更多讨论：https://news.ycombinator.com/item?id=44015367
+                ]]>
+            </content:encoded>
+        </item>
+        
+        <item>
+            <id>article:1211</id>
+            <title>无需笔记本电脑，使用 Android 设备上的 Linux 进行编程工作</title>
+            <link>https://dizkaz.com/articles/1211</link>
+            <guid isPermaLink="false">article:1211</guid>
+            <pubDate></pubDate>
+            <updated>2025-05-18T03:18:34Z</updated>
+                
+                
+            <content:encoded>
+                <![CDATA[
+                    
+                    更多讨论：https://news.ycombinator.com/item?id=43985513
+                ]]>
+            </content:encoded>
+        </item>
+        
+        <item>
+            <id>article:1210</id>
+            <title>JavaScript支持显式资源管理</title>
+            <link>https://dizkaz.com/articles/1210</link>
+            <guid isPermaLink="false">article:1210</guid>
+            <pubDate></pubDate>
+            <updated>2025-05-17T10:46:31Z</updated>
+                
+                
+            <content:encoded>
+                <![CDATA[
+                    
+                    更多讨论：https://news.ycombinator.com/item?id=44012227
+                ]]>
+            </content:encoded>
+        </item>
+        
+        <item>
+            <id>article:1209</id>
+            <title>Biomejs：用 Rust 写的高性能 JavaScript 格式化和语法检测工具</title>
+            <link>https://dizkaz.com/articles/1209</link>
+            <guid isPermaLink="false">article:1209</guid>
+            <pubDate></pubDate>
+            <updated>2025-05-16T09:52:32Z</updated>
+                
+                
+            <content:encoded>
+                <![CDATA[
+                    
+                    <p>Source: <a href="https://biomejs.dev/">https://biomejs.dev/</a></p>
+                ]]>
+            </content:encoded>
+        </item>
+        
+        <item>
+            <id>article:1208</id>
+            <title>寻路</title>
+            <link>https://dizkaz.com/articles/1208</link>
+            <guid isPermaLink="false">article:1208</guid>
+            <pubDate></pubDate>
+            <updated>2025-05-15T23:37:41Z</updated>
+                
+                
+            <content:encoded>
+                <![CDATA[
+                    
+                    更多讨论：https://news.ycombinator.com/item?id=43994333
+                ]]>
+            </content:encoded>
+        </item>
+        
+        <item>
+            <id>article:1206</id>
+            <title>人类</title>
+            <link>https://dizkaz.com/articles/1206</link>
+            <guid isPermaLink="false">article:1206</guid>
+            <pubDate></pubDate>
+            <updated>2025-05-15T06:58:09Z</updated>
+                
+                
+            <content:encoded>
+                <![CDATA[
+                    
+                    更多讨论：https://news.ycombinator.com/item?id=43991396
+                ]]>
+            </content:encoded>
+        </item>
+        
+        <item>
+            <id>article:1204</id>
+            <title>互联网文物</title>
+            <link>https://dizkaz.com/articles/1204</link>
+            <guid isPermaLink="false">article:1204</guid>
+            <pubDate></pubDate>
+            <updated>2025-05-15T05:44:33Z</updated>
+                
+                
+            <content:encoded>
+                <![CDATA[
+                    
+                    更多讨论：https://news.ycombinator.com/item?id=43971853
+                ]]>
+            </content:encoded>
+        </item>
+        
+        <item>
+            <id>article:1203</id>
+            <title>谷歌正在构建 Android 桌面模式，类似三星 Dex</title>
+            <link>https://dizkaz.com/articles/1203</link>
+            <guid isPermaLink="false">article:1203</guid>
+            <pubDate></pubDate>
+            <updated>2025-05-14T01:28:26Z</updated>
+                
+                
+            <content:encoded>
+                <![CDATA[
+                    
+                    更多讨论：https://news.ycombinator.com/item?id=43973395
+                ]]>
+            </content:encoded>
+        </item>
+        
+        <item>
+            <id>article:1201</id>
+            <title>Firefox 代码迁移到GitHub</title>
+            <link>https://dizkaz.com/articles/1201</link>
+            <guid isPermaLink="false">article:1201</guid>
+            <pubDate></pubDate>
+            <updated>2025-05-13T06:19:24Z</updated>
+                
+                
+            <content:encoded>
+                <![CDATA[
+                    
+                    更多讨论：https://news.ycombinator.com/item?id=43969827
+                ]]>
+            </content:encoded>
+        </item>
+        
+        <item>
+            <id>article:1200</id>
+            <title>普通原生网站</title>
+            <link>https://dizkaz.com/articles/1200</link>
+            <guid isPermaLink="false">article:1200</guid>
+            <pubDate></pubDate>
+            <updated>2025-05-12T00:07:32Z</updated>
+                
+                
+            <content:encoded>
+                <![CDATA[
+                    
+                    更多讨论：https://news.ycombinator.com/item?id=43954896
+                ]]>
+            </content:encoded>
+        </item>
+        
+        <item>
+            <id>article:1199</id>
+            <title>Linux 内核中的 PGP 信任网络</title>
+            <link>https://dizkaz.com/articles/1199</link>
+            <guid isPermaLink="false">article:1199</guid>
+            <pubDate></pubDate>
+            <updated>2025-05-09T22:05:50Z</updated>
+                
+                
+            <content:encoded>
+                <![CDATA[
+                    
+                    更多讨论：https://news.ycombinator.com/item?id=43935356
+                ]]>
+            </content:encoded>
+        </item>
+        
+        <item>
+            <id>article:1198</id>
+            <title>Cogentcore: 使用 Go 语言开发跨平台的 2D 和 3D 应用</title>
+            <link>https://dizkaz.com/articles/1198</link>
+            <guid isPermaLink="false">article:1198</guid>
+            <pubDate></pubDate>
+            <updated>2025-05-09T06:55:14Z</updated>
+                
+                
+            <content:encoded>
+                <![CDATA[
+                    
+                    更多讨论：https://news.ycombinator.com/item?id=43932567
+                ]]>
+            </content:encoded>
+        </item>
+        
+        <item>
+            <id>article:1197</id>
+            <title>Void: Cursor 代码编辑器的开源替代</title>
+            <link>https://dizkaz.com/articles/1197</link>
+            <guid isPermaLink="false">article:1197</guid>
+            <pubDate></pubDate>
+            <updated>2025-05-09T01:16:44Z</updated>
+                
+                
+            <content:encoded>
+                <![CDATA[
+                    
+                    更多讨论：https://news.ycombinator.com/item?id=43927926
+                ]]>
+            </content:encoded>
+        </item>
+        
+        <item>
+            <id>article:1196</id>
+            <title>臃肿仍然是软件最大的漏洞</title>
+            <link>https://dizkaz.com/articles/1196</link>
+            <guid isPermaLink="false">article:1196</guid>
+            <pubDate></pubDate>
+            <updated>2025-05-07T02:37:54Z</updated>
+                
+                
+            <content:encoded>
+                <![CDATA[
+                    
+                    更多讨论：https://news.ycombinator.com/item?id=43910745
+                ]]>
+            </content:encoded>
+        </item>
+        
+        <item>
+            <id>article:1195</id>
+            <title>用 systemd 替代 Kubernetes</title>
+            <link>https://dizkaz.com/articles/1195</link>
+            <guid isPermaLink="false">article:1195</guid>
+            <pubDate></pubDate>
+            <updated>2025-05-06T00:32:21Z</updated>
+                
+                
+            <content:encoded>
+                <![CDATA[
+                    
+                    更多讨论：https://news.ycombinator.com/item?id=43899236
+                ]]>
+            </content:encoded>
+        </item>
+        
+        <item>
+            <id>article:1194</id>
+            <title>与LLM实时语音聊天，500毫秒延迟</title>
+            <link>https://dizkaz.com/articles/1194</link>
+            <guid isPermaLink="false">article:1194</guid>
+            <pubDate></pubDate>
+            <updated>2025-05-06T00:24:33Z</updated>
+                
+                
+            <content:encoded>
+                <![CDATA[
+                    
+                    原帖：https://news.ycombinator.com/item?id=43899028
+                ]]>
+            </content:encoded>
+        </item>
+        
+        <item>
+            <id>article:1193</id>
+            <title>为什么 flatpak 应用在 Linux 上占用如此多的磁盘空间</title>
+            <link>https://dizkaz.com/articles/1193</link>
+            <guid isPermaLink="false">article:1193</guid>
+            <pubDate></pubDate>
+            <updated>2025-05-05T01:18:45Z</updated>
+                
+                
+            <content:encoded>
+                <![CDATA[
+                    
+                    更多讨论：https://news.ycombinator.com/item?id=43887073
+                ]]>
+            </content:encoded>
+        </item>
+        
+        <item>
+            <id>article:1192</id>
+            <title>无线 USB 出了什么问题</title>
+            <link>https://dizkaz.com/articles/1192</link>
+            <guid isPermaLink="false">article:1192</guid>
+            <pubDate></pubDate>
+            <updated>2025-05-04T07:25:15Z</updated>
+                
+                
+            <content:encoded>
+                <![CDATA[
+                    
+                    更多讨论：https://news.ycombinator.com/item?id=43883902
+                ]]>
+            </content:encoded>
+        </item>
+        
+        <item>
+            <id>article:1191</id>
+            <title>非官方的《上古卷轴》维基文档已服务玩家30年，比谷歌还老</title>
+            <link>https://dizkaz.com/articles/1191</link>
+            <guid isPermaLink="false">article:1191</guid>
+            <pubDate></pubDate>
+            <updated>2025-05-04T01:02:36Z</updated>
+                
+                
+            <content:encoded>
+                <![CDATA[
+                    
+                    更多讨论：https://news.ycombinator.com/item?id=43873934
+                ]]>
+            </content:encoded>
+        </item>
+        
+        <item>
+            <id>article:1190</id>
+            <title>为什么 HTML 不能实现单独引入</title>
+            <link>https://dizkaz.com/articles/1190</link>
+            <guid isPermaLink="false">article:1190</guid>
+            <pubDate></pubDate>
+            <updated>2025-05-04T00:53:05Z</updated>
+                
+                
+            <content:encoded>
+                <![CDATA[
+                    
+                    更多讨论：https://news.ycombinator.com/item?id=43878728
+                ]]>
+            </content:encoded>
+        </item>
+        
+        <item>
+            <id>article:1189</id>
+            <title>Gorgeous GRUB：社区制作的优秀 GRUB 主题合集</title>
+            <link>https://dizkaz.com/articles/1189</link>
+            <guid isPermaLink="false">article:1189</guid>
+            <pubDate></pubDate>
+            <updated>2025-05-04T00:36:38Z</updated>
+                
+                
+            <content:encoded>
+                <![CDATA[
+                    
+                    更多讨论：https://news.ycombinator.com/item?id=43883040
+                ]]>
+            </content:encoded>
+        </item>
+        
+        <item>
+            <id>article:1186</id>
+            <title>微软新推出的“默认无密码”功能很棒，但需要付出代价</title>
+            <link>https://dizkaz.com/articles/1186</link>
+            <guid isPermaLink="false">article:1186</guid>
+            <pubDate></pubDate>
+            <updated>2025-05-03T01:31:13Z</updated>
+                
+                
+            <content:encoded>
+                <![CDATA[
+                    
+                    更多讨论：https://news.ycombinator.com/item?id=43875214
+                ]]>
+            </content:encoded>
+        </item>
+        
+        <item>
+            <id>article:1185</id>
+            <title>实现人类竞技水平的乒乓球机器人</title>
+            <link>https://dizkaz.com/articles/1185</link>
+            <guid isPermaLink="false">article:1185</guid>
+            <pubDate></pubDate>
+            <updated>2025-05-03T00:05:23Z</updated>
+                
+                
+            <content:encoded>
+                <![CDATA[
+                    
+                    更多讨论：https://news.ycombinator.com/item?id=43861207
+                ]]>
+            </content:encoded>
+        </item>
+        
+        <item>
+            <id>article:1184</id>
+            <title>螺旋式下降：《黑暗之魂》系列电子游戏中的后现代意识与佛教形而上学</title>
+            <link>https://dizkaz.com/articles/1184</link>
+            <guid isPermaLink="false">article:1184</guid>
+            <pubDate></pubDate>
+            <updated>2025-05-02T09:05:48Z</updated>
+                
+                
+            <content:encoded>
+                <![CDATA[
+                    
+                    <p>Source: <a href="https://pdxscholar.library.pdx.edu/open_access_etds/4161/">https://pdxscholar.library.pdx.edu/open_access_etds/4161/</a></p>
+                ]]>
+            </content:encoded>
+        </item>
+        
+        <item>
+            <id>article:1183</id>
+            <title>第三方Cookie必须被移除</title>
+            <link>https://dizkaz.com/articles/1183</link>
+            <guid isPermaLink="false">article:1183</guid>
+            <pubDate></pubDate>
+            <updated>2025-05-02T02:37:55Z</updated>
+                
+                
+            <content:encoded>
+                <![CDATA[
+                    
+                    更多讨论：https://news.ycombinator.com/item?id=43865132
+                ]]>
+            </content:encoded>
+        </item>
+        
+        <item>
+            <id>article:1182</id>
+            <title>攻破Ladybird浏览器</title>
+            <link>https://dizkaz.com/articles/1182</link>
+            <guid isPermaLink="false">article:1182</guid>
+            <pubDate></pubDate>
+            <updated>2025-05-01T23:52:20Z</updated>
+                
+                
+            <content:encoded>
+                <![CDATA[
+                    
+                    更多讨论：https://news.ycombinator.com/item?id=43852096
+                ]]>
+            </content:encoded>
+        </item>
+        
+        <item>
+            <id>article:1181</id>
+            <title>四大主流浏览器将失去80%的资金</title>
+            <link>https://dizkaz.com/articles/1181</link>
+            <guid isPermaLink="false">article:1181</guid>
+            <pubDate></pubDate>
+            <updated>2025-05-01T23:48:13Z</updated>
+                
+                
+            <content:encoded>
+                <![CDATA[
+                    
+                    更多讨论：https://news.ycombinator.com/item?id=43827054
+                ]]>
+            </content:encoded>
+        </item>
+        
+        <item>
+            <id>article:1180</id>
+            <title>Redis重新开源</title>
+            <link>https://dizkaz.com/articles/1180</link>
+            <guid isPermaLink="false">article:1180</guid>
+            <pubDate></pubDate>
+            <updated>2025-05-01T23:29:59Z</updated>
+                
+                
+            <content:encoded>
+                <![CDATA[
+                    
+                    更多讨论：https://news.ycombinator.com/item?id=43859446
+                ]]>
+            </content:encoded>
+        </item>
+        
+        <item>
+            <id>article:1179</id>
+            <title>Firefox支持标签分组</title>
+            <link>https://dizkaz.com/articles/1179</link>
+            <guid isPermaLink="false">article:1179</guid>
+            <pubDate></pubDate>
+            <updated>2025-04-29T23:55:13Z</updated>
+                
+                
+            <content:encoded>
+                <![CDATA[
+                    
+                    更多讨论：https://news.ycombinator.com/item?id=43834101
+                ]]>
+            </content:encoded>
+        </item>
+        
+        <item>
+            <id>article:1177</id>
+            <title>我只想写代码</title>
+            <link>https://dizkaz.com/articles/1177</link>
+            <guid isPermaLink="false">article:1177</guid>
+            <pubDate></pubDate>
+            <updated>2025-04-28T00:11:26Z</updated>
+                
+                
+            <content:encoded>
+                <![CDATA[
+                    
+                    更多讨论：https://news.ycombinator.com/item?id=43814708
+                ]]>
+            </content:encoded>
+        </item>
+        
+        <item>
+            <id>article:1176</id>
+            <title>一行代码如何让iPhone变砖</title>
+            <link>https://dizkaz.com/articles/1176</link>
+            <guid isPermaLink="false">article:1176</guid>
+            <pubDate></pubDate>
+            <updated>2025-04-28T00:08:31Z</updated>
+                
+                
+            <content:encoded>
+                <![CDATA[
+                    
+                    更多讨论：https://news.ycombinator.com/item?id=43814360
+                ]]>
+            </content:encoded>
+        </item>
+        
+        <item>
+            <id>article:1175</id>
+            <title>阅读 RSS 内容是一项需要技巧的活动</title>
+            <link>https://dizkaz.com/articles/1175</link>
+            <guid isPermaLink="false">article:1175</guid>
+            <pubDate></pubDate>
+            <updated>2025-04-27T02:53:04Z</updated>
+                
+                
+            <content:encoded>
+                <![CDATA[
+                    
+                    更多讨论：https://news.ycombinator.com/item?id=43799697
+                ]]>
+            </content:encoded>
+        </item>
+        
+        <item>
+            <id>article:1174</id>
+            <title>你的手机并没有监听你，但真实情况令人不安</title>
+            <link>https://dizkaz.com/articles/1174</link>
+            <guid isPermaLink="false">article:1174</guid>
+            <pubDate></pubDate>
+            <updated>2025-04-27T01:44:14Z</updated>
+                
+                
+            <content:encoded>
+                <![CDATA[
+                    
+                    更多讨论：https://news.ycombinator.com/item?id=43799802
+                ]]>
+            </content:encoded>
+        </item>
+        
+        <item>
+            <id>article:1173</id>
+            <title>自己业余写的操作系统在老式 IBM ThinkPad 上跑起来了</title>
+            <link>https://dizkaz.com/articles/1173</link>
+            <guid isPermaLink="false">article:1173</guid>
+            <pubDate></pubDate>
+            <updated>2025-04-27T01:21:21Z</updated>
+                
+                
+            <content:encoded>
+                <![CDATA[
+                    
+                    原帖：https://news.ycombinator.com/item?id=43803148
+                ]]>
+            </content:encoded>
+        </item>
+        
+        <item>
+            <id>article:1172</id>
+            <title>Pewdiepie：我安装了 Linux ，你也应该这么做</title>
+            <link>https://dizkaz.com/articles/1172</link>
+            <guid isPermaLink="false">article:1172</guid>
+            <pubDate></pubDate>
+            <updated>2025-05-01T05:55:18Z</updated>
+                
+                
+            <content:encoded>
+                <![CDATA[
+                    
+                    更多讨论：https://news.ycombinator.com/item?id=43808290
+                ]]>
+            </content:encoded>
+        </item>
+        
+        <item>
+            <id>article:1171</id>
+            <title>Berkeley Humanoid Lite：一款开源、可访问、可定制的 3D 打印人形机器人</title>
+            <link>https://dizkaz.com/articles/1171</link>
+            <guid isPermaLink="false">article:1171</guid>
+            <pubDate></pubDate>
+            <updated>2025-04-26T09:24:59Z</updated>
+                
+                
+            <content:encoded>
+                <![CDATA[
+                    
+                    更多讨论：https://news.ycombinator.com/item?id=43800002
+                ]]>
+            </content:encoded>
+        </item>
+        
+        <item>
+            <id>article:1170</id>
+            <title>GCC 15 释出</title>
+            <link>https://dizkaz.com/articles/1170</link>
+            <guid isPermaLink="false">article:1170</guid>
+            <pubDate></pubDate>
+            <updated>2025-04-25T23:52:18Z</updated>
+                
+                
+            <content:encoded>
+                <![CDATA[
+                    
+                    更多讨论：https://news.ycombinator.com/item?id=43792248
+                ]]>
+            </content:encoded>
+        </item>
+        
+        <item>
+            <id>article:1169</id>
+            <title>输入“/etc/h*sts”会破坏 Substack 的文本编辑器</title>
+            <link>https://dizkaz.com/articles/1169</link>
+            <guid isPermaLink="false">article:1169</guid>
+            <pubDate></pubDate>
+            <updated>2025-04-27T02:39:26Z</updated>
+                
+                
+            <content:encoded>
+                <![CDATA[
+                    
+                    更多讨论：https://news.ycombinator.com/item?id=43793526
+                ]]>
+            </content:encoded>
+        </item>
+        
+        <item>
+            <id>article:1167</id>
+            <title>日常使用 Linux 手机，但是为什么？</title>
+            <link>https://dizkaz.com/articles/1167</link>
+            <guid isPermaLink="false">article:1167</guid>
+            <pubDate></pubDate>
+            <updated>2025-04-24T23:46:50Z</updated>
+                
+                
+            <content:encoded>
+                <![CDATA[
+                    
+                    更多讨论：https://news.ycombinator.com/item?id=43779766
+                ]]>
+            </content:encoded>
+        </item>
+        
+        <item>
+            <id>article:1166</id>
+            <title>创建自己的联邦微博客</title>
+            <link>https://dizkaz.com/articles/1166</link>
+            <guid isPermaLink="false">article:1166</guid>
+            <pubDate></pubDate>
+            <updated>2025-04-24T23:42:17Z</updated>
+                
+                
+            <content:encoded>
+                <![CDATA[
+                    
+                    更多讨论：https://news.ycombinator.com/item?id=43780785
+                ]]>
+            </content:encoded>
+        </item>
+        
+        <item>
+            <id>article:1165</id>
+            <title>扎克伯格称社交媒体时代已经过去了</title>
+            <link>https://dizkaz.com/articles/1165</link>
+            <guid isPermaLink="false">article:1165</guid>
+            <pubDate></pubDate>
+            <updated>2025-04-24T23:33:41Z</updated>
+                
+                
+            <content:encoded>
+                <![CDATA[
+                    
+                    存档：https://archive.is/UnNjh
+更多讨论： https://news.ycombinator.com/item?id=43780377
+                ]]>
+            </content:encoded>
+        </item>
+        
+        <item>
+            <id>article:1164</id>
+            <title>给 GPLv2 声明中的地址写信</title>
+            <link>https://dizkaz.com/articles/1164</link>
+            <guid isPermaLink="false">article:1164</guid>
+            <pubDate></pubDate>
+            <updated>2025-04-24T23:20:37Z</updated>
+                
+                
+            <content:encoded>
+                <![CDATA[
+                    
+                    更多讨论：https://news.ycombinator.com/item?id=43781888
+                ]]>
+            </content:encoded>
+        </item>
+        
+        <item>
+            <id>article:1163</id>
+            <title>《侠盗猎车手：圣安地列斯》中一个 20 年的漏洞如何在 Windows 11 24H2 中浮现</title>
+            <link>https://dizkaz.com/articles/1163</link>
+            <guid isPermaLink="false">article:1163</guid>
+            <pubDate></pubDate>
+            <updated>2025-04-23T23:58:26Z</updated>
+                
+                
+            <content:encoded>
+                <![CDATA[
+                    
+                    更多讨论：https://news.ycombinator.com/item?id=43772311
+                ]]>
+            </content:encoded>
+        </item>
+        
+        <item>
+            <id>article:1162</id>
+            <title>React Compiler 候选版</title>
+            <link>https://dizkaz.com/articles/1162</link>
+            <guid isPermaLink="false">article:1162</guid>
+            <pubDate></pubDate>
+            <updated>2025-04-23T04:35:40Z</updated>
+                
+                
+            <content:encoded>
+                <![CDATA[
+                    
+                    <p>Source: <a href="https://react.dev/blog/2025/04/21/react-compiler-rc">https://react.dev/blog/2025/04/21/react-compiler-rc</a></p>
+                ]]>
+            </content:encoded>
+        </item>
+        
+        <item>
+            <id>article:1161</id>
+            <title>如何快速给手机充电：快充技术详解</title>
+            <link>https://dizkaz.com/articles/1161</link>
+            <guid isPermaLink="false">article:1161</guid>
+            <pubDate></pubDate>
+            <updated>2025-04-23T01:15:35Z</updated>
+                
+                
+            <content:encoded>
+                <![CDATA[
+                    
+                    更多讨论：https://news.ycombinator.com/item?id=43766728
+                ]]>
+            </content:encoded>
+        </item>
+        
+        <item>
+            <id>article:1160</id>
+            <title>Solidjs：简单且高性能、响应式的构建用户界面</title>
+            <link>https://dizkaz.com/articles/1160</link>
+            <guid isPermaLink="false">article:1160</guid>
+            <pubDate></pubDate>
+            <updated>2025-04-23T01:12:38Z</updated>
+                
+                
+            <content:encoded>
+                <![CDATA[
+                    
+                    更多讨论：https://news.ycombinator.com/item?id=43734911
+                ]]>
+            </content:encoded>
+        </item>
+        
+        <item>
+            <id>article:1157</id>
+            <title>开源项目被微软分叉</title>
+            <link>https://dizkaz.com/articles/1157</link>
+            <guid isPermaLink="false">article:1157</guid>
+            <pubDate></pubDate>
+            <updated>2025-04-22T00:56:03Z</updated>
+                
+                
+            <content:encoded>
+                <![CDATA[
+                    
+                    更多讨论：https://news.ycombinator.com/item?id=43750535
+                ]]>
+            </content:encoded>
+        </item>
+        
+        <item>
+            <id>article:1156</id>
+            <title>我如何使用Kate编辑器</title>
+            <link>https://dizkaz.com/articles/1156</link>
+            <guid isPermaLink="false">article:1156</guid>
+            <pubDate></pubDate>
+            <updated>2025-04-22T00:10:47Z</updated>
+                
+                
+            <content:encoded>
+                <![CDATA[
+                    
+                    更多讨论：https://news.ycombinator.com/item?id=43746433
+                ]]>
+            </content:encoded>
+        </item>
+        
+        <item>
+            <id>article:1155</id>
+            <title>谷歌推出能在消费级显卡上运行的 Gemma3 QAT 模型</title>
+            <link>https://dizkaz.com/articles/1155</link>
+            <guid isPermaLink="false">article:1155</guid>
+            <pubDate></pubDate>
+            <updated>2025-04-21T01:24:35Z</updated>
+                
+                
+            <content:encoded>
+                <![CDATA[
+                    
+                    更多讨论：https://news.ycombinator.com/item?id=43743337
+                ]]>
+            </content:encoded>
+        </item>
+        
+        <item>
+            <id>article:1154</id>
+            <title>Moonlight：用任意设备远程串流游玩 PC 游戏</title>
+            <link>https://dizkaz.com/articles/1154</link>
+            <guid isPermaLink="false">article:1154</guid>
+            <pubDate></pubDate>
+            <updated>2025-04-17T03:13:13Z</updated>
+                
+                
+            <content:encoded>
+                <![CDATA[
+                    
+                    <p>Source: <a href="https://moonlight-stream.org/">https://moonlight-stream.org/</a></p>
+                ]]>
+            </content:encoded>
+        </item>
+        
+    </channel>
+</rss>

@@ -1,0 +1,178 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
+    <channel>
+        <title>ACM SIGMOD Blog</title>
+        <link>https://wp.sigmod.org</link>
+        
+        <item>
+            <id>https://wp.sigmod.org/?p=3820</id>
+            <title>Data Exploration and Visual Analytics Challenges in AI Era</title>
+            <link>https://wp.sigmod.org/?p=3820</link>
+            <guid isPermaLink="false">https://wp.sigmod.org/?p=3820</guid>
+            <pubDate></pubDate>
+            <updated>Thu, 16 Jan 2025 07:39:28 +0000</updated>
+                
+                
+            <content:encoded>
+                <![CDATA[
+                    
+                    The International Workshop on Big Data Visual Exploration and Analytics (BigVis) is an annual event, which brings together scholars from the communities of Data Management &#38; Mining, Information Visualization, Machine Learning and Human-Computer Interaction. The 7th BigVis event (BigVis 2024)1 was organized in conjunction with the 50th International Conference on Very Large Databases (VLDB 2024) [&#8230;]
+                ]]>
+            </content:encoded>
+        </item>
+        
+        <item>
+            <id>https://wp.sigmod.org/?p=3813</id>
+            <title>Large Language Models, Knowledge Graphs, and Vector Databases: Synergy and Opportunities for Data Management (A Report on the LLM+KG@VLDB24 Workshop’s Panel Discussion)</title>
+            <link>https://wp.sigmod.org/?p=3813</link>
+            <guid isPermaLink="false">https://wp.sigmod.org/?p=3813</guid>
+            <pubDate></pubDate>
+            <updated>Fri, 22 Nov 2024 04:28:26 +0000</updated>
+                
+                
+            <content:encoded>
+                <![CDATA[
+                    
+                    Introduction Large language models (LLMs) and vector databases (Vector DBs) are becoming two vital enablers of generative AI (GenAI), a form of artificial intelligence that learns from massive datasets to generate new data, showcasing human-like creativity in text, images to code, speech, and video. In particular, LLMs are currently revolutionizing the field of natural language [&#8230;]
+                ]]>
+            </content:encoded>
+        </item>
+        
+        <item>
+            <id>https://wp.sigmod.org/?p=3801</id>
+            <title>Where Does Database Research Go From Here?</title>
+            <link>https://wp.sigmod.org/?p=3801</link>
+            <guid isPermaLink="false">https://wp.sigmod.org/?p=3801</guid>
+            <pubDate></pubDate>
+            <updated>Thu, 10 Oct 2024 08:38:25 +0000</updated>
+                
+                
+            <content:encoded>
+                <![CDATA[
+                    
+                    The&#160;past few years of generative AI have upended research agendas across academia. Having just spent my sabbatical in the Bay Area, where the San Francisco fog is mixed with a tinge of forest fire and LLMs, I wanted to reflect on the role of the academic database research community within this sea change from the [&#8230;]
+                ]]>
+            </content:encoded>
+        </item>
+        
+        <item>
+            <id>https://wp.sigmod.org/?p=3760</id>
+            <title>Auditing bias of recourse in classifiers (part II)</title>
+            <link>https://wp.sigmod.org/?p=3760</link>
+            <guid isPermaLink="false">https://wp.sigmod.org/?p=3760</guid>
+            <pubDate></pubDate>
+            <updated>Wed, 25 Sep 2024 16:10:04 +0000</updated>
+                
+                
+            <content:encoded>
+                <![CDATA[
+                    
+                    Introduction  Fairness is a fundamental principle reflecting our innate sense of justice and equity. The essence of fairness lies in the equitable, unbiased and just treatment of all individuals.  In our previous post (part I), we provided an introduction to the bias of recourse problem. In this post (part II), we describe our framework for [&#8230;]
+                ]]>
+            </content:encoded>
+        </item>
+        
+        <item>
+            <id>https://wp.sigmod.org/?p=3739</id>
+            <title>Time Series Anomaly Detection</title>
+            <link>https://wp.sigmod.org/?p=3739</link>
+            <guid isPermaLink="false">https://wp.sigmod.org/?p=3739</guid>
+            <pubDate></pubDate>
+            <updated>Tue, 16 Jul 2024 13:38:27 +0000</updated>
+                
+                
+            <content:encoded>
+                <![CDATA[
+                    
+                    What it is, how it works, where we are, and where we are heading Anomaly detection is an important problem in data analytics with applications in many domains. In recent years, there has been an increasing interest in anomaly detection tasks applied to time series. In this post, we take a holistic view on anomaly [&#8230;]
+                ]]>
+            </content:encoded>
+        </item>
+        
+        <item>
+            <id>https://wp.sigmod.org/?p=3726</id>
+            <title>Auditing bias of recourse in classifiers (part I)</title>
+            <link>https://wp.sigmod.org/?p=3726</link>
+            <guid isPermaLink="false">https://wp.sigmod.org/?p=3726</guid>
+            <pubDate></pubDate>
+            <updated>Wed, 19 Jun 2024 17:18:57 +0000</updated>
+                
+                
+            <content:encoded>
+                <![CDATA[
+                    
+                    Introduction  Fairness is a fundamental principle reflecting our innate sense of justice and equity. The essence of fairness lies in the equitable, unbiased and just treatment of all individuals. Nevertheless, translating this principle to specific rules, people, and systems can adhere to is highly context specific, with context meaning, social and cultural circumstances, as well [&#8230;]
+                ]]>
+            </content:encoded>
+        </item>
+        
+        <item>
+            <id>https://wp.sigmod.org/?p=3707</id>
+            <title>The Case for Cardinality Bounds: Principled Conservatism in Query Optimization</title>
+            <link>https://wp.sigmod.org/?p=3707</link>
+            <guid isPermaLink="false">https://wp.sigmod.org/?p=3707</guid>
+            <pubDate></pubDate>
+            <updated>Wed, 13 Sep 2023 10:47:59 +0000</updated>
+                
+                
+            <content:encoded>
+                <![CDATA[
+                    
+                    Introduction In the last decade, the database community has identified cardinality estimation as the primary stumbling block for modern query optimizers.&#160; Cardinality estimates, which estimate the size of sub-plan queries, are the primary basis for choosing between query plans, so poor estimates may result in catastrophic query execution plans. Research on this topic has consistently [&#8230;]
+                ]]>
+            </content:encoded>
+        </item>
+        
+        <item>
+            <id>https://wp.sigmod.org/?p=3657</id>
+            <title>Utilizing the Synergy between Query Refinement and View Recommendation for Visual Data Exploration</title>
+            <link>https://wp.sigmod.org/?p=3657</link>
+            <guid isPermaLink="false">https://wp.sigmod.org/?p=3657</guid>
+            <pubDate></pubDate>
+            <updated>Thu, 16 Feb 2023 12:48:00 +0000</updated>
+                
+                
+            <content:encoded>
+                <![CDATA[
+                    
+                    In this blog, we discuss the potential benefits of augmenting automated view recommendation solutions with query refinement techniques towards achieving insightful data exploration. Particularly, effective data exploration has been fueled by many approaches that rely on either view recommendation or query refinement, as two separate and independent techniques for gaining valuable insights from data. In [&#8230;]
+                ]]>
+            </content:encoded>
+        </item>
+        
+        <item>
+            <id>https://wp.sigmod.org/?p=3624</id>
+            <title>Why Uncertainty is Unavoidable and What We Can Do About That</title>
+            <link>https://wp.sigmod.org/?p=3624</link>
+            <guid isPermaLink="false">https://wp.sigmod.org/?p=3624</guid>
+            <pubDate></pubDate>
+            <updated>Tue, 24 Jan 2023 13:21:12 +0000</updated>
+                
+                
+            <content:encoded>
+                <![CDATA[
+                    
+                    Uncertainty arises naturally in many application domains due to measurement errors, human error in data entry or transformation, missing data and bias in data collection, and many other reasons. When uncertainty is ignored during data preprocessing and analysis, this leads to hard to trace errors which can have severe real world implications such as false incarcerations [&#8230;]
+                ]]>
+            </content:encoded>
+        </item>
+        
+        <item>
+            <id>https://wp.sigmod.org/?p=3616</id>
+            <title>Similarity Search for Scalable Data Science: The Past, Present and Exciting Road Ahead</title>
+            <link>https://wp.sigmod.org/?p=3616</link>
+            <guid isPermaLink="false">https://wp.sigmod.org/?p=3616</guid>
+            <pubDate></pubDate>
+            <updated>Thu, 29 Dec 2022 12:43:10 +0000</updated>
+                
+                
+            <content:encoded>
+                <![CDATA[
+                    
+                    Similarity search is a fundamental building block for a myriad of critical data science applications involving large collections of high-dimensional objects, including data discovery, data cleaning, information retrieval, classification, outlier detection and clustering. Similarity search finds objects in a collection close to a given query according to some definition of sameness. This challenging problem has [&#8230;]
+                ]]>
+            </content:encoded>
+        </item>
+        
+    </channel>
+</rss>

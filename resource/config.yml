@@ -1,70 +1,599 @@
-休息的时候看:
-- htmlUrl: https://www.youtube.com/channel/UCghLs6s95LrBWOdlZUCH4qw
-  name: 4544cf
-  text: stone记
-  url: https://www.youtube.com/feeds/videos.xml?channel_id=UCghLs6s95LrBWOdlZUCH4qw
-- htmlUrl: https://www.youtube.com/channel/UCMUnInmOkrWN4gof9KlhNmQ
-  name: 06044f
-  text: KUAIZERO
-  url: https://www.youtube.com/feeds/videos.xml?channel_id=UCMUnInmOkrWN4gof9KlhNmQ
-想买东西:
-- htmlUrl: https://digi.ithome.com/
-  name: 2c6c73
-  text: IT 之家 | 数码
-  url: https://rsshub.dcts.top/ithome/digi
-  filters:
-    - type: exclude
-      field: title
-      keywords: ["AMD", "惠普", "荣耀", "华为", "中兴", "Pixel", "显卡", "影石", "微星", "iQOO"]
-- htmlUrl: http://www.smzdm.com
-  name: c5738f
-  text: 什么值得买 | 优惠精选
-  url: http://feed.smzdm.com
-  filters:
-    - type: include
-      field: title
-      keywords: ["可乐", "雪碧", "芬达", "柠檬", "茶叶", "纸巾", "酒精", "湿纸巾", "餐巾纸", "垃圾袋", "玩具", "水果", "拼多多", "鼠标"]
-空闲的时候学会儿东西:
-- htmlUrl: https://www.36kr.com/information/web_news
-  name: 908fa3
-  text: 36氪 | 互联网
-  url: https://rsshub.dcts.top/36kr/information/web_news
-  use_chatgpt: True
-  filters:
-    - type: include
-      field: title
-      keywords: ["美团", "阿里", "阿里巴巴", "百度", "特斯拉", "苹果", "Apple", "微软", "拼多多", "bilibili", "B站", "互联网", "字节跳动", "张一鸣", "王兴", "bytedance", "抖音", "腾讯"]
-- htmlUrl: https://www.36kr.com/information/technology
-  name: 392e02
-  text: 36氪 | 科技
-  url: https://rsshub.dcts.top/36kr/information/technology
-  use_chatgpt: True
-- htmlUrl: https://www.jiqizhixin.com
-  name: de7614
-  text: 机器之心
-  url: https://rsshub.dcts.top/wechat/ce/5b0cc833f3a2e44bb474843d
-  use_chatgpt: True
-- htmlUrl: https://sspai.com/matrix
-  name: 5270ca
-  text: 少数派 | Matrix
-  url: https://rsshub.dcts.top/sspai/matrix
-  use_chatgpt: True
-- htmlUrl: https://sspai.com/
-  name: 7fc66f
-  text: 少数派 | 推荐
-  url: https://rsshub.dcts.top/sspai/index
-  use_chatgpt: True
-- htmlUrl: https://m.okjike.com/topics/63579abb6724cc583b9bba9a
-  name: 9d9e0d
-  text: 即刻 | AIGC
-  url: https://rsshub.dcts.top/jike/topic/text/63579abb6724cc583b9bba9a
-- htmlUrl: http://www.ruanyifeng.com/blog/
-  name: a120ad
-  text: 阮一峰的网络日志
-  url: http://feeds.feedburner.com/ruanyifeng
-  use_chatgpt: True
-- htmlUrl: https://baoyu.io/
-  name: 6ea678
-  text: 宝玉
-  url: https://baoyu.io/feed.xml
-  use_chatgpt: True
+AI:
+  - htmlUrl: https://newsoffice.mit.edu/topic/mitcomputer-science-and-artificial-intelligence-laboratory-csail-rss.xml
+    name: 0baef1
+    text: MIT News - Computer Science and Artificial Intelligence Laboratory (CSAIL)
+    url: https://web.mit.edu/newsoffice/topic/mitcomputers-rss.xml
+  - htmlUrl: https://deepmind.google/discover/blog/
+    name: 6ca627
+    text: DeepMind Blog
+    url: https://deepmind.google/blog/rss.xml
+  - htmlUrl: https://blog.openai.com/
+    name: "530126"
+    text: OpenAI Blog
+    url: https://blog.openai.com/rss/
+  - htmlUrl: http://blog.research.google/
+    name: fd56ea
+    text: Google AI Blog
+    url: https://blog.research.google/atom.xml
+  - htmlUrl: https://medium.com/pytorch?source=rss----512b8efdf2e7---4
+    name: d587e9
+    text: PyTorch - Medium
+    url: https://medium.com/feed/pytorch
+  - htmlUrl: http://yiding.9.cn/ac/2341
+    name: 2b130c
+    text: 微软研究院AI头条
+    url: http://feedmaker.kindle4rss.com/feeds/MSRAsia.weixin.xml
+  - htmlUrl: https://pytorch.org/
+    name: 346a1c
+    text: PyTorch Website
+    url: https://pytorch.org/feed
+  - htmlUrl: https://www.theguardian.com/technology/artificialintelligenceai
+    name: 1e376d
+    text: Artificial intelligence (AI) | The Guardian
+    url: https://www.guardian.co.uk/technology/artificialintelligenceai/rss
+  - htmlUrl: https://research.facebook.com/blog/ai/
+    name: ddee46
+    text: Facebook Research
+    url: https://research.fb.com/feed/
+  - htmlUrl: https://www.sciencedaily.com/news/computers_math/artificial_intelligence/
+    name: 6f1583
+    text: Artificial Intelligence News -- ScienceDaily
+    url: https://www.sciencedaily.com/rss/computers_math/artificial_intelligence.xml
+  - htmlUrl: https://www.reddit.com/r/artificial/
+    name: 4869b0
+    text: Artificial Intelligence
+    url: https://www.reddit.com/r/artificial/.rss
+  - htmlUrl: https://dzone.com/artificial-intelligence-tutorials-tools-news
+    name: 2410fd
+    text: DZone AI Zone
+    url: http://feeds.dzone.com/ai
+Business News:
+  - htmlUrl: https://avc.com/
+    name: de89c1
+    text: AVC
+    url: https://avc.com/feed/
+  - htmlUrl: https://justinjackson.ca/
+    name: f9f170
+    text: Articles
+    url: https://justinjackson.ca/feed
+  - htmlUrl: https://smallbiztrends.com/
+    name: a9a894
+    text: Small Business Trends
+    url: https://feeds.feedburner.com/SmallBusinessTrends?format=xml
+  - htmlUrl: http://www.youtube.com/user/ThisWeekIn
+    name: f9e778
+    text: This Week In Startups
+    url: https://www.youtube.com/feeds/videos.xml?channel_id=UCkkhmBWfS7pILYIk0izkc3A
+  - htmlUrl: https://tomtunguz.com/
+    name: c9fa1f
+    text: Tomasz Tunguz
+    url: https://tomtunguz.com/index.xml
+  - htmlUrl: https://feld.com/
+    name: de83c4
+    text: Feld Thoughts
+    url: https://feld.com/feed
+  - htmlUrl: https://www.onlyonceblog.com/
+    name: 18fc30
+    text: OnlyOnce
+    url: https://feeds.feedburner.com/Onlyonce
+  - htmlUrl: https://blog.asmartbear.com/
+    name: 8efb34
+    text: "@ASmartBear"
+    url: https://blog.asmartbear.com/feed
+  - htmlUrl: https://www.forentrepreneurs.com/
+    name: 15f731
+    text: For Entrepreneurs Blog
+    url: https://feeds.feedburner.com/forentrepreneurs
+  - htmlUrl: https://bothsidesofthetable.com/?source=rss----97f98e5df342---4
+    name: abc8a7
+    text: Both Sides of the Table — Medium
+    url: https://bothsidesofthetable.com/feed
+  - htmlUrl: https://www.kickstarter.com/blog
+    name: 71848f
+    text: The Kickstarter Blog
+    url: https://www.kickstarter.com/blog.atom
+  - htmlUrl: https://www.forbes.com/entrepreneurs/feed2/
+    name: f3d463
+    text: Forbes - Entrepreneurs
+    url: https://www.forbes.com/entrepreneurs/index.xml
+  - htmlUrl: https://blog.samaltman.com/
+    name: 4bb657
+    text: Sam Altman
+    url: https://blog.samaltman.com/posts.atom
+  - htmlUrl: http://www.inc.com/
+    name: f3717b
+    text: Inc.com
+    url: https://www.inc.com/rss/homepage.xml
+  - htmlUrl: http://venturebeat.com/
+    name: a2f9be
+    text: VentureBeat
+    url: https://venturebeat.com/feed/
+  - htmlUrl: https://www.entrepreneur.com/
+    name: 22f9fb
+    text: Entrepreneur
+    url: https://feeds.feedburner.com/entrepreneur/latest
+Global News:
+  - htmlUrl: http://chuansong.me/account/rmrbwx
+    name: ffeccc
+    text: 人民日报
+    url: http://feedmaker.kindle4rss.com/feeds/rmrbwx.weixin.xml
+  - htmlUrl: https://reutersnew.buzzing.cc/feed.json
+    name: "852226"
+    text: 路透社最新报道
+    url: https://reutersnew.buzzing.cc/feed.xml
+  - htmlUrl: https://feedx.net/rss/wsj.xml
+    name: ef9180
+    text: 华尔街日报
+    url: https://feedx.net/rss/wsj.xml
+  - htmlUrl: https://news.yahoo.com/topstories/
+    name: "388525"
+    text: Yahoo News - Top Stories
+    url: https://rss.news.yahoo.com/rss/topstories
+  - htmlUrl: https://www.telegraph.co.uk/
+    name: 42fae8
+    text: The Telegraph - Telegraph online, Daily Telegraph, Sunday Telegraph
+    url: https://www.telegraph.co.uk/rss
+  - htmlUrl: https://www.nbcnews.com/
+    name: a85425
+    text: NBC News Top Stories
+    url: https://feeds.nbcnews.com/nbcnews/public/news
+  - htmlUrl: https://abcnews.go.com/
+    name: ee0aa0
+    text: "ABC News: Top Stories"
+    url: https://feeds.abcnews.com/abcnews/topstories
+  - htmlUrl: https://www.foxnews.com/
+    name: 0f34f3
+    text: FOXNews.com
+    url: https://feeds.feedburner.com/foxnews/latest
+  - htmlUrl: https://www.independent.co.uk/news/?service=Rss
+    name: "766711"
+    text: Independent
+    url: https://www.independent.co.uk/rss
+  - htmlUrl: http://www.huffingtonpost.com/
+    name: b29a23
+    text: Huffington Post
+    url: https://www.huffpost.com/section/front-page/feed
+  - htmlUrl: https://www.washingtonpost.com/?wprss=rss_homepage
+    name: 7ae4fc
+    text: "Washington Post: Breaking News, World, US, DC News & Analysis"
+    url: https://feeds.washingtonpost.com/rss/world
+  - htmlUrl: https://www.theguardian.com/world
+    name: 2afd65
+    text: World news | The Guardian
+    url: https://feeds.guardian.co.uk/theguardian/world/rss
+  - htmlUrl: http://time.com/
+    name: 596fb9
+    text: TIME
+    url: https://time.com/feed/
+  - htmlUrl: https://www.cnn.com/index.html?eref=rss_topstories
+    name: 52527e
+    text: CNN – Top Stories
+    url: https://rss.cnn.com/rss/cnn_topstories.rss
+  - htmlUrl: http://news.google.com/news?pz=1&ned=us&hl=en&topic=h&num=3
+    name: 0c0f10
+    text: Top Stories - Google News
+    url: https://news.google.com/news/rss/?gl=US&ned=us&hl=en
+  - htmlUrl: https://www.nytimes.com/pages/index.html?partner=rss&emc=rss
+    name: 442cbd
+    text: The New York Times
+    url: https://www.nytimes.com/services/xml/rss/nyt/HomePage.xml
+  - htmlUrl: https://www.bbc.com
+    name: 442b39
+    text: BBC News
+    url: https://feeds.bbci.co.uk/news/rss.xml
+Market News:
+  - htmlUrl: https://www.thestreet.com/
+    name: 53c936
+    text: "The Street: Stock Market"
+    url: https://www.thestreet.com/.rss/full/
+  - htmlUrl: investing.com
+    name: 65684f
+    text: "Investing.com: Stock Market News"
+    url: https://www.investing.com/rss/news_25.rss
+  - htmlUrl: http://seekingalpha.com/
+    name: ac1879
+    text: "Seeking Alpha: Stock Market Analysis"
+    url: https://seekingalpha.com/feed.xml
+  - htmlUrl: https://www.cnbc.com/investing/
+    name: 7df549
+    text: "CNBC: Investing"
+    url: https://www.cnbc.com/id/15839069/device/rss/rss.html
+  - htmlUrl: http://www.fool.com/
+    name: "562200"
+    text: The Motley Fool
+    url: https://www.fool.com/a/feeds/foolwatch?format=rss2&id=foolwatch&apikey=foolwatch-feed
+  - htmlUrl: http://www.marketwatch.com/search/?query=&mode=Keyword&modeparam=91&siteid=rss
+    name: eac137
+    text: MarketWatch.com - MarketPulse
+    url: http://feeds.marketwatch.com/marketwatch/marketpulse/
+  - htmlUrl: https://www.ft.com/stream/sectionsId/NzE=-U2VjdGlvbnM=
+    name: 85edba
+    text: "Financial Times: Markets"
+    url: https://www.ft.com/markets?format=rss
+Science News:
+  - htmlUrl: https://www.futurity.org/
+    name: e752bd
+    text: Futurity.org
+    url: https://www.futurity.org/feed/
+  - htmlUrl: https://www.sciencedaily.com/
+    name: c84976
+    text: Latest Science News -- ScienceDaily
+    url: https://www.sciencedaily.com/rss/top.xml
+  - htmlUrl: https://www.livescience.com/feeds/all
+    name: dbfc93
+    text: Livescience.com
+    url: https://www.livescience.com/feeds/all
+  - htmlUrl: https://phys.org/
+    name: 1046c3
+    text: Phys.org - latest science and technology news stories
+    url: https://phys.org/rss-feed/
+  - htmlUrl: http://news.sciencemag.org/rss/current.xml
+    name: 2275de
+    text: News from Science
+    url: https://www.science.org/rss/news_current.xml
+  - htmlUrl: https://www.technologyreview.com/topnews.rss
+    name: e2dbd5
+    text: Top News - MIT Technology Review
+    url: https://www.technologyreview.com/topnews.rss
+  - htmlUrl: https://www.quantamagazine.org/
+    name: 5064bf
+    text: Quanta Magazine
+    url: https://api.quantamagazine.org/feed/
+  - htmlUrl: https://www.wired.com/category/science/latest
+    name: 6c7c31
+    text: Science Latest
+    url: https://www.wired.com/feed/category/science/latest/rss
+  - htmlUrl: https://www.nytimes.com/pages/science/index.html?partner=rss&emc=rss
+    name: 97bad0
+    text: NYT > Science
+    url: https://www.nytimes.com/services/xml/rss/nyt/Science.xml
+  - htmlUrl: https://www.newscientist.com/
+    name: e22644
+    text: New Scientist - Online news
+    url: https://feeds.newscientist.com/science-news
+  - htmlUrl: https://www.bbc.co.uk/news/science_and_environment/#sa-ns_mchannel=rss&ns_source=PublicRSS20-sa
+    name: 23eba0
+    text: BBC News - Science & Environment
+    url: https://newsrss.bbc.co.uk/rss/newsonline_world_edition/science/nature/rss.xml
+  - htmlUrl: http://www.popsci.com/rss.xml
+    name: 2033f0
+    text: Popular Science
+    url: https://www.popsci.com/feed/
+  - htmlUrl: http://www.economist.com/
+    name: 04d0c6
+    text: "The Economist: Science and technology"
+    url: https://www.economist.com/science-and-technology/rss.xml
+  - htmlUrl: https://www.scientificamerican.com/
+    name: fd8af6
+    text: "Scientific American Content: Global"
+    url: https://www.scientificamerican.com/platform/syndication/rss/
+  - htmlUrl: http://www.ted.com/talks/list
+    name: e4bad8
+    text: TEDTalks (video)
+    url: https://www.ted.com/feeds/talks.rss
+Tech News:
+  - htmlUrl: https://www.producthunt.com/
+    name: 5164cf
+    text: Product Hunt — The best new products, every day
+    url: https://www.producthunt.com/feed
+  - htmlUrl: https://sspai.com/feed
+    name: a501ce
+    text: 少数派
+    url: https://sspai.com/feed
+  - htmlUrl: https://dizkaz.com/articles?sort=list_best
+    name: 66008f
+    text: DizKaz - Best
+    url: https://dizkaz.com/feed
+  - htmlUrl: https://www.reddit.com/r/technews/
+    name: 29d0c5
+    text: TECH NEWS
+    url: https://www.reddit.com/r/technews/.rss?
+  - htmlUrl: https://mashable.com/
+    name: 95f921
+    text: Mashable
+    url: https://mashable.com/feeds/rss/all
+  - htmlUrl: http://stackoverflow.blog/
+    name: e34274
+    text: Stack Overflow Blog
+    url: https://stackoverflow.blog/feed/
+  - htmlUrl: https://hn.buzzing.cc/
+    name: 9e527c
+    text: Hacker News 热门
+    url: https://hn.buzzing.cc/rss.xml
+  - htmlUrl: https://www.36kr.com/
+    name: 5aaf76
+    text: 36氪 | 关注互联网创业
+    url: https://www.36kr.com/feed
+  - htmlUrl: https://www.zhihu.com/billboard
+    name: 8792ea
+    text: 知乎热榜
+    url: https://rsshub.app/zhihu/daily
+  - htmlUrl: http://www.zhihu.com/
+    name: 3c757c
+    text: 知乎每日精选
+    url: https://zhihu.com/rss
+  - htmlUrl: https://medium.com/gigaom?source=rss----8ead2de2f3a6---4
+    name: fdd169
+    text: GigaOm - Medium
+    url: https://medium.com/feed/gigaom
+  - htmlUrl: https://techviral.net/
+    name: 5fb7e4
+    text: Tech Viral
+    url: https://techviral.net/feed/
+  - htmlUrl: http://www.techrepublic.com/
+    name: 8d9f81
+    text: Articles on TechRepublic
+    url: https://www.techrepublic.com/rssfeeds/articles/
+  - htmlUrl: https://www.nytimes.com/section/technology
+    name: "225394"
+    text: Technology
+    url: https://www.nytimes.com/svc/collections/v1/publish/https://www.nytimes.com/section/technology/rss.xml
+  - htmlUrl: http://www.techradar.com/us/rss
+    name: fa1ec6
+    text: Techradar - All the latest technology news
+    url: https://www.techradar.com/rss
+  - htmlUrl: https://www.geekwire.com/
+    name: a0b2e2
+    text: GeekWire
+    url: https://www.geekwire.com/feed/
+  - htmlUrl: http://www.digitaltrends.com
+    name: "746878"
+    text: Digital Trends
+    url: https://www.digitaltrends.com/feed/
+  - htmlUrl: http://mashable.com/category/tech/?utm_campaign=Mash-Prod-RSS-Feedburner-Tech-Partial&utm_cid=Mash-Prod-RSS-Feedburner-Tech-Partial&utm_medium=feed&utm_source=rss
+    name: 32d648
+    text: Tech
+    url: http://feeds.mashable.com/mashable/tech
+  - htmlUrl: https://futurism.com/
+    name: 7970ed
+    text: Futurism
+    url: https://futurism.com/feed
+  - htmlUrl: https://www.theinformation.com/
+    name: 120e9a
+    text: The Information
+    url: https://www.theinformation.com/feed
+  - htmlUrl: https://slashdot.org/
+    name: ee9e86
+    text: Slashdot
+    url: https://rss.slashdot.org/Slashdot/slashdotMain
+  - htmlUrl: http://news.cnet.com/
+    name: b61ffa
+    text: CNET News.com
+    url: https://www.cnet.com/rss/news/
+  - htmlUrl: https://9to5mac.com/
+    name: 5977a6
+    text: 9to5Mac
+    url: https://9to5mac.com/feed/
+  - htmlUrl: https://thenextweb.com/
+    name: c92c66
+    text: The Next Web
+    url: https://feeds2.feedburner.com/thenextweb
+  - htmlUrl: https://www.macrumors.com/
+    name: 25c954
+    text: "MacRumors: Mac News and Rumors - Front Page"
+    url: https://www.macrumors.com/macrumors.xml
+  - htmlUrl: https://news.ycombinator.com/
+    name: adb7ca
+    text: Hacker News
+    url: https://news.ycombinator.com/rss
+  - htmlUrl: http://techcrunch.com/
+    name: 61564f
+    text: TechCrunch
+    url: https://techcrunch.com/feed/
+  - htmlUrl: https://www.wired.com/
+    name: "010216"
+    text: WIRED
+    url: https://www.wired.com/feed/rss
+  - htmlUrl: http://www.theverge.com/
+    name: 196f73
+    text: The Verge -  All Posts
+    url: https://www.theverge.com/rss/index.xml
+  - htmlUrl: https://arstechnica.com/
+    name: 2d3794
+    text: Ars Technica
+    url: https://feeds.arstechnica.com/arstechnica/index
+  - htmlUrl: http://www.engadget.com/
+    name: b95ff3
+    text: Engadget
+    url: https://www.engadget.com/rss.xml
+  - htmlUrl: https://dzone.com/
+    name: 9cbf2d
+    text: DZone.com Feed
+    url: https://feeds.dzone.com/home
+  - htmlUrl: https://dzone.com/devops-tutorials-tools-news
+    name: f4e981
+    text: DZone DevOps Zone
+    url: https://feeds.dzone.com/devops
+  - htmlUrl: https://www.reddit.com/r/dataengineering/
+    name: edf52f
+    text: Data Engineering
+    url: https://www.reddit.com/r/dataengineering/.rss
+  - htmlUrl: https://dzone.com/microservices-news-tutorials-tools
+    name: ca54c9
+    text: DZone Microservices Zone
+    url: https://feeds.dzone.com/microservices
+  - htmlUrl: https://dzone.com/apm-tools-performance-monitoring-optimization
+    name: 94eca9
+    text: DZone Performance Zone
+    url: https://feeds.dzone.com/performance
+个人blog:
+  - htmlUrl: https://www.bmpi.dev
+    name: 1a8870
+    text: 构建我的被动收入
+    url: https://www.bmpi.dev/index.xml
+  - htmlUrl: https://ruanyifeng.com/blog/
+    name: cb1169
+    text: 阮一峰的网络日志
+    url: https://ruanyifeng.com/blog/atom.xml
+公司blog:
+  - htmlUrl: http://www.youtube.com/channel/UCjYTlrKh4XuEcFQHAqdCVhg
+    name: 4887e9
+    text: LinkedIn Engineering
+    url: https://www.youtube.com/feeds/videos.xml?channel_id=UCjYTlrKh4XuEcFQHAqdCVhg
+  - htmlUrl: https://www.uber.com/
+    name: b1b4dc
+    text: Engineering &#8211; Uber Blog
+    url: https://www.uber.com/blog/engineering/rss/
+  - htmlUrl: https://engineering.fb.com/
+    name: 22ddc3
+    text: Facebook Engineering
+    url: https://engineering.fb.com/feed/
+  - htmlUrl: http://techblog.netflix.com/
+    name: d676c0
+    text: The Netflix Tech Blog
+    url: https://techblog.netflix.com/feeds/posts/default
+  - htmlUrl: https://tech.dropbox.com/
+    name: 590c9e
+    text: Dropbox Tech Blog
+    url: https://tech.dropbox.com/feed/
+  - htmlUrl: https://developers.facebook.com/blog/
+    name: bbf40b
+    text: Facebook Developers
+    url: https://developers.facebook.com/blog/feed
+  - htmlUrl: http://googledevelopers.blogspot.com/
+    name: e3b645
+    text: Google Developers Blog
+    url: http://feeds.feedburner.com/blogspot/Dcni
+  - htmlUrl: https://medium.com/pinterest-engineering?source=rss----4c5a5f6279b6---4
+    name: c44f08
+    text: Pinterest Engineering Blog - Medium
+    url: https://medium.com/feed/pinterest-engineering
+  - htmlUrl: https://www.uber.com/
+    name: a8a2a0
+    text: Engineering | Uber Blog
+    url: https://www.uber.com/en-HK/blog/engineering/rss/
+  - htmlUrl: https://dgraph.io/blog/
+    name: e0643f
+    text: Dgraph Blog
+    url: https://dgraph.io/blog/index.xml
+  - htmlUrl: http://queue.acm.org/Curmudgeon
+    name: 7d7370
+    text: ACM Queue - All Queue Content
+    url: https://queue.acm.org/rss/feeds/queuecontent.xml
+  - htmlUrl: https://cloud.google.com/blog/
+    name: 3e477e
+    text: Cloud Blog
+    url: https://cloudblog.withgoogle.com/rss/
+  - htmlUrl: https://eng.lyft.com/?source=rss----25cd379abb8---4
+    name: 20ab23
+    text: Lyft Engineering — Medium
+    url: https://eng.lyft.com/feed
+  - htmlUrl: https://medium.com/@Pinterest_Engineering?source=rss-ef81ef829bcb------2
+    name: b8b441
+    text: Stories by Pinterest Engineering on Medium
+    url: https://medium.com/feed/@Pinterest_Engineering
+  - htmlUrl: https://instagram-engineering.com/?source=rss----37dc2a3034f2---4
+    name: 021789
+    text: Instagram Engineering - Medium
+    url: https://instagram-engineering.com/feed
+  - htmlUrl: https://netflixtechblog.com/?source=rss----2615bd06b42e---4
+    name: 34077f
+    text: Netflix TechBlog - Medium
+    url: https://netflixtechblog.com/feed
+  - htmlUrl: https://aws.amazon.com/blogs/aws/
+    name: d2c025
+    text: AWS Official Blog
+    url: https://aws.amazon.com/blogs/aws/feed/
+  - htmlUrl: http://tech.youzan.com/
+    name: 62ea63
+    text: 有赞技术团队
+    url: https://tech.youzan.com/rss/
+  - htmlUrl: https://tech.meituan.com/feed/
+    name: 68d85e
+    text: 美团技术团队
+    url: https://tech.meituan.com/feed/
+  - htmlUrl: https://juejin.cn/user/1838039172387262/posts
+    name: b99df4
+    text: 掘金专栏-字节跳动技术团队
+    url: https://rsshub.app/juejin/posts/1838039172387262
+创业:
+  - htmlUrl: https://techcrunch.com
+    name: f944d1
+    text: Startups – TechCrunch
+    url: https://techcrunch.com/startups/feed/
+  - htmlUrl: https://www.itjuzi.com/bulletin
+    name: 491dcf
+    text: IT桔子
+    url: https://www.itjuzi.com/api/telegraph.xml
+  - htmlUrl: https://startupnation.com/
+    name: 1a1df9
+    text: StartupNation
+    url: https://startupnation.com/feed
+  - htmlUrl: https://www.killerstartups.com/
+    name: fce13e
+    text: KillerStartups
+    url: https://www.killerstartups.com/feed/
+  - htmlUrl: https://steveblank.com/
+    name: 5fc9bc
+    text: Steve Blank
+    url: https://steveblank.com/feed/
+  - htmlUrl: https://www.fastcompany.com//www.fastcompany.com
+    name: ef58ca
+    text: Fast Company
+    url: https://www.fastcompany.com/rss.xml
+存储:
+  - htmlUrl: https://www.infoq.com/
+    name: d60b18
+    text: InfoQ - AI, ML & Data Engineering
+    url: https://feed.infoq.com/ai-ml-data-eng/
+  - htmlUrl: https://link.springer.com
+    name: 81796b
+    text: Latest Results for The VLDB Journal
+    url: https://link.springer.com/search.rss?facet-content-type=Article&facet-journal-id=778&channel-name=The%20VLDB%20Journal
+  - htmlUrl: https://wp.sigmod.org/
+    name: 9c450a
+    text: ACM SIGMOD Blog
+    url: https://wp.sigmod.org/?feed=rss2
+  - htmlUrl: http://sniablog.org/
+    name: f55dab
+    text: SNIA on Storage
+    url: http://sniablog.org/?feed=rss2
+  - htmlUrl: https://www.youtube.com/channel/UC4-GrpQBx6WCGwmwozP744Q/videos
+    name: 8e1872
+    text: USENIXAssociation
+    url: https://www.youtube.com/feeds/videos.xml?channel_id=UC4-GrpQBx6WCGwmwozP744Q
+  - htmlUrl: https://www.reddit.com/r/bigdata/
+    name: e1a48a
+    text: Everything big data from storage to predictive analytics
+    url: https://www.reddit.com/r/bigdata/.rss
+  - htmlUrl: https://aws.amazon.com/blogs/storage/
+    name: 28da3e
+    text: AWS Storage Blog
+    url: https://aws.amazon.com/blogs/storage/feed/
+  - htmlUrl: https://aws.amazon.com/blogs/database/
+    name: 1d739b
+    text: AWS Database Blog
+    url: https://aws.amazon.com/blogs/database/feed
+  - htmlUrl: https://www.reddit.com/r/storage/
+    name: a11a1a
+    text: Data Storage News and Information
+    url: https://www.reddit.com/r/storage/.rss?
+  - htmlUrl: http://www.percona.com/blog
+    name: dc8d0e
+    text: MySQL Performance Blog
+    url: https://www.percona.com/blog/feed/
+  - htmlUrl: https://www.scylladb.com/
+    name: c1f011
+    text: ScyllaDB
+    url: https://www.scylladb.com/feed/
+  - htmlUrl: https://www.dataengineeringweekly.com/
+    name: 10c5ca
+    text: Data Engineering Weekly
+    url: https://www.dataengineeringweekly.com/feed/
+  - htmlUrl: https://dzone.com/cloud-computing-tutorials-tools-news
+    name: d2c8a9
+    text: DZone Cloud Zone
+    url: https://feeds.dzone.com/cloud
+  - htmlUrl: https://dzone.com/big-data-analytics-tutorials-tools-news
+    name: 5f7c92
+    text: DZone Big Data Zone
+    url: https://feeds.dzone.com/big-data
+  - htmlUrl: https://dzone.com/database-sql-nosql-tutorials-tools-news
+    name: 19816c
+    text: DZone Database Zone
+    url: https://feeds.dzone.com/database
+操作系统:
+  - htmlUrl: https://lwn.net/
+    name: 102d12
+    text: LWN.net
+    url: https://lwn.net/headlines/newrss
